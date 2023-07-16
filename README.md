@@ -1,4 +1,4 @@
-# Dynamic-Pokemon-Expansion [FR]
+# Dynamic-Pokemon-Expansion [FR] with gen 9 and more , being worked by my friends and me.
 
 ## What is this:
 A dynamic data insertion tool for expanding Pokemon data in FireRed.
