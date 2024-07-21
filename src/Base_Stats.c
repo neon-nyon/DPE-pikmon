@@ -44193,7 +44193,7 @@ const struct BaseStats gBaseStats[] =
 		.ability1 = ABILITY_SCRAPPY,
 		.ability2 = ABILITY_TANGLEDFEET,
 		.safariZoneFleeRate = 0,
-		.hiddenAbility = ABILITY_CURIOUSMEDICINE, // Costar
+		.hiddenAbility = ABILITY_POWEROFALCHEMY, // Costar
 		.noFlip = TRUE,
 	},
 
