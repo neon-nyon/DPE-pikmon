@@ -12563,7 +12563,6 @@ const struct AlternateDexEntries gAlternateDexEntries[] =
 
 const struct AlternateDexEntries gAlternateDexCategories[] =
 {
-	ALTERNATE_DEX_CATEGORY(HOOPA_UNBOUND),
 	ALTERNATE_DEX_CATEGORY(CALYREX_ICE_RIDER),
 	ALTERNATE_DEX_CATEGORY(CALYREX_SHADOW_RIDER),
 	ALTERNATE_DEX_CATEGORY(PONYTA_G),
