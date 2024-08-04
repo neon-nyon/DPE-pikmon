@@ -8,11 +8,11 @@ A dynamic data insertion tool for expanding Pokemon data in FireRed.
 * Support for as many different Pokemon (regular Pokemon, forms, etc.) as you'd like.
 * Support for different gendered forms.
 * Support for different form Pokedex entries like in Sun/Moon.
-* Support for up to 999 different Pokedex entries (not including alternate forms).
+* Support for up to 1025 different Pokedex entries (not including alternate forms).
 * Support for FRLG habitats.
 * Support for Pokemon sprite and icon insertion.
 * Support for cry insertion.
-* Support for up to 128 TM/HM's and 128 Move Tutors
+* Support for up to 128 TM/HM's and 152 Move Tutors
 
 **NOTE** It is highly recommended to apply the [Complete Fire Red Upgrade](https://github.com/Skeli789/Complete-Fire-Red-Upgrade) following the insertion of this hack. Otherwise, make sure to comment out the  line ``#define EXPAND_LEARNSETS`` in the defines file or your game will crash (unless you have expanded movesets manually).  Additionally, if you're **not** using the Complete Fire Red Upgrade, in [bytereplacement](https://github.com/Skeli789/Dynamic-Pokemon-Expansion/blob/master/bytereplacement), find the changes for the seen  and caught flag ram, and change it to some free  save space. Make sure to apply a saveblock hack first and a TM/Tutor expansion first, though.
 
