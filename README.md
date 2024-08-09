@@ -1,4 +1,8 @@
-# Dynamic-Pokemon-Expansion [FR] with gen 9 and more , being worked by my friends and me.
+# Dynamic Pokemon Expansion (added Gen 9)
+#### This branch is 99% complete , just poltchageist and Sinistcha are missing form sprites so for convience we've added their sprites as their form sprites. Soon that will be complete as well.
+## Main Contributors
+Zake , Axel Loquendo and The-Code-Mining-Hub (TCMH) people. (discord link - https://discord.com/invite/CDted4ytpn ) 
+#### 'We love your support. - TCMH'
 
 ## What is this:
 A dynamic data insertion tool for expanding Pokemon data in FireRed.
