@@ -16818,7 +16818,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_OGERPON_WELLSPRING_TERASTAL =
+	[SPECIES_OGERPON_WELLSPRING_TERASTAL] =
 	{	
 		.type = 0x30,
 		.key = 0x3c,
