@@ -16842,7 +16842,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_OGERPON_CORNERSTONE_TERASTAL =
+	[SPECIES_OGERPON_CORNERSTONE_TERASTAL] =
 	{	
 		.type = 0x20,
 		.key = 0x3c,
