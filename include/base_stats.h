@@ -100,6 +100,9 @@ enum
 #define TYPE_BLANK	  0x14
 #define TYPE_FAIRY	  0x17
 
+//tera type (aún no disponible)
+//#define TYPE_STELLAR  0x18
+
 #define MON_MALE       0x00
 #define MON_FEMALE     0xFE
 #define MON_GENDERLESS 0xFF
