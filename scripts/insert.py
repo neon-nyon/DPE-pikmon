@@ -277,7 +277,7 @@ def ExpandROMTo32MB(rom_path):
         f.seek(0, os.SEEK_END)
         current_size = f.tell()
         if current_size >= TARGET_SIZE:
-            print(f"[✓] ROM is already {current_size // (1024 * 1024)}MB.")
+            print(f"[✓] ROM is already {current_size // (1024 * 1024)}MB! Good.")
             return
         padding = TARGET_SIZE - current_size
         f.write(b'\xFF' * padding)
