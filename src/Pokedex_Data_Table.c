@@ -11021,7 +11021,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 	[NATIONAL_DEX_OINKOLOGNE] =
 	{
 		.categoryName = {_H, _o, _g, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
-		.height = 1,
+		.height = 10,
 		.weight = 1200,
 		.description = DEX_ENTRY_OINKOLOGNE,
 		.unusedDescription = (const u8*) 0x8444cb1,
@@ -11047,7 +11047,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 	[NATIONAL_DEX_SPIDOPS] =
 	{
 		.categoryName = {_T, _r, _a, _p, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
-		.height = 1,
+		.height = 10,
 		.weight = 165,
 		.description = DEX_ENTRY_SPIDOPS,
 		.unusedDescription = (const u8*) 0x8444cb1,
