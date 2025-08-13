@@ -5,9 +5,9 @@
 const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 {
 	[SPECIES_NONE] =                 {gFrontSprite000NonePal, SPECIES_NONE, 0x0},
-	[SPECIES_BULBASAUR] =            {gFrontSprite001BulbasaurPal, SPECIES_BULBASAUR, 0x0},
-	[SPECIES_IVYSAUR] =              {gFrontSprite002IvysaurPal, SPECIES_IVYSAUR, 0x0},
-	[SPECIES_VENUSAUR] =             {gFrontSprite003VenusaurPal, SPECIES_VENUSAUR, 0x0},
+	[SPECIES_BULBLARVA] =            {gFrontSprite001BulbLarvaPal, SPECIES_BULBLARVA, 0x0},
+	[SPECIES_BULBORB] =              {gFrontSprite002BulborbPal, SPECIES_BULBORB, 0x0},
+	[SPECIES_JUMBOBORB] =             {gFrontSprite003JumboBorbPal, SPECIES_JUMBOBORB, 0x0},
 	[SPECIES_CHARMANDER] =           {gFrontSprite004CharmanderPal, SPECIES_CHARMANDER, 0x0},
 	[SPECIES_CHARMELEON] =           {gFrontSprite005CharmeleonPal, SPECIES_CHARMELEON, 0x0},
 	[SPECIES_CHARIZARD] =            {gFrontSprite006CharizardPal, SPECIES_CHARIZARD, 0x0},
@@ -874,7 +874,7 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_FURFROU_DANDY] =        {gFrontSprite866FurfrouDandyPal, SPECIES_FURFROU_DANDY, 0x0},
 	[SPECIES_FURFROU_DEBUTANTE] =    {gFrontSprite867FurfrouDebutantePal, SPECIES_FURFROU_DEBUTANTE, 0x0},
 	[SPECIES_VIVILLON_FANCY] =       {gFrontSprite868VivillonFancyPal, SPECIES_VIVILLON_FANCY, 0x0},
-	[SPECIES_VENUSAUR_MEGA] =        {gFrontSprite869VenusaurMegaPal, SPECIES_VENUSAUR_MEGA, 0x0},
+	[SPECIES_JUMBOBORB_MEGA] =        {gFrontSprite869VenusaurMegaPal, SPECIES_JUMBOBORB_MEGA, 0x0},
 	[SPECIES_CHARIZARD_MEGA_X] =     {gFrontSprite870CharizardMegaXPal, SPECIES_CHARIZARD_MEGA_X, 0x0},
 	[SPECIES_CHARIZARD_MEGA_Y] =     {gFrontSprite871CharizardMegaYPal, SPECIES_CHARIZARD_MEGA_Y, 0x0},
 	[SPECIES_BLASTOISE_MEGA] =       {gFrontSprite872BlastoiseMegaPal, SPECIES_BLASTOISE_MEGA, 0x0},
@@ -1405,7 +1405,7 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_PECHARUNT] =            {gFrontSprite1401PecharuntPal, SPECIES_PECHARUNT, 0x0},
 	//New Species Go Here
 
-	[SPECIES_VENUSAUR_GIGA] =        {gFrontSpriteGigaVenusaurPal, SPECIES_VENUSAUR_GIGA, 0x0},
+	[SPECIES_JUMBOBORB_GIGA] =        {gFrontSpriteGigaVenusaurPal, SPECIES_JUMBOBORB_GIGA, 0x0},
 	[SPECIES_CHARIZARD_GIGA] =       {gFrontSpriteGigaCharizardPal, SPECIES_CHARIZARD_GIGA, 0x0},
 	[SPECIES_BLASTOISE_GIGA] =       {gFrontSpriteGigaBlastoisePal, SPECIES_BLASTOISE_GIGA, 0x0},
 	[SPECIES_BUTTERFREE_GIGA] =      {gFrontSpriteGigaButterfreePal, SPECIES_BUTTERFREE_GIGA, 0x0},

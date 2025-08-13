@@ -203,9 +203,9 @@ const u16 gGrasslandPage24[] =
 
 const u16 gGrasslandPage25[] =
 {
-	SPECIES_BULBASAUR,
-	SPECIES_IVYSAUR,
-	SPECIES_VENUSAUR,
+	SPECIES_BULBLARVA,
+	SPECIES_BULBORB,
+	SPECIES_JUMBOBORB,
 };
 
 const u16 gGrasslandPage26[] =

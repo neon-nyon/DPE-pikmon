@@ -5,9 +5,9 @@
 const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 {
 	[SPECIES_NONE] =                 {gFrontSprite000NoneTiles, (64 * 64) / 2, SPECIES_NONE},
-	[SPECIES_BULBASAUR] =            {gFrontSprite001BulbasaurTiles, (64 * 64) / 2, SPECIES_BULBASAUR},
-	[SPECIES_IVYSAUR] =              {gFrontSprite002IvysaurTiles, (64 * 64) / 2, SPECIES_IVYSAUR},
-	[SPECIES_VENUSAUR] =             {gFrontSprite003VenusaurTiles, (64 * 64) / 2, SPECIES_VENUSAUR},
+	[SPECIES_BULBLARVA] =            {gFrontSprite001BulbLarvaTiles, (64 * 64) / 2, SPECIES_BULBLARVA},
+	[SPECIES_BULBORB] =              {gFrontSprite002BulborbTiles, (64 * 64) / 2, SPECIES_BULBORB},
+	[SPECIES_JUMBOBORB] =             {gFrontSprite003JumboBorbTiles, (64 * 64) / 2, SPECIES_JUMBOBORB},
 	[SPECIES_CHARMANDER] =           {gFrontSprite004CharmanderTiles, (64 * 64) / 2, SPECIES_CHARMANDER},
 	[SPECIES_CHARMELEON] =           {gFrontSprite005CharmeleonTiles, (64 * 64) / 2, SPECIES_CHARMELEON},
 	[SPECIES_CHARIZARD] =            {gFrontSprite006CharizardTiles, (64 * 64) / 2, SPECIES_CHARIZARD},
@@ -874,7 +874,7 @@ const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 	[SPECIES_FURFROU_DANDY] =        {gFrontSprite866FurfrouDandyTiles, (64 * 64) / 2, SPECIES_FURFROU_DANDY},
 	[SPECIES_FURFROU_DEBUTANTE] =    {gFrontSprite867FurfrouDebutanteTiles, (64 * 64) / 2, SPECIES_FURFROU_DEBUTANTE},
 	[SPECIES_VIVILLON_FANCY] =       {gFrontSprite868VivillonFancyTiles, (64 * 64) / 2, SPECIES_VIVILLON_FANCY},
-	[SPECIES_VENUSAUR_MEGA] =        {gFrontSprite869VenusaurMegaTiles, (64 * 64) / 2, SPECIES_VENUSAUR_MEGA},
+	[SPECIES_JUMBOBORB_MEGA] =        {gFrontSprite869VenusaurMegaTiles, (64 * 64) / 2, SPECIES_JUMBOBORB_MEGA},
 	[SPECIES_CHARIZARD_MEGA_X] =     {gFrontSprite870CharizardMegaXTiles, (64 * 64) / 2, SPECIES_CHARIZARD_MEGA_X},
 	[SPECIES_CHARIZARD_MEGA_Y] =     {gFrontSprite871CharizardMegaYTiles, (64 * 64) / 2, SPECIES_CHARIZARD_MEGA_Y},
 	[SPECIES_BLASTOISE_MEGA] =       {gFrontSprite872BlastoiseMegaTiles, (64 * 64) / 2, SPECIES_BLASTOISE_MEGA},
@@ -1405,7 +1405,7 @@ const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 	[SPECIES_PECHARUNT] =            {gFrontSprite1401PecharuntTiles, (64 * 64) / 2, SPECIES_PECHARUNT},
 	//New Species Go Here
 
-	[SPECIES_VENUSAUR_GIGA] =        {gFrontSpriteGigaVenusaurTiles, (64 * 64) / 2, SPECIES_VENUSAUR_GIGA},
+	[SPECIES_JUMBOBORB_GIGA] =        {gFrontSpriteGigaVenusaurTiles, (64 * 64) / 2, SPECIES_JUMBOBORB_GIGA},
 	[SPECIES_CHARIZARD_GIGA] =       {gFrontSpriteGigaCharizardTiles, (64 * 64) / 2, SPECIES_CHARIZARD_GIGA},
 	[SPECIES_BLASTOISE_GIGA] =       {gFrontSpriteGigaBlastoiseTiles, (64 * 64) / 2, SPECIES_BLASTOISE_GIGA},
 	[SPECIES_BUTTERFREE_GIGA] =      {gFrontSpriteGigaButterfreeTiles, (64 * 64) / 2, SPECIES_BUTTERFREE_GIGA},

@@ -5,14 +5,14 @@ FILL_FF=True
 #org @NAME_SPECIES_NONE
 ??????
 
-#org @NAME_BULBASAUR
-Bulbasaur
+#org @NAME_BULBLARVA
+BulbLarva
 
-#org @NAME_IVYSAUR
-Ivysaur
+#org @NAME_BULBORB
+Bulborb
 
-#org @NAME_VENUSAUR
-Venusaur
+#org @NAME_JUMBOBORB
+JumboBorb
 
 #org @NAME_CHARMANDER
 Charmander
@@ -2609,8 +2609,8 @@ Furfrou
 #org @NAME_VIVILLON_FANCY
 Vivillon
 
-#org @NAME_MVENUSAUR
-Venusaur
+#org @NAME_MJUMBOBORB
+JumboBorb
 
 #org @NAME_CHARIZARDX
 Charizard
@@ -3782,8 +3782,8 @@ Enamorus
 #org @NAME_ENAMORUS_THERIAN
 Enamorus
 
-#org @NAME_VENUSAUR_GIGA
-Venusaur
+#org @NAME_JUMBOBORB_GIGA
+JumboBorb
 
 #org @NAME_CHARIZARD_GIGA
 Charizard

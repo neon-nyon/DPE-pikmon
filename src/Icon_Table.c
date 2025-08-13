@@ -4,9 +4,9 @@
 const u8* const gMonIconTable[NUM_SPECIES] =
 {
 	[SPECIES_NONE] =                 gIconSprite000NoneTiles,
-	[SPECIES_BULBASAUR] =            gIconSprite001BulbasaurTiles,
-	[SPECIES_IVYSAUR] =              gIconSprite002IvysaurTiles,
-	[SPECIES_VENUSAUR] =             gIconSprite003VenusaurTiles,
+	[SPECIES_BULBLARVA] =            gIconSprite001BulbLarvaTiles,
+	[SPECIES_BULBORB] =              gIconSprite002BulborbTiles,
+	[SPECIES_JUMBOBORB] =             gIconSprite003JumboBorbTiles,
 	[SPECIES_CHARMANDER] =           gIconSprite004CharmanderTiles,
 	[SPECIES_CHARMELEON] =           gIconSprite005CharmeleonTiles,
 	[SPECIES_CHARIZARD] =            gIconSprite006CharizardTiles,
@@ -871,7 +871,7 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_FURFROU_DANDY] =        gIconSprite866FurfrouDandyTiles,
 	[SPECIES_FURFROU_DEBUTANTE] =    gIconSprite867FurfrouDebutanteTiles,
 	[SPECIES_VIVILLON_FANCY] =       gIconSprite868VivillonFancyTiles,
-	[SPECIES_VENUSAUR_MEGA] =        gIconSprite869VenusaurMegaTiles,
+	[SPECIES_JUMBOBORB_MEGA] =        gIconSprite869VenusaurMegaTiles,
 	[SPECIES_CHARIZARD_MEGA_X] =     gIconSprite870CharizardMegaXTiles,
 	[SPECIES_CHARIZARD_MEGA_Y] =     gIconSprite871CharizardMegaYTiles,
 	[SPECIES_BLASTOISE_MEGA] =       gIconSprite872BlastoiseMegaTiles,
@@ -1402,7 +1402,7 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_PECHARUNT] =            gIconSprite1401PecharuntTiles,
 	//New Species Go Here
 
-	[SPECIES_VENUSAUR_GIGA] =        gIconSpriteGigaVenusaurTiles,
+	[SPECIES_JUMBOBORB_GIGA] =        gIconSpriteGigaVenusaurTiles,
 	[SPECIES_CHARIZARD_GIGA] =       gIconSpriteGigaCharizardTiles,
 	[SPECIES_BLASTOISE_GIGA] =       gIconSpriteGigaBlastoiseTiles,
 	[SPECIES_BUTTERFREE_GIGA] =      gIconSpriteGigaButterfreeTiles,

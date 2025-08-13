@@ -8,7 +8,7 @@
 
 const u16 gEggMoves[] =
 {
-	egg_moves(BULBASAUR,
+	egg_moves(BULBLARVA,
 		MOVE_SKULLBASH,
 		MOVE_CHARM,
 		MOVE_PETALDANCE,

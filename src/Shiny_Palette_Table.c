@@ -5,9 +5,9 @@
 const struct CompressedSpritePalette gMonShinyPaletteTable[NUM_SPECIES] =
 {
 	[SPECIES_NONE] =                 {gBackShinySprite000NonePal, SPECIES_NONE + NUM_SPECIES, 0x0},
-	[SPECIES_BULBASAUR] =            {gBackShinySprite001BulbasaurPal, SPECIES_BULBASAUR + NUM_SPECIES, 0x0},
-	[SPECIES_IVYSAUR] =              {gBackShinySprite002IvysaurPal, SPECIES_IVYSAUR + NUM_SPECIES, 0x0},
-	[SPECIES_VENUSAUR] =             {gBackShinySprite003VenusaurPal, SPECIES_VENUSAUR + NUM_SPECIES, 0x0},
+	[SPECIES_BULBLARVA] =            {gBackShinySprite001BulbLarvaPal, SPECIES_BULBLARVA + NUM_SPECIES, 0x0},
+	[SPECIES_BULBORB] =              {gBackShinySprite002BulborbPal, SPECIES_BULBORB + NUM_SPECIES, 0x0},
+	[SPECIES_JUMBOBORB] =             {gBackShinySprite003JumboBorbPal, SPECIES_JUMBOBORB + NUM_SPECIES, 0x0},
 	[SPECIES_CHARMANDER] =           {gBackShinySprite004CharmanderPal, SPECIES_CHARMANDER + NUM_SPECIES, 0x0},
 	[SPECIES_CHARMELEON] =           {gBackShinySprite005CharmeleonPal, SPECIES_CHARMELEON + NUM_SPECIES, 0x0},
 	[SPECIES_CHARIZARD] =            {gBackShinySprite006CharizardPal, SPECIES_CHARIZARD + NUM_SPECIES, 0x0},
@@ -874,7 +874,7 @@ const struct CompressedSpritePalette gMonShinyPaletteTable[NUM_SPECIES] =
 	[SPECIES_FURFROU_DANDY] =        {gBackShinySprite866FurfrouDandyPal, SPECIES_FURFROU_DANDY + NUM_SPECIES, 0x0},
 	[SPECIES_FURFROU_DEBUTANTE] =    {gBackShinySprite867FurfrouDebutantePal, SPECIES_FURFROU_DEBUTANTE + NUM_SPECIES, 0x0},
 	[SPECIES_VIVILLON_FANCY] =       {gBackShinySprite868VivillonFancyPal, SPECIES_VIVILLON_FANCY + NUM_SPECIES, 0x0},
-	[SPECIES_VENUSAUR_MEGA] =        {gBackShinySprite869VenusaurMegaPal, SPECIES_VENUSAUR_MEGA + NUM_SPECIES, 0x0},
+	[SPECIES_JUMBOBORB_MEGA] =        {gBackShinySprite869VenusaurMegaPal, SPECIES_JUMBOBORB_MEGA + NUM_SPECIES, 0x0},
 	[SPECIES_CHARIZARD_MEGA_X] =     {gBackShinySprite870CharizardMegaXPal, SPECIES_CHARIZARD_MEGA_X + NUM_SPECIES, 0x0},
 	[SPECIES_CHARIZARD_MEGA_Y] =     {gBackShinySprite871CharizardMegaYPal, SPECIES_CHARIZARD_MEGA_Y + NUM_SPECIES, 0x0},
 	[SPECIES_BLASTOISE_MEGA] =       {gBackShinySprite872BlastoiseMegaPal, SPECIES_BLASTOISE_MEGA + NUM_SPECIES, 0x0},
@@ -1405,7 +1405,7 @@ const struct CompressedSpritePalette gMonShinyPaletteTable[NUM_SPECIES] =
 	[SPECIES_PECHARUNT] =            {gBackShinySprite1401PecharuntPal, SPECIES_PECHARUNT + NUM_SPECIES, 0x0},
 	//New Species Go Here
 
-	[SPECIES_VENUSAUR_GIGA] =        {gBackShinySpriteGigaVenusaurPal, SPECIES_VENUSAUR_GIGA + NUM_SPECIES, 0x0},
+	[SPECIES_JUMBOBORB_GIGA] =        {gBackShinySpriteGigaVenusaurPal, SPECIES_JUMBOBORB_GIGA + NUM_SPECIES, 0x0},
 	[SPECIES_CHARIZARD_GIGA] =       {gBackShinySpriteGigaCharizardPal, SPECIES_CHARIZARD_GIGA + NUM_SPECIES, 0x0},
 	[SPECIES_BLASTOISE_GIGA] =       {gBackShinySpriteGigaBlastoisePal, SPECIES_BLASTOISE_GIGA + NUM_SPECIES, 0x0},
 	[SPECIES_BUTTERFREE_GIGA] =      {gBackShinySpriteGigaButterfreePal, SPECIES_BUTTERFREE_GIGA + NUM_SPECIES, 0x0},

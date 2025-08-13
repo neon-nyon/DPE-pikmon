@@ -5,9 +5,9 @@
 const struct CompressedSpriteSheet gMonBackPicTable[NUM_SPECIES] =
 {
 	[SPECIES_NONE] =                 {gBackShinySprite000NoneTiles, (64 * 64) / 2, SPECIES_NONE},
-	[SPECIES_BULBASAUR] =            {gBackShinySprite001BulbasaurTiles, (64 * 64) / 2, SPECIES_BULBASAUR},
-	[SPECIES_IVYSAUR] =              {gBackShinySprite002IvysaurTiles, (64 * 64) / 2, SPECIES_IVYSAUR},
-	[SPECIES_VENUSAUR] =             {gBackShinySprite003VenusaurTiles, (64 * 64) / 2, SPECIES_VENUSAUR},
+	[SPECIES_BULBLARVA] =            {gBackShinySprite001BulbLarvaTiles, (64 * 64) / 2, SPECIES_BULBLARVA},
+	[SPECIES_BULBORB] =              {gBackShinySprite002BulborbTiles, (64 * 64) / 2, SPECIES_BULBORB},
+	[SPECIES_JUMBOBORB] =             {gBackShinySprite003JumboBorbTiles, (64 * 64) / 2, SPECIES_JUMBOBORB},
 	[SPECIES_CHARMANDER] =           {gBackShinySprite004CharmanderTiles, (64 * 64) / 2, SPECIES_CHARMANDER},
 	[SPECIES_CHARMELEON] =           {gBackShinySprite005CharmeleonTiles, (64 * 64) / 2, SPECIES_CHARMELEON},
 	[SPECIES_CHARIZARD] =            {gBackShinySprite006CharizardTiles, (64 * 64) / 2, SPECIES_CHARIZARD},
@@ -874,7 +874,7 @@ const struct CompressedSpriteSheet gMonBackPicTable[NUM_SPECIES] =
 	[SPECIES_FURFROU_DANDY] =        {gBackShinySprite866FurfrouDandyTiles, (64 * 64) / 2, SPECIES_FURFROU_DANDY},
 	[SPECIES_FURFROU_DEBUTANTE] =    {gBackShinySprite867FurfrouDebutanteTiles, (64 * 64) / 2, SPECIES_FURFROU_DEBUTANTE},
 	[SPECIES_VIVILLON_FANCY] =       {gBackShinySprite868VivillonFancyTiles, (64 * 64) / 2, SPECIES_VIVILLON_FANCY},
-	[SPECIES_VENUSAUR_MEGA] =        {gBackShinySprite869VenusaurMegaTiles, (64 * 64) / 2, SPECIES_VENUSAUR_MEGA},
+	[SPECIES_JUMBOBORB_MEGA] =        {gBackShinySprite869VenusaurMegaTiles, (64 * 64) / 2, SPECIES_JUMBOBORB_MEGA},
 	[SPECIES_CHARIZARD_MEGA_X] =     {gBackShinySprite870CharizardMegaXTiles, (64 * 64) / 2, SPECIES_CHARIZARD_MEGA_X},
 	[SPECIES_CHARIZARD_MEGA_Y] =     {gBackShinySprite871CharizardMegaYTiles, (64 * 64) / 2, SPECIES_CHARIZARD_MEGA_Y},
 	[SPECIES_BLASTOISE_MEGA] =       {gBackShinySprite872BlastoiseMegaTiles, (64 * 64) / 2, SPECIES_BLASTOISE_MEGA},
@@ -1405,7 +1405,7 @@ const struct CompressedSpriteSheet gMonBackPicTable[NUM_SPECIES] =
 	[SPECIES_PECHARUNT] =            {gBackShinySprite1401PecharuntTiles, (64 * 64) / 2, SPECIES_PECHARUNT},
 	//New Species Go Here
 
-	[SPECIES_VENUSAUR_GIGA] =        {gBackShinySpriteGigaVenusaurTiles, (64 * 64) / 2, SPECIES_VENUSAUR_GIGA},
+	[SPECIES_JUMBOBORB_GIGA] =        {gBackShinySpriteGigaVenusaurTiles, (64 * 64) / 2, SPECIES_JUMBOBORB_GIGA},
 	[SPECIES_CHARIZARD_GIGA] =       {gBackShinySpriteGigaCharizardTiles, (64 * 64) / 2, SPECIES_CHARIZARD_GIGA},
 	[SPECIES_BLASTOISE_GIGA] =       {gBackShinySpriteGigaBlastoiseTiles, (64 * 64) / 2, SPECIES_BLASTOISE_GIGA},
 	[SPECIES_BUTTERFREE_GIGA] =      {gBackShinySpriteGigaButterfreeTiles, (64 * 64) / 2, SPECIES_BUTTERFREE_GIGA},

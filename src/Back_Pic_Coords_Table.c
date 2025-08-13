@@ -8,17 +8,17 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x88,
 		.y_offset = 0x0,
 	},
-	[SPECIES_BULBASAUR] =
+	[SPECIES_BULBLARVA] =
 	{
 		.size = 0x64,
 		.y_offset = 0xe,
 	},
-	[SPECIES_IVYSAUR] =
+	[SPECIES_BULBORB] =
 	{
 		.size = 0x76,
 		.y_offset = 0x8,
 	},
-	[SPECIES_VENUSAUR] =
+	[SPECIES_JUMBOBORB] =
 	{
 		.size = 0x86,
 		.y_offset = 0xa,
@@ -4343,7 +4343,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_VENUSAUR_MEGA] =
+	[SPECIES_JUMBOBORB_MEGA] =
 	{
 		.size = 0x0,
 		.y_offset = 0xa,
@@ -6990,7 +6990,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	},
 	//New Species Go Here
 
-	[SPECIES_VENUSAUR_GIGA] =
+	[SPECIES_JUMBOBORB_GIGA] =
 	{
 		.size = 0x0,
 		.y_offset = 0xb,
