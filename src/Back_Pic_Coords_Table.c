@@ -23,17 +23,17 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x86,
 		.y_offset = 0xa,
 	},
-	[SPECIES_CHARMANDER] =
+	[SPECIES_BLOWLET] =
 	{
 		.size = 0x66,
 		.y_offset = 0x9,
 	},
-	[SPECIES_CHARMELEON] =
+	[SPECIES_BLOWHOG] =
 	{
 		.size = 0x77,
 		.y_offset = 0x6,
 	},
-	[SPECIES_CHARIZARD] =
+	[SPECIES_TITANBHOG] =
 	{
 		.size = 0x87,
 		.y_offset = 0x1,
@@ -4348,12 +4348,12 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0xa,
 	},
-	[SPECIES_CHARIZARD_MEGA_X] =
+	[SPECIES_TITANBHOG_MEGA_X] =
 	{
 		.size = 0x0,
 		.y_offset = 0x1,
 	},
-	[SPECIES_CHARIZARD_MEGA_Y] =
+	[SPECIES_TITANBHOG_MEGA_Y] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
@@ -6995,7 +6995,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0xb,
 	},
-	[SPECIES_CHARIZARD_GIGA] =
+	[SPECIES_TITANBHOG_GIGA] =
 	{
 		.size = 0x0,
 		.y_offset = 0x1,

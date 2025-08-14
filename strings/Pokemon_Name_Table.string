@@ -14,14 +14,14 @@ Bulborb
 #org @NAME_JUMBOBORB
 JumboBorb
 
-#org @NAME_CHARMANDER
-Charmander
+#org @NAME_BLOWLET
+Blowlet
 
-#org @NAME_CHARMELEON
-Charmeleon
+#org @NAME_BLOWHOG
+Blowhog
 
-#org @NAME_CHARIZARD
-Charizard
+#org @NAME_TITANBHOG
+TitanBHog
 
 #org @NAME_SQUIRTLE
 Squirtle
@@ -2612,11 +2612,11 @@ Vivillon
 #org @NAME_MJUMBOBORB
 JumboBorb
 
-#org @NAME_CHARIZARDX
-Charizard
+#org @NAME_TITANBHOGX
+TitanBHog
 
-#org @NAME_CHARIZARDY
-Charizard
+#org @NAME_TITANBHOGY
+TitanBHog
 
 #org @NAME_MBLASTOISE
 Blastoise
@@ -3785,8 +3785,8 @@ Enamorus
 #org @NAME_JUMBOBORB_GIGA
 JumboBorb
 
-#org @NAME_CHARIZARD_GIGA
-Charizard
+#org @NAME_TITANBHOG_GIGA
+TitanBHog
 
 #org @NAME_BLASTOISE_GIGA
 Blastoise

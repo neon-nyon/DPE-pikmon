@@ -27,7 +27,7 @@ const u16 gEggMoves[] =
 		MOVE_TOXIC,
 		MOVE_CELEBRATE),
 
-	egg_moves(CHARMANDER,
+	egg_moves(BLOWLET,
 		MOVE_BELLYDRUM,
 		MOVE_ANCIENTPOWER,
 		MOVE_BITE,

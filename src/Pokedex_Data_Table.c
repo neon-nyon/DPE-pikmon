@@ -52,7 +52,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 375,
 		.trainerOffset = 6,
 	},
-	[NATIONAL_DEX_CHARMANDER] =
+	[NATIONAL_DEX_BLOWLET] =
 	{
 		.categoryName = {_L, _i, _z, _a, _r, _d, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 6,
@@ -64,7 +64,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_CHARMELEON] =
+	[NATIONAL_DEX_BLOWHOG] =
 	{
 		.categoryName = {_F, _l, _a, _m, _e, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 11,
@@ -76,7 +76,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_CHARIZARD] =
+	[NATIONAL_DEX_TITANBHOG] =
 	{
 		.categoryName = {_F, _l, _a, _m, _e, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 17,

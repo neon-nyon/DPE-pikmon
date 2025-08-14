@@ -40,7 +40,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_CHARMANDER] =
+	[SPECIES_BLOWLET] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -52,7 +52,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_CHARMELEON] =
+	[SPECIES_BLOWHOG] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -64,7 +64,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_CHARIZARD] =
+	[SPECIES_TITANBHOG] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -10134,7 +10134,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_CHARIZARD_MEGA_X] = 
+	[SPECIES_TITANBHOG_MEGA_X] = 
 	{	
 		.type = 0x20,
 		.key = 0x3c,
@@ -10146,7 +10146,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_CHARIZARD_MEGA_Y] = 
+	[SPECIES_TITANBHOG_MEGA_Y] = 
 	{	
 		.type = 0x20,
 		.key = 0x3c,
@@ -14514,7 +14514,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_CHARIZARD_GIGA] =
+	[SPECIES_TITANBHOG_GIGA] =
 	{	
 		.type = 0x20,
 		.key = 0x3c,

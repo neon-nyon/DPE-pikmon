@@ -110,14 +110,14 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_CHARMANDER] =
+	[SPECIES_BLOWLET] =
 	{
-		.baseHP = 39,
-		.baseAttack = 52,
-		.baseDefense = 43,
-		.baseSpAttack = 60,
-		.baseSpDefense = 50,
-		.baseSpeed = 65,
+		.baseHP = 46,
+		.baseAttack = 50,
+		.baseDefense = 40,
+		.baseSpAttack = 70,
+		.baseSpDefense = 47,
+		.baseSpeed = 54,
 		.type1 = TYPE_FIRE,
 		.type2 = TYPE_FIRE,
 		.catchRate = 45,
@@ -125,9 +125,9 @@ const struct BaseStats gBaseStats[] =
 		.evYield_HP = 0,
 		.evYield_Attack = 0,
 		.evYield_Defense = 0,
-		.evYield_SpAttack = 0,
+		.evYield_SpAttack = 1,
 		.evYield_SpDefense = 0,
-		.evYield_Speed = 1,
+		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
 		.genderRatio = PERCENT_FEMALE(12.5),
@@ -137,20 +137,20 @@ const struct BaseStats gBaseStats[] =
 		.eggGroup1 = EGG_GROUP_MONSTER,
 		.eggGroup2 = EGG_GROUP_DRAGON,
 		.ability1 = ABILITY_BLAZE,
-		.ability2 = ABILITY_TOUGHCLAWS,
+		.ability2 = ABILITY_NONE,
 		.safariZoneFleeRate = 0,
-		.hiddenAbility = ABILITY_SOLARPOWER,
+		.hiddenAbility = ABILITY_CURSEDBODY,
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_CHARMELEON] =
+	[SPECIES_BLOWHOG] =
 	{
-		.baseHP = 58,
-		.baseAttack = 64,
-		.baseDefense = 58,
-		.baseSpAttack = 80,
-		.baseSpDefense = 65,
-		.baseSpeed = 80,
+		.baseHP = 68,
+		.baseAttack = 65,
+		.baseDefense = 60,
+		.baseSpAttack = 90,
+		.baseSpDefense = 55,
+		.baseSpeed = 72,
 		.type1 = TYPE_FIRE,
 		.type2 = TYPE_FIRE,
 		.catchRate = 45,
@@ -158,9 +158,9 @@ const struct BaseStats gBaseStats[] =
 		.evYield_HP = 0,
 		.evYield_Attack = 0,
 		.evYield_Defense = 0,
-		.evYield_SpAttack = 1,
+		.evYield_SpAttack = 2,
 		.evYield_SpDefense = 0,
-		.evYield_Speed = 1,
+		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
 		.genderRatio = PERCENT_FEMALE(12.5),
@@ -170,22 +170,22 @@ const struct BaseStats gBaseStats[] =
 		.eggGroup1 = EGG_GROUP_MONSTER,
 		.eggGroup2 = EGG_GROUP_DRAGON,
 		.ability1 = ABILITY_BLAZE,
-		.ability2 = ABILITY_TOUGHCLAWS,
+		.ability2 = ABILITY_NONE,
 		.safariZoneFleeRate = 0,
-		.hiddenAbility = ABILITY_SOLARPOWER,
+		.hiddenAbility = ABILITY_CURSEDBODY,
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_CHARIZARD] =
+	[SPECIES_TITANBHOG] =
 	{
-		.baseHP = 78,
-		.baseAttack = 84,
-		.baseDefense = 78,
-		.baseSpAttack = 109,
-		.baseSpDefense = 85,
-		.baseSpeed = 100,
+		.baseHP = 83,
+		.baseAttack = 85,
+		.baseDefense = 80,
+		.baseSpAttack = 125,
+		.baseSpDefense = 74,
+		.baseSpeed = 80,
 		.type1 = TYPE_FIRE,
-		.type2 = TYPE_FLYING,
+		.type2 = TYPE_GHOST,
 		.catchRate = 45,
 		.expYield = 209,
 		.evYield_HP = 0,
@@ -203,9 +203,9 @@ const struct BaseStats gBaseStats[] =
 		.eggGroup1 = EGG_GROUP_MONSTER,
 		.eggGroup2 = EGG_GROUP_DRAGON,
 		.ability1 = ABILITY_BLAZE,
-		.ability2 = ABILITY_TOUGHCLAWS,
+		.ability2 = ABILITY_NONE,
 		.safariZoneFleeRate = 0,
-		.hiddenAbility = ABILITY_SOLARPOWER,
+		.hiddenAbility = ABILITY_CURSEDBODY,
 		.noFlip = TRUE,
 	},
 
@@ -27764,7 +27764,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_CHARIZARD_MEGA_X] =
+	[SPECIES_TITANBHOG_MEGA_X] =
 	{
 		.baseHP = 78,
 		.baseAttack = 130,
@@ -27797,7 +27797,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_CHARIZARD_MEGA_Y] =
+	[SPECIES_TITANBHOG_MEGA_Y] =
 	{
 		.baseHP = 78,
 		.baseAttack = 104,
@@ -39806,7 +39806,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_CHARIZARD_GIGA] =
+	[SPECIES_TITANBHOG_GIGA] =
 	{
 		.baseHP = 78,
 		.baseAttack = 84,

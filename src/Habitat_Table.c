@@ -1884,9 +1884,9 @@ const u16 gMountainPage18[] =
 
 const u16 gMountainPage19[] =
 {
-	SPECIES_CHARMANDER,
-	SPECIES_CHARMELEON,
-	SPECIES_CHARIZARD,
+	SPECIES_BLOWLET,
+	SPECIES_BLOWHOG,
+	SPECIES_TITANBHOG,
 };
 
 const u16 gMountainPage20[] =
