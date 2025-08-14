@@ -112,7 +112,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_CATERPIE] =
+	[SPECIES_FLNTBEETLE] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -124,7 +124,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_METAPOD] =
+	[SPECIES_DOODLEBUG] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -136,7 +136,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_BUTTERFREE] =
+	[SPECIES_GLNTBEETLE] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -148,7 +148,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_WEEDLE] =
+	[SPECIES_SNITCHBUG] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -160,7 +160,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_KAKUNA] =
+	[SPECIES_BUMBLEBUG] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -172,7 +172,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_BEEDRILL] =
+	[SPECIES_DIRIGIBUG] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -10170,7 +10170,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_BEEDRILL_MEGA] = 
+	[SPECIES_DIRIGIBUG_MEGA] = 
 	{	
 		.type = 0x20,
 		.key = 0x3c,
@@ -14538,7 +14538,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_BUTTERFREE_GIGA] =
+	[SPECIES_GLNTBEETLE_GIGA] =
 	{	
 		.type = 0x20,
 		.key = 0x3c,

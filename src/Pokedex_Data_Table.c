@@ -124,7 +124,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 329,
 		.trainerOffset = 3,
 	},
-	[NATIONAL_DEX_CATERPIE] =
+	[NATIONAL_DEX_FLNTBEETLE] =
 	{
 		.categoryName = {_W, _o, _r, _m, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 3,
@@ -136,7 +136,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_METAPOD] =
+	[NATIONAL_DEX_DOODLEBUG] =
 	{
 		.categoryName = {_C, _o, _c, _o, _o, _n, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 7,
@@ -148,7 +148,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_BUTTERFREE] =
+	[NATIONAL_DEX_GLNTBEETLE] =
 	{
 		.categoryName = {_B, _u, _t, _t, _e, _r, _f, _l, _y, _END, _SPACE, _SPACE},
 		.height = 11,
@@ -160,7 +160,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_WEEDLE] =
+	[NATIONAL_DEX_SNITCHBUG] =
 	{
 		.categoryName = {_H, _a, _i, _r, _y, _SPACE, _B, _u, _g, _END, _SPACE, _SPACE},
 		.height = 3,
@@ -172,7 +172,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_KAKUNA] =
+	[NATIONAL_DEX_BUMBLEBUG] =
 	{
 		.categoryName = {_C, _o, _c, _o, _o, _n, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 6,
@@ -184,7 +184,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_BEEDRILL] =
+	[NATIONAL_DEX_DIRIGIBUG] =
 	{
 		.categoryName = {_P, _o, _i, _s, _o, _n, _SPACE, _B, _e, _e, _END, _SPACE},
 		.height = 10,

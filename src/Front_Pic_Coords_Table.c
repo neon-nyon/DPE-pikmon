@@ -53,32 +53,32 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x87,
 		.y_offset = 0x4,
 	},
-	[SPECIES_CATERPIE] =
+	[SPECIES_FLNTBEETLE] =
 	{
 		.size = 0x54,
 		.y_offset = 0xc,
 	},
-	[SPECIES_METAPOD] =
+	[SPECIES_DOODLEBUG] =
 	{
 		.size = 0x54,
 		.y_offset = 0xe,
 	},
-	[SPECIES_BUTTERFREE] =
+	[SPECIES_GLNTBEETLE] =
 	{
 		.size = 0x76,
 		.y_offset = 0xa,
 	},
-	[SPECIES_WEEDLE] =
+	[SPECIES_SNITCHBUG] =
 	{
 		.size = 0x54,
 		.y_offset = 0xd,
 	},
-	[SPECIES_KAKUNA] =
+	[SPECIES_BUMBLEBUG] =
 	{
 		.size = 0x45,
 		.y_offset = 0xb,
 	},
-	[SPECIES_BEEDRILL] =
+	[SPECIES_DIRIGIBUG] =
 	{
 		.size = 0x86,
 		.y_offset = 0x5,
@@ -4363,7 +4363,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_BEEDRILL_MEGA] =
+	[SPECIES_DIRIGIBUG_MEGA] =
 	{
 		.size = 0x0,
 		.y_offset = 0x2,
@@ -7005,7 +7005,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x5,
 	},
-	[SPECIES_BUTTERFREE_GIGA] =
+	[SPECIES_GLNTBEETLE_GIGA] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
