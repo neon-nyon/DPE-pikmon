@@ -45,7 +45,7 @@ const u16 gEggMoves[] =
 		MOVE_DRAGONTAIL,
 		MOVE_CELEBRATE),
 
-	egg_moves(SQUIRTLE,
+	egg_moves(WOLPOLE,
 		MOVE_MIRRORCOAT,
 		MOVE_HAZE,
 		MOVE_MIST,

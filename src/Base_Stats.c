@@ -209,7 +209,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SQUIRTLE] =
+	[SPECIES_WOLPOLE] =
 	{
 		.baseHP = 44,
 		.baseAttack = 48,
@@ -242,7 +242,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_WARTORTLE] =
+	[SPECIES_YWOLLYHOP] =
 	{
 		.baseHP = 59,
 		.baseAttack = 63,
@@ -275,7 +275,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_BLASTOISE] =
+	[SPECIES_MASTERHOP] =
 	{
 		.baseHP = 79,
 		.baseAttack = 83,
@@ -27830,7 +27830,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_BLASTOISE_MEGA] =
+	[SPECIES_MASTERHOP_MEGA] =
 	{
 		.baseHP = 79,
 		.baseAttack = 103,
@@ -39839,7 +39839,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_BLASTOISE_GIGA] =
+	[SPECIES_MASTERHOP_GIGA] =
 	{
 		.baseHP = 79,
 		.baseAttack = 83,

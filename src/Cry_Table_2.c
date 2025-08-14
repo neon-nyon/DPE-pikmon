@@ -76,7 +76,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_SQUIRTLE] =
+	[SPECIES_WOLPOLE] =
 	{
 		.type = 0x30,
 		.key = 0x3c,
@@ -88,7 +88,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_WARTORTLE] =
+	[SPECIES_YWOLLYHOP] =
 	{
 		.type = 0x30,
 		.key = 0x3c,
@@ -100,7 +100,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_BLASTOISE] =
+	[SPECIES_MASTERHOP] =
 	{
 		.type = 0x30,
 		.key = 0x3c,
@@ -10158,7 +10158,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_BLASTOISE_MEGA] = 
+	[SPECIES_MASTERHOP_MEGA] = 
 	{	
 		.type = 0x30,
 		.key = 0x3c,
@@ -14526,7 +14526,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_BLASTOISE_GIGA] =
+	[SPECIES_MASTERHOP_GIGA] =
 	{	
 		.type = 0x30,
 		.key = 0x3c,

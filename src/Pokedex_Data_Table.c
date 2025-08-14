@@ -88,7 +88,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 317,
 		.trainerOffset = 3,
 	},
-	[NATIONAL_DEX_SQUIRTLE] =
+	[NATIONAL_DEX_WOLPOLE] =
 	{
 		.categoryName = {_T, _i, _n, _y, _SPACE, _T, _u, _r, _t, _l, _e, _END},
 		.height = 5,
@@ -100,7 +100,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_WARTORTLE] =
+	[NATIONAL_DEX_YWOLLYHOP] =
 	{
 		.categoryName = {_T, _u, _r, _t, _l, _e, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 10,
@@ -112,7 +112,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_BLASTOISE] =
+	[NATIONAL_DEX_MASTERHOP] =
 	{
 		.categoryName = {_S, _h, _e, _l, _l, _f, _i, _s, _h, _END, _SPACE, _SPACE},
 		.height = 16,

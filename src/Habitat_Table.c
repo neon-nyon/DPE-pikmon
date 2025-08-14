@@ -1109,9 +1109,9 @@ const u16 gWatersEdgePage13[] =
 
 const u16 gWatersEdgePage14[] =
 {
-	SPECIES_SQUIRTLE,
-	SPECIES_WARTORTLE,
-	SPECIES_BLASTOISE,
+	SPECIES_WOLPOLE,
+	SPECIES_YWOLLYHOP,
+	SPECIES_MASTERHOP,
 };
 
 const u16 gWatersEdgePage15[] =

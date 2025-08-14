@@ -38,17 +38,17 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x87,
 		.y_offset = 0x1,
 	},
-	[SPECIES_SQUIRTLE] =
+	[SPECIES_WOLPOLE] =
 	{
 		.size = 0x75,
 		.y_offset = 0xa,
 	},
-	[SPECIES_WARTORTLE] =
+	[SPECIES_YWOLLYHOP] =
 	{
 		.size = 0x86,
 		.y_offset = 0x6,
 	},
-	[SPECIES_BLASTOISE] =
+	[SPECIES_MASTERHOP] =
 	{
 		.size = 0x86,
 		.y_offset = 0x7,
@@ -4358,7 +4358,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_BLASTOISE_MEGA] =
+	[SPECIES_MASTERHOP_MEGA] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
@@ -7000,7 +7000,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x1,
 	},
-	[SPECIES_BLASTOISE_GIGA] =
+	[SPECIES_MASTERHOP_GIGA] =
 	{
 		.size = 0x0,
 		.y_offset = 0x5,
