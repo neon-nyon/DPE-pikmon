@@ -5660,7 +5660,7 @@ extern const u8 gIconSprite010FlntBeetleTiles[];
 extern const u8 gIconSprite011DoodlebugTiles[];
 extern const u8 gIconSprite012GlntBeetleTiles[];
 extern const u8 gIconSprite013SnitchbugTiles[];
-extern const u8 gIconSprite014BumblebugTiles[];
+extern const u8 gIconSprite014BumbleBugTiles[];
 extern const u8 gIconSprite015DirigibugTiles[];
 extern const u8 gIconSprite016PidgeyTiles[];
 extern const u8 gIconSprite017PidgeottoTiles[];
