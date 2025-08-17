@@ -56,17 +56,17 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 	[SPECIES_FLNTBEETLE] =
 	{
 		.size = 0x54,
-		.y_offset = 0xc,
+		.y_offset = 0x0,
 	},
 	[SPECIES_DOODLEBUG] =
 	{
 		.size = 0x54,
-		.y_offset = 0xe,
+		.y_offset = 0x0,
 	},
 	[SPECIES_GLNTBEETLE] =
 	{
 		.size = 0x76,
-		.y_offset = 0xa,
+		.y_offset = 0x0,
 	},
 	[SPECIES_SNITCHBUG] =
 	{

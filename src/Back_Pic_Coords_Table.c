@@ -11,62 +11,62 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_BULBLARVA] =
 	{
 		.size = 0x64,
-		.y_offset = 0xe,
+		.y_offset = 0x0,
 	},
 	[SPECIES_BULBORB] =
 	{
 		.size = 0x76,
-		.y_offset = 0x8,
+		.y_offset = 0x0,
 	},
 	[SPECIES_JUMBOBORB] =
 	{
 		.size = 0x86,
-		.y_offset = 0xa,
+		.y_offset = 0x0,
 	},
 	[SPECIES_BLOWLET] =
 	{
 		.size = 0x66,
-		.y_offset = 0x9,
+		.y_offset = 0x0,
 	},
 	[SPECIES_BLOWHOG] =
 	{
 		.size = 0x77,
-		.y_offset = 0x6,
+		.y_offset = 0x0,
 	},
 	[SPECIES_TITANBHOG] =
 	{
 		.size = 0x87,
-		.y_offset = 0x1,
+		.y_offset = 0x0,
 	},
 	[SPECIES_WOLPOLE] =
 	{
 		.size = 0x75,
-		.y_offset = 0xa,
+		.y_offset = 0x0,
 	},
 	[SPECIES_YWOLLYHOP] =
 	{
 		.size = 0x86,
-		.y_offset = 0x6,
+		.y_offset = 0x0,
 	},
 	[SPECIES_MASTERHOP] =
 	{
 		.size = 0x86,
-		.y_offset = 0x7,
+		.y_offset = 0x0,
 	},
 	[SPECIES_FLNTBEETLE] =
 	{
 		.size = 0x55,
-		.y_offset = 0xc,
+		.y_offset = 0x13,
 	},
 	[SPECIES_DOODLEBUG] =
 	{
 		.size = 0x65,
-		.y_offset = 0x8,
+		.y_offset = 0x13,
 	},
 	[SPECIES_GLNTBEETLE] =
 	{
 		.size = 0x87,
-		.y_offset = 0x5,
+		.y_offset = 0x13,
 	},
 	[SPECIES_SNITCHBUG] =
 	{
