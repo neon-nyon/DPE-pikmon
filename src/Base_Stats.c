@@ -308,7 +308,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_CATERPIE] =
+	[SPECIES_FLNTBEETLE] =
 	{
 		.baseHP = 45,
 		.baseAttack = 30,
@@ -341,7 +341,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_METAPOD] =
+	[SPECIES_DOODLEBUG] =
 	{
 		.baseHP = 50,
 		.baseAttack = 20,
@@ -374,7 +374,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_BUTTERFREE] =
+	[SPECIES_GLNTBEETLE] =
 	{
 		.baseHP = 60,
 		.baseAttack = 45,
@@ -39872,7 +39872,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_BUTTERFREE_GIGA] =
+	[SPECIES_GLNTBEETLE_GIGA] =
 	{
 		.baseHP = 60,
 		.baseAttack = 40,

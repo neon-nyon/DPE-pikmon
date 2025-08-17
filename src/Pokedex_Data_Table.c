@@ -124,7 +124,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 329,
 		.trainerOffset = 3,
 	},
-	[NATIONAL_DEX_CATERPIE] =
+	[NATIONAL_DEX_FLNTBEETLE] =
 	{
 		.categoryName = {_W, _o, _r, _m, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 3,
@@ -136,7 +136,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_METAPOD] =
+	[NATIONAL_DEX_DOODLEBUG] =
 	{
 		.categoryName = {_C, _o, _c, _o, _o, _n, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 7,
@@ -148,7 +148,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_BUTTERFREE] =
+	[NATIONAL_DEX_GLNTBEETLE] =
 	{
 		.categoryName = {_B, _u, _t, _t, _e, _r, _f, _l, _y, _END, _SPACE, _SPACE},
 		.height = 11,
