@@ -243,7 +243,7 @@ static const struct LevelUpMove sSnitchbugLevelUpLearnset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sBumblebugLevelUpLearnset[] = {
+static const struct LevelUpMove sBumbleBugLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 0, MOVE_HARDEN),
 	LEVEL_UP_MOVE( 1, MOVE_HARDEN),
 	LEVEL_UP_END
@@ -22359,7 +22359,7 @@ const struct LevelUpMove* const gLevelUpLearnsets[NUM_SPECIES] =
 	[SPECIES_DOODLEBUG] = sDoodlebugLevelUpLearnset,
 	[SPECIES_GLNTBEETLE] = sGlntBeetleLevelUpLearnset,
 	[SPECIES_SNITCHBUG] = sSnitchbugLevelUpLearnset,
-	[SPECIES_BUMBLEBUG] = sBumblebugLevelUpLearnset,
+	[SPECIES_BUMBLEBUG] = sBumbleBugLevelUpLearnset,
 	[SPECIES_DIRIGIBUG] = sDirigibugLevelUpLearnset,
 	[SPECIES_PIDGEY] = sPidgeyLevelUpLearnset,
 	[SPECIES_PIDGEOTTO] = sPidgeottoLevelUpLearnset,
