@@ -308,7 +308,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_FLNTBEETLE] =
+	[SPECIES_FLINTBEETLE] =
 	{
 		.baseHP = 60,
 		.baseAttack = 20,
@@ -374,7 +374,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_GLNTBEETLE] =
+	[SPECIES_GLINTBEETLE] =
 	{
 		.baseHP = 90,
 		.baseAttack = 40,
@@ -39872,7 +39872,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_GLNTBEETLE_GIGA] =
+	[SPECIES_GLINTBEETLE_GIGA] =
 	{
 		.baseHP = 60,
 		.baseAttack = 40,

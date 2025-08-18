@@ -201,7 +201,7 @@ static const struct LevelUpMove sMasterhopLevelUpLearnset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sFlntBeetleLevelUpLearnset[] = {
+static const struct LevelUpMove sFlintBeetleLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE( 1, MOVE_STRINGSHOT),
 	LEVEL_UP_MOVE( 9, MOVE_BUGBITE),
@@ -214,7 +214,7 @@ static const struct LevelUpMove sDoodlebugLevelUpLearnset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sGlntBeetleLevelUpLearnset[] = {
+static const struct LevelUpMove sGlintBeetleLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 0, MOVE_GUST),
 	LEVEL_UP_MOVE( 1, MOVE_GUST),
 	LEVEL_UP_MOVE( 1, MOVE_CONFUSION),
@@ -22355,9 +22355,9 @@ const struct LevelUpMove* const gLevelUpLearnsets[NUM_SPECIES] =
 	[SPECIES_WOLPOLE] = sWolpoleLevelUpLearnset,
 	[SPECIES_YELLOWWOLLYHOP] = sYellowWollyhopLevelUpLearnset,
 	[SPECIES_MASTERHOP] = sMasterhopLevelUpLearnset,
-	[SPECIES_FLNTBEETLE] = sFlntBeetleLevelUpLearnset,
+	[SPECIES_FLINTBEETLE] = sFlintBeetleLevelUpLearnset,
 	[SPECIES_DOODLEBUG] = sDoodlebugLevelUpLearnset,
-	[SPECIES_GLNTBEETLE] = sGlntBeetleLevelUpLearnset,
+	[SPECIES_GLINTBEETLE] = sGlintBeetleLevelUpLearnset,
 	[SPECIES_SNITCHBUG] = sSnitchbugLevelUpLearnset,
 	[SPECIES_BUMBLEBUG] = sBumbleBugLevelUpLearnset,
 	[SPECIES_DIRIGIBUG] = sDirigibugLevelUpLearnset,
@@ -23751,7 +23751,7 @@ const struct LevelUpMove* const gLevelUpLearnsets[NUM_SPECIES] =
 	[SPECIES_JUMBOBULBORB_GIGA] = sJumboBulborbLevelUpLearnset,
 	[SPECIES_TITANBLOWHOG_GIGA] = sTitanBlowhogLevelUpLearnset,
 	[SPECIES_MASTERHOP_GIGA] = sMasterhopLevelUpLearnset,
-	[SPECIES_GLNTBEETLE_GIGA] = sGlntBeetleLevelUpLearnset,
+	[SPECIES_GLINTBEETLE_GIGA] = sGlintBeetleLevelUpLearnset,
 	[SPECIES_PIKACHU_GIGA] = sPikachuLevelUpLearnset,
 	[SPECIES_MEOWTH_GIGA] = sMeowthLevelUpLearnset,
 	[SPECIES_MACHAMP_GIGA] = sMachampLevelUpLearnset,

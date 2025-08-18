@@ -112,7 +112,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_FLNTBEETLE] =
+	[SPECIES_FLINTBEETLE] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -136,7 +136,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_GLNTBEETLE] =
+	[SPECIES_GLINTBEETLE] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -14538,7 +14538,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_GLNTBEETLE_GIGA] =
+	[SPECIES_GLINTBEETLE_GIGA] =
 	{	
 		.type = 0x20,
 		.key = 0x3c,

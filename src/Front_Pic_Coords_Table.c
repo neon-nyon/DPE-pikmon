@@ -53,7 +53,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x87,
 		.y_offset = 0x4,
 	},
-	[SPECIES_FLNTBEETLE] =
+	[SPECIES_FLINTBEETLE] =
 	{
 		.size = 0x54,
 		.y_offset = 0x0,
@@ -63,7 +63,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x54,
 		.y_offset = 0x0,
 	},
-	[SPECIES_GLNTBEETLE] =
+	[SPECIES_GLINTBEETLE] =
 	{
 		.size = 0x76,
 		.y_offset = 0x0,
@@ -7005,7 +7005,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x5,
 	},
-	[SPECIES_GLNTBEETLE_GIGA] =
+	[SPECIES_GLINTBEETLE_GIGA] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,

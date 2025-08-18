@@ -124,7 +124,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 329,
 		.trainerOffset = 3,
 	},
-	[NATIONAL_DEX_FLNTBEETLE] =
+	[NATIONAL_DEX_FLINTBEETLE] =
 	{
 		.categoryName = {_W, _o, _r, _m, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 3,
@@ -148,7 +148,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_GLNTBEETLE] =
+	[NATIONAL_DEX_GLINTBEETLE] =
 	{
 		.categoryName = {_B, _u, _t, _t, _e, _r, _f, _l, _y, _END, _SPACE, _SPACE},
 		.height = 11,

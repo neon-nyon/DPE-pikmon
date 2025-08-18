@@ -492,9 +492,9 @@ const u16 gGrasslandPage63[] =
 
 const u16 gForestPage1[] =
 {
-	SPECIES_FLNTBEETLE,
+	SPECIES_FLINTBEETLE,
 	SPECIES_DOODLEBUG,
-	SPECIES_GLNTBEETLE,
+	SPECIES_GLINTBEETLE,
 };
 
 const u16 gForestPage2[] =
