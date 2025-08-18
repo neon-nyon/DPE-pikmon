@@ -1760,7 +1760,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PSYDUCK] =
+	[SPECIES_BEADYLONGLEGS] =
 	{
 		.baseHP = 50,
 		.baseAttack = 52,
@@ -1793,7 +1793,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_GOLDUCK] =
+	[SPECIES_RAGINGLONGLEGS] =
 	{
 		.baseHP = 80,
 		.baseAttack = 62,
@@ -1826,7 +1826,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_MANKEY] =
+	[SPECIES_BALDYLONGLEGS] =
 	{
 		.baseHP = 40,
 		.baseAttack = 80,
@@ -1859,7 +1859,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PRIMEAPE] =
+	[SPECIES_SHAGGYLONGLEGS] =
 	{
 		.baseHP = 65,
 		.baseAttack = 125,

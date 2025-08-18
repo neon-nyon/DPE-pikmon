@@ -273,22 +273,22 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x87,
 		.y_offset = 0x7,
 	},
-	[SPECIES_PSYDUCK] =
+	[SPECIES_BEADYLONGLEGS] =
 	{
 		.size = 0x67,
 		.y_offset = 0x9,
 	},
-	[SPECIES_GOLDUCK] =
+	[SPECIES_RAGINGLONGLEGS] =
 	{
 		.size = 0x77,
 		.y_offset = 0x3,
 	},
-	[SPECIES_MANKEY] =
+	[SPECIES_BALDYLONGLEGS] =
 	{
 		.size = 0x76,
 		.y_offset = 0x8,
 	},
-	[SPECIES_PRIMEAPE] =
+	[SPECIES_SHAGGYLONGLEGS] =
 	{
 		.size = 0x77,
 		.y_offset = 0xa,

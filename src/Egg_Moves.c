@@ -266,7 +266,7 @@ const u16 gEggMoves[] =
 		MOVE_CAPTIVATE,
 		MOVE_ASSURANCE),
 
-	egg_moves(PSYDUCK,
+	egg_moves(BEADYLONGLEGS,
 		MOVE_HYPNOSIS,
 		MOVE_PSYBEAM,
 		MOVE_FORESIGHT,
@@ -285,7 +285,7 @@ const u16 gEggMoves[] =
 		MOVE_MUDSPORT,
 		MOVE_TRIATTACK),
 
-	egg_moves(MANKEY,
+	egg_moves(BALDYLONGLEGS,
 		MOVE_FORESIGHT,
 		MOVE_MEDITATE,
 		MOVE_COUNTER,

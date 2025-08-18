@@ -640,7 +640,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_PSYDUCK] =
+	[SPECIES_BEADYLONGLEGS] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -652,7 +652,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_GOLDUCK] =
+	[SPECIES_RAGINGLONGLEGS] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -664,7 +664,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_MANKEY] =
+	[SPECIES_BALDYLONGLEGS] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -676,7 +676,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_PRIMEAPE] =
+	[SPECIES_SHAGGYLONGLEGS] =
 	{
 		.type = 0x20,
 		.key = 0x3c,

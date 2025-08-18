@@ -988,7 +988,7 @@ static const struct LevelUpMove sDwarfOrangeBulborbLevelUpLearnset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sPsyduckLevelUpLearnset[] = {
+static const struct LevelUpMove sBeadyLongLegsLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_WATERSPORT),
 	LEVEL_UP_MOVE( 1, MOVE_SCRATCH),
 	LEVEL_UP_MOVE( 4, MOVE_TAILWHIP),
@@ -1008,7 +1008,7 @@ static const struct LevelUpMove sPsyduckLevelUpLearnset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sGolduckLevelUpLearnset[] = {
+static const struct LevelUpMove sRagingLongLegsLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_MEFIRST),
 	LEVEL_UP_MOVE( 1, MOVE_AQUAJET),
 	LEVEL_UP_MOVE( 1, MOVE_WATERSPORT),
@@ -1032,7 +1032,7 @@ static const struct LevelUpMove sGolduckLevelUpLearnset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sMankeyLevelUpLearnset[] = {
+static const struct LevelUpMove sBaldyLongLegsLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_COVET),
 	LEVEL_UP_MOVE( 1, MOVE_SCRATCH),
 	LEVEL_UP_MOVE( 1, MOVE_LOWKICK),
@@ -1055,7 +1055,7 @@ static const struct LevelUpMove sMankeyLevelUpLearnset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sPrimeapeLevelUpLearnset[] = {
+static const struct LevelUpMove sShaggyLongLegsLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 0, MOVE_RAGE),
 	LEVEL_UP_MOVE( 1, MOVE_RAGE),
 	LEVEL_UP_MOVE( 1, MOVE_FINALGAMBIT),
@@ -22399,10 +22399,10 @@ const struct LevelUpMove* const gLevelUpLearnsets[NUM_SPECIES] =
 	[SPECIES_BUGEYEDCRAWMAD] = sBugEyedCrawmadLevelUpLearnset,
 	[SPECIES_DWARFBULBORB] = sDwarfBulborbLevelUpLearnset,
 	[SPECIES_DWARFORANGEBULBORB] = sDwarfOrangeBulborbLevelUpLearnset,
-	[SPECIES_PSYDUCK] = sPsyduckLevelUpLearnset,
-	[SPECIES_GOLDUCK] = sGolduckLevelUpLearnset,
-	[SPECIES_MANKEY] = sMankeyLevelUpLearnset,
-	[SPECIES_PRIMEAPE] = sPrimeapeLevelUpLearnset,
+	[SPECIES_BEADYLONGLEGS] = sBeadyLongLegsLevelUpLearnset,
+	[SPECIES_RAGINGLONGLEGS] = sRagingLongLegsLevelUpLearnset,
+	[SPECIES_BALDYLONGLEGS] = sBaldyLongLegsLevelUpLearnset,
+	[SPECIES_SHAGGYLONGLEGS] = sShaggyLongLegsLevelUpLearnset,
 	[SPECIES_GROWLITHE] = sGrowlitheLevelUpLearnset,
 	[SPECIES_ARCANINE] = sArcanineLevelUpLearnset,
 	[SPECIES_POLIWAG] = sPoliwagLevelUpLearnset,

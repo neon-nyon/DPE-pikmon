@@ -6,58 +6,58 @@ FILL_FF=True
 ??????
 
 #org @NAME_BULBORBLARVA
-BulborbLarva
+Bulb.Larva
 
 #org @NAME_BULBORB
 Bulborb
 
 #org @NAME_JUMBOBULBORB
-JumboBulborb
+Jumbo Borb
 
 #org @NAME_FIERYBLOWLET
-FieryBlowlet
+F. Blowlet
 
 #org @NAME_FIERYBLOWHOG
-FieryBlowhog
+F. Blowhog
 
 #org @NAME_TITANBLOWHOG
-TitanBlowhog
+Titan BHog
 
 #org @NAME_WOLPOLE
 Wolpole
 
 #org @NAME_YELLOWWOLLYHOP
-YellowWollyhop
+Y.Wollyhop
 
 #org @NAME_MASTERHOP
 Masterhop
 
 #org @NAME_FLINTBEETLE
-FlintBeetle
+FlntBeetle
 
 #org @NAME_DOODLEBUG
 Doodlebug
 
 #org @NAME_GLINTBEETLE
-GlintBeetle
+GlntBeetle
 
 #org @NAME_SNITCHBUG
 Snitchbug
 
 #org @NAME_BUMBLINGSNITCHBUG
-BumblingSnitchbug
+BumbleSBug
 
 #org @NAME_DIRIGIBUG
 Dirigibug
 
 #org @NAME_SNOWBULBORB
-SnowBulborb
+Snow Borb
 
 #org @NAME_DWARFFROSTYBULBORB
-DwarfFrostyBulborb
+DwarfFrost
 
 #org @NAME_FROSTYBULBORB
-FrostyBulborb
+FrostyBorb
 
 #org @NAME_CRUMBUG
 Crumbug
@@ -66,7 +66,7 @@ Crumbug
 Breadbug
 
 #org @NAME_GIANTBREADBUG
-GiantBreadbug
+GtBreadbug
 
 #org @NAME_FEAROW
 Fearow
@@ -75,10 +75,10 @@ Fearow
 Ekans
 
 #org @NAME_DWARFBULBEAR
-DwarfBulbear
+DwfBulbear
 
 #org @NAME_SPOTTYBULBEAR
-SpottyBulbear
+Bulbear
 
 #org @NAME_HONEYWISP
 Honeywisp
@@ -87,34 +87,34 @@ Honeywisp
 Dandelfly
 
 #org @NAME_DOWNYSNAGRET
-DownySnagret
+DwnySnagrt
 
-#org @NAME_NIDORANF
-Nidoran[B6]
+#org @NAME_BURROWINGSNAGRET
+Snagret
 
 #org @NAME_PILEATEDSNAGRET
-PileatedSnagret
+P.Snagret
 
 #org @NAME_FEMALESHEARGRUB
-FemaleSheargrub
+Sheargrub[B6]
 
-#org @NAME_NIDORANM
-Nidoran[B5]
+#org @NAME_SWARMINGSHEARGRUB
+Swarmgrub
 
 #org @NAME_MAMASHEARGRUB
-MamaSheargrub
+MSheargrub
 
 #org @NAME_MALESHEARGRUB
-Shearwig
+Sheargrub[B5]
 
 #org @NAME_SHEARWIG
 Shearwig
 
 #org @NAME_QUEENSHEARWIG
-QueenShearwig
+Q.Shearwig
 
 #org @NAME_ARISTOCRABOFFSPRING
-AristocrabOffspring
+YngArstcrb
 
 #org @NAME_ARISTOCRAB
 Aristocrab
@@ -126,55 +126,55 @@ Goolix
 Foolix
 
 #org @NAME_ARCTICCANNONLARVA
-ArcticCannonLarva
+ArticLarva
 
 #org @NAME_ARCTICCANNONBEETLE
-ArcticCannonBeetle
+ArticBetle
 
 #org @NAME_SKITTERLEAF
-SkitterLeaf
+Skiterleaf
 
 #org @NAME_DESICCATEDSKITTERLEAF
-DesiccatedSkitterLeaf
+DSkterleaf
 
 #org @NAME_ARMOREDCANNONLARVA
-ArmoredCannonLarva
+ArmorLarva
 
 #org @NAME_ARMOREDCANNONBEETLE
-ArmoredCannonBeetle
+ArmorBetle
 
 #org @NAME_HORNEDCANNONBEETLE
-HornedCannonBeetle
+HorndBetle
 
 #org @NAME_CREEPINGCHRYSANTHEMUM
-CreepingChrysanthemum
+Crysnthmum
 
 #org @NAME_STARTLESPORE
-StartleSpore
+StrtlSpore
 
 #org @NAME_HERMITCRAWMAD
-HermitCrawmad
+Crawmad
 
 #org @NAME_BUGEYEDCRAWMAD
-BugEyedCrawmad
+BE Crawmad
 
 #org @NAME_DWARFBULBORB
-DwarfBulborb
+DwarfBorb
 
 #org @NAME_DWARFORANGEBULBORB
-DwarfOrangeBulborb
+OrngeDwarf
 
-#org @NAME_PSYDUCK
-Psyduck
+#org @NAME_BEADYLONGLEGS
+B.LongLegs
 
-#org @NAME_GOLDUCK
-Golduck
+#org @NAME_RAGINGLONGLEGS
+R.LongLegs
 
-#org @NAME_MANKEY
-Mankey
+#org @NAME_BALDYLONGLEGS
+BaldyL.L
 
-#org @NAME_PRIMEAPE
-Primeape
+#org @NAME_SHAGGYLONGLEGS
+ShaggyL.L
 
 #org @NAME_GROWLITHE
 Growlithe

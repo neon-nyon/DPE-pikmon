@@ -652,7 +652,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_PSYDUCK] =
+	[NATIONAL_DEX_BEADYLONGLEGS] =
 	{
 		.categoryName = {_D, _u, _c, _k, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 8,
@@ -664,7 +664,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_GOLDUCK] =
+	[NATIONAL_DEX_RAGINGLONGLEGS] =
 	{
 		.categoryName = {_D, _u, _c, _k, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 17,
@@ -676,7 +676,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 287,
 		.trainerOffset = 1,
 	},
-	[NATIONAL_DEX_MANKEY] =
+	[NATIONAL_DEX_BALDYLONGLEGS] =
 	{
 		.categoryName = {_P, _i, _g, _SPACE, _M, _o, _n, _k, _e, _y, _END, _SPACE},
 		.height = 5,
@@ -688,7 +688,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_PRIMEAPE] =
+	[NATIONAL_DEX_SHAGGYLONGLEGS] =
 	{
 		.categoryName = {_P, _i, _g, _SPACE, _M, _o, _n, _k, _e, _y, _END, _SPACE},
 		.height = 10,
