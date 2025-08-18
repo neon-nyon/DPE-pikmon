@@ -5,14 +5,14 @@ FILL_FF=True
 #org @NAME_SPECIES_NONE
 ??????
 
-#org @NAME_BULBLARVA
-BulbLarva
+#org @NAME_BULBORBLARVA
+BulborbLarva
 
 #org @NAME_BULBORB
 Bulborb
 
-#org @NAME_JUMBOBORB
-JumboBorb
+#org @NAME_JUMBOBULBORB
+JumboBulborb
 
 #org @NAME_BLOWLET
 Blowlet
@@ -2609,8 +2609,8 @@ Furfrou
 #org @NAME_VIVILLON_FANCY
 Vivillon
 
-#org @NAME_MJUMBOBORB
-JumboBorb
+#org @NAME_MJUMBOBULBORB
+JumboBulborb
 
 #org @NAME_TITANBHOGX
 TitanBHog
@@ -3782,8 +3782,8 @@ Enamorus
 #org @NAME_ENAMORUS_THERIAN
 Enamorus
 
-#org @NAME_JUMBOBORB_GIGA
-JumboBorb
+#org @NAME_JUMBOBULBORB_GIGA
+JumboBulborb
 
 #org @NAME_TITANBHOG_GIGA
 TitanBHog

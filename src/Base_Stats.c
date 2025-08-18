@@ -11,7 +11,7 @@ const struct BaseStats gBaseStats[] =
 {
 	[SPECIES_NONE] = {0},
 
-	[SPECIES_BULBLARVA] =
+	[SPECIES_BULBORBLARVA] =
 	{
 		.baseHP = 55,
 		.baseAttack = 55,
@@ -77,7 +77,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_JUMBOBORB] =
+	[SPECIES_JUMBOBULBORB] =
 	{
 		.baseHP = 80,
 		.baseAttack = 110,
@@ -27731,7 +27731,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_JUMBOBORB_MEGA] =
+	[SPECIES_JUMBOBULBORB_MEGA] =
 	{
 		.baseHP = 80,
 		.baseAttack = 100,
@@ -39773,7 +39773,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_JUMBOBORB_GIGA] =
+	[SPECIES_JUMBOBULBORB_GIGA] =
 	{
 		.baseHP = 80,
 		.baseAttack = 82,

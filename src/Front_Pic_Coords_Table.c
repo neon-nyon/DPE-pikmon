@@ -8,7 +8,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x88,
 		.y_offset = 0x0,
 	},
-	[SPECIES_BULBLARVA] =
+	[SPECIES_BULBORBLARVA] =
 	{
 		.size = 0x55,
 		.y_offset = 0xe,
@@ -18,7 +18,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x66,
 		.y_offset = 0x8,
 	},
-	[SPECIES_JUMBOBORB] =
+	[SPECIES_JUMBOBULBORB] =
 	{
 		.size = 0x87,
 		.y_offset = 0x3,
@@ -4343,7 +4343,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_JUMBOBORB_MEGA] =
+	[SPECIES_JUMBOBULBORB_MEGA] =
 	{
 		.size = 0x0,
 		.y_offset = 0x3,
@@ -6990,7 +6990,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 	},
 	//New Species Go Here
 
-	[SPECIES_JUMBOBORB_GIGA] =
+	[SPECIES_JUMBOBULBORB_GIGA] =
 	{
 		.size = 0x0,
 		.y_offset = 0x3,

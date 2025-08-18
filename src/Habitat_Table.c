@@ -203,9 +203,9 @@ const u16 gGrasslandPage24[] =
 
 const u16 gGrasslandPage25[] =
 {
-	SPECIES_BULBLARVA,
+	SPECIES_BULBORBLARVA,
 	SPECIES_BULBORB,
-	SPECIES_JUMBOBORB,
+	SPECIES_JUMBOBULBORB,
 };
 
 const u16 gGrasslandPage26[] =

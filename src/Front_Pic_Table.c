@@ -5,9 +5,9 @@
 const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 {
 	[SPECIES_NONE] =                 {gFrontSprite000NoneTiles, (64 * 64) / 2, SPECIES_NONE},
-	[SPECIES_BULBLARVA] =            {gFrontSprite001BulbLarvaTiles, (64 * 64) / 2, SPECIES_BULBLARVA},
+	[SPECIES_BULBORBLARVA] =            {gFrontSprite001BulborbLarvaTiles, (64 * 64) / 2, SPECIES_BULBORBLARVA},
 	[SPECIES_BULBORB] =              {gFrontSprite002BulborbTiles, (64 * 64) / 2, SPECIES_BULBORB},
-	[SPECIES_JUMBOBORB] =             {gFrontSprite003JumboBorbTiles, (64 * 64) / 2, SPECIES_JUMBOBORB},
+	[SPECIES_JUMBOBULBORB] =             {gFrontSprite003JumboBulborbTiles, (64 * 64) / 2, SPECIES_JUMBOBULBORB},
 	[SPECIES_BLOWLET] =           {gFrontSprite004BlowletTiles, (64 * 64) / 2, SPECIES_BLOWLET},
 	[SPECIES_BLOWHOG] =           {gFrontSprite005BlowhogTiles, (64 * 64) / 2, SPECIES_BLOWHOG},
 	[SPECIES_TITANBHOG] =            {gFrontSprite006TitanBHogTiles, (64 * 64) / 2, SPECIES_TITANBHOG},
@@ -874,7 +874,7 @@ const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 	[SPECIES_FURFROU_DANDY] =        {gFrontSprite866FurfrouDandyTiles, (64 * 64) / 2, SPECIES_FURFROU_DANDY},
 	[SPECIES_FURFROU_DEBUTANTE] =    {gFrontSprite867FurfrouDebutanteTiles, (64 * 64) / 2, SPECIES_FURFROU_DEBUTANTE},
 	[SPECIES_VIVILLON_FANCY] =       {gFrontSprite868VivillonFancyTiles, (64 * 64) / 2, SPECIES_VIVILLON_FANCY},
-	[SPECIES_JUMBOBORB_MEGA] =        {gFrontSprite869VenusaurMegaTiles, (64 * 64) / 2, SPECIES_JUMBOBORB_MEGA},
+	[SPECIES_JUMBOBULBORB_MEGA] =        {gFrontSprite869VenusaurMegaTiles, (64 * 64) / 2, SPECIES_JUMBOBULBORB_MEGA},
 	[SPECIES_TITANBHOG_MEGA_X] =     {gFrontSprite870TitanBHogMegaXTiles, (64 * 64) / 2, SPECIES_TITANBHOG_MEGA_X},
 	[SPECIES_TITANBHOG_MEGA_Y] =     {gFrontSprite871TitanBHogMegaYTiles, (64 * 64) / 2, SPECIES_TITANBHOG_MEGA_Y},
 	[SPECIES_MASTERHOP_MEGA] =       {gFrontSprite872MasterhopMegaTiles, (64 * 64) / 2, SPECIES_MASTERHOP_MEGA},
@@ -1405,7 +1405,7 @@ const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 	[SPECIES_PECHARUNT] =            {gFrontSprite1401PecharuntTiles, (64 * 64) / 2, SPECIES_PECHARUNT},
 	//New Species Go Here
 
-	[SPECIES_JUMBOBORB_GIGA] =        {gFrontSpriteGigaVenusaurTiles, (64 * 64) / 2, SPECIES_JUMBOBORB_GIGA},
+	[SPECIES_JUMBOBULBORB_GIGA] =        {gFrontSpriteGigaVenusaurTiles, (64 * 64) / 2, SPECIES_JUMBOBULBORB_GIGA},
 	[SPECIES_TITANBHOG_GIGA] =       {gFrontSpriteGigaTitanBHogTiles, (64 * 64) / 2, SPECIES_TITANBHOG_GIGA},
 	[SPECIES_MASTERHOP_GIGA] =       {gFrontSpriteGigaMasterhopTiles, (64 * 64) / 2, SPECIES_MASTERHOP_GIGA},
 	[SPECIES_GLNTBEETLE_GIGA] =      {gFrontSpriteGigaGlntBeetleTiles, (64 * 64) / 2, SPECIES_GLNTBEETLE_GIGA},

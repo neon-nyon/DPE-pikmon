@@ -16,7 +16,7 @@ static const struct LevelUpMove sEmptyMoveset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sBulbLarvaLevelUpLearnset[] = {
+static const struct LevelUpMove sBulborbLarvaLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE( 3, MOVE_GROWL),
 	LEVEL_UP_MOVE( 7, MOVE_LEECHSEED),
@@ -54,7 +54,7 @@ static const struct LevelUpMove sBulborbLevelUpLearnset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sJumboBorbLevelUpLearnset[] = {
+static const struct LevelUpMove sJumboBulborbLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 0, MOVE_PETALBLIZZARD),
 	LEVEL_UP_MOVE( 1, MOVE_PETALDANCE),
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
@@ -22346,9 +22346,9 @@ static const struct LevelUpMove sPecharuntLevelUpLearnset[] = {
 const struct LevelUpMove* const gLevelUpLearnsets[NUM_SPECIES] =
 {
 	[SPECIES_NONE] = sEmptyMoveset,
-	[SPECIES_BULBLARVA] = sBulbLarvaLevelUpLearnset,
+	[SPECIES_BULBORBLARVA] = sBulborbLarvaLevelUpLearnset,
 	[SPECIES_BULBORB] = sBulborbLevelUpLearnset,
-	[SPECIES_JUMBOBORB] = sJumboBorbLevelUpLearnset,
+	[SPECIES_JUMBOBULBORB] = sJumboBulborbLevelUpLearnset,
 	[SPECIES_BLOWLET] = sBlowletLevelUpLearnset,
 	[SPECIES_BLOWHOG] = sBlowhogLevelUpLearnset,
 	[SPECIES_TITANBHOG] = sTitanBHogLevelUpLearnset,
@@ -23214,7 +23214,7 @@ const struct LevelUpMove* const gLevelUpLearnsets[NUM_SPECIES] =
 	[SPECIES_FURFROU_DANDY] = sFurfrouLevelUpLearnset,
 	[SPECIES_FURFROU_DEBUTANTE] = sFurfrouLevelUpLearnset,
 	[SPECIES_VIVILLON_FANCY] = sVivillonLevelUpLearnset,
-	[SPECIES_JUMBOBORB_MEGA] = sJumboBorbLevelUpLearnset,
+	[SPECIES_JUMBOBULBORB_MEGA] = sJumboBulborbLevelUpLearnset,
 	[SPECIES_TITANBHOG_MEGA_X] = sTitanBHogLevelUpLearnset,
 	[SPECIES_TITANBHOG_MEGA_Y] = sTitanBHogLevelUpLearnset,
 	[SPECIES_MASTERHOP_MEGA] = sMasterhopLevelUpLearnset,
@@ -23748,7 +23748,7 @@ const struct LevelUpMove* const gLevelUpLearnsets[NUM_SPECIES] =
 	[SPECIES_TERAPAGOS_TERASTAL] = sTerapagosLevelUpLearnset,
 	[SPECIES_TERAPAGOS_STELLAR] = sTerapagosLevelUpLearnset,
 	[SPECIES_PECHARUNT] = sPecharuntLevelUpLearnset,
-	[SPECIES_JUMBOBORB_GIGA] = sJumboBorbLevelUpLearnset,
+	[SPECIES_JUMBOBULBORB_GIGA] = sJumboBulborbLevelUpLearnset,
 	[SPECIES_TITANBHOG_GIGA] = sTitanBHogLevelUpLearnset,
 	[SPECIES_MASTERHOP_GIGA] = sMasterhopLevelUpLearnset,
 	[SPECIES_GLNTBEETLE_GIGA] = sGlntBeetleLevelUpLearnset,

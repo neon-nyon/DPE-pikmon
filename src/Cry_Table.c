@@ -4,7 +4,7 @@
 
 const struct ToneData gCryTable[NUM_SPECIES] =
 {
-	[SPECIES_BULBLARVA] =
+	[SPECIES_BULBORBLARVA] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -28,7 +28,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_JUMBOBORB] =
+	[SPECIES_JUMBOBULBORB] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -10122,7 +10122,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_JUMBOBORB_MEGA] = 
+	[SPECIES_JUMBOBULBORB_MEGA] = 
 	{	
 		.type = 0x20,
 		.key = 0x3c,
@@ -14502,7 +14502,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_JUMBOBORB_GIGA] =
+	[SPECIES_JUMBOBULBORB_GIGA] =
 	{	
 		.type = 0x20,
 		.key = 0x3c,

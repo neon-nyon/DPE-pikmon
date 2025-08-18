@@ -5,9 +5,9 @@
 const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 {
 	[SPECIES_NONE] =                 {gFrontSprite000NonePal, SPECIES_NONE, 0x0},
-	[SPECIES_BULBLARVA] =            {gFrontSprite001BulbLarvaPal, SPECIES_BULBLARVA, 0x0},
+	[SPECIES_BULBORBLARVA] =            {gFrontSprite001BulborbLarvaPal, SPECIES_BULBORBLARVA, 0x0},
 	[SPECIES_BULBORB] =              {gFrontSprite002BulborbPal, SPECIES_BULBORB, 0x0},
-	[SPECIES_JUMBOBORB] =             {gFrontSprite003JumboBorbPal, SPECIES_JUMBOBORB, 0x0},
+	[SPECIES_JUMBOBULBORB] =             {gFrontSprite003JumboBulborbPal, SPECIES_JUMBOBULBORB, 0x0},
 	[SPECIES_BLOWLET] =           {gFrontSprite004BlowletPal, SPECIES_BLOWLET, 0x0},
 	[SPECIES_BLOWHOG] =           {gFrontSprite005BlowhogPal, SPECIES_BLOWHOG, 0x0},
 	[SPECIES_TITANBHOG] =            {gFrontSprite006TitanBHogPal, SPECIES_TITANBHOG, 0x0},
@@ -874,7 +874,7 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_FURFROU_DANDY] =        {gFrontSprite866FurfrouDandyPal, SPECIES_FURFROU_DANDY, 0x0},
 	[SPECIES_FURFROU_DEBUTANTE] =    {gFrontSprite867FurfrouDebutantePal, SPECIES_FURFROU_DEBUTANTE, 0x0},
 	[SPECIES_VIVILLON_FANCY] =       {gFrontSprite868VivillonFancyPal, SPECIES_VIVILLON_FANCY, 0x0},
-	[SPECIES_JUMBOBORB_MEGA] =        {gFrontSprite869VenusaurMegaPal, SPECIES_JUMBOBORB_MEGA, 0x0},
+	[SPECIES_JUMBOBULBORB_MEGA] =        {gFrontSprite869VenusaurMegaPal, SPECIES_JUMBOBULBORB_MEGA, 0x0},
 	[SPECIES_TITANBHOG_MEGA_X] =     {gFrontSprite870TitanBHogMegaXPal, SPECIES_TITANBHOG_MEGA_X, 0x0},
 	[SPECIES_TITANBHOG_MEGA_Y] =     {gFrontSprite871TitanBHogMegaYPal, SPECIES_TITANBHOG_MEGA_Y, 0x0},
 	[SPECIES_MASTERHOP_MEGA] =       {gFrontSprite872MasterhopMegaPal, SPECIES_MASTERHOP_MEGA, 0x0},
@@ -1405,7 +1405,7 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_PECHARUNT] =            {gFrontSprite1401PecharuntPal, SPECIES_PECHARUNT, 0x0},
 	//New Species Go Here
 
-	[SPECIES_JUMBOBORB_GIGA] =        {gFrontSpriteGigaVenusaurPal, SPECIES_JUMBOBORB_GIGA, 0x0},
+	[SPECIES_JUMBOBULBORB_GIGA] =        {gFrontSpriteGigaVenusaurPal, SPECIES_JUMBOBULBORB_GIGA, 0x0},
 	[SPECIES_TITANBHOG_GIGA] =       {gFrontSpriteGigaTitanBHogPal, SPECIES_TITANBHOG_GIGA, 0x0},
 	[SPECIES_MASTERHOP_GIGA] =       {gFrontSpriteGigaMasterhopPal, SPECIES_MASTERHOP_GIGA, 0x0},
 	[SPECIES_GLNTBEETLE_GIGA] =      {gFrontSpriteGigaGlntBeetlePal, SPECIES_GLNTBEETLE_GIGA, 0x0},
