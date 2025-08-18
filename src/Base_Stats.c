@@ -110,7 +110,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_BLOWLET] =
+	[SPECIES_FIERYBLOWLET] =
 	{
 		.baseHP = 46,
 		.baseAttack = 50,
@@ -143,7 +143,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_BLOWHOG] =
+	[SPECIES_FIERYBLOWHOG] =
 	{
 		.baseHP = 68,
 		.baseAttack = 65,
@@ -176,7 +176,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_TITANBHOG] =
+	[SPECIES_TITANBLOWHOG] =
 	{
 		.baseHP = 83,
 		.baseAttack = 85,
@@ -242,7 +242,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_YWOLLYHOP] =
+	[SPECIES_YELLOWWOLLYHOP] =
 	{
 		.baseHP = 70,
 		.baseAttack = 65,
@@ -27764,7 +27764,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_TITANBHOG_MEGA_X] =
+	[SPECIES_TITANBLOWHOG_MEGA_X] =
 	{
 		.baseHP = 78,
 		.baseAttack = 130,
@@ -27797,7 +27797,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_TITANBHOG_MEGA_Y] =
+	[SPECIES_TITANBLOWHOG_MEGA_Y] =
 	{
 		.baseHP = 78,
 		.baseAttack = 104,
@@ -39806,7 +39806,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_TITANBHOG_GIGA] =
+	[SPECIES_TITANBLOWHOG_GIGA] =
 	{
 		.baseHP = 78,
 		.baseAttack = 84,

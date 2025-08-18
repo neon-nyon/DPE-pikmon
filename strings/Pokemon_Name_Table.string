@@ -14,20 +14,20 @@ Bulborb
 #org @NAME_JUMBOBULBORB
 JumboBulborb
 
-#org @NAME_BLOWLET
-Blowlet
+#org @NAME_FIERYBLOWLET
+FieryBlowlet
 
-#org @NAME_BLOWHOG
-Blowhog
+#org @NAME_FIERYBLOWHOG
+FieryBlowhog
 
-#org @NAME_TITANBHOG
-TitanBHog
+#org @NAME_TITANBLOWHOG
+TitanBlowhog
 
 #org @NAME_WOLPOLE
 Wolpole
 
-#org @NAME_YWOLLYHOP
-YWollyhop
+#org @NAME_YELLOWWOLLYHOP
+YellowWollyhop
 
 #org @NAME_MASTERHOP
 Masterhop
@@ -2612,11 +2612,11 @@ Vivillon
 #org @NAME_MJUMBOBULBORB
 JumboBulborb
 
-#org @NAME_TITANBHOGX
-TitanBHog
+#org @NAME_TITANBLOWHOGX
+TitanBlowhog
 
-#org @NAME_TITANBHOGY
-TitanBHog
+#org @NAME_TITANBLOWHOGY
+TitanBlowhog
 
 #org @NAME_MMASTERHOP
 Masterhop
@@ -3785,8 +3785,8 @@ Enamorus
 #org @NAME_JUMBOBULBORB_GIGA
 JumboBulborb
 
-#org @NAME_TITANBHOG_GIGA
-TitanBHog
+#org @NAME_TITANBLOWHOG_GIGA
+TitanBlowhog
 
 #org @NAME_MASTERHOP_GIGA
 Masterhop

@@ -23,17 +23,17 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x87,
 		.y_offset = 0x3,
 	},
-	[SPECIES_BLOWLET] =
+	[SPECIES_FIERYBLOWLET] =
 	{
 		.size = 0x55,
 		.y_offset = 0xb,
 	},
-	[SPECIES_BLOWHOG] =
+	[SPECIES_FIERYBLOWHOG] =
 	{
 		.size = 0x76,
 		.y_offset = 0x6,
 	},
-	[SPECIES_TITANBHOG] =
+	[SPECIES_TITANBLOWHOG] =
 	{
 		.size = 0x88,
 		.y_offset = 0x0,
@@ -43,7 +43,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x65,
 		.y_offset = 0xc,
 	},
-	[SPECIES_YWOLLYHOP] =
+	[SPECIES_YELLOWWOLLYHOP] =
 	{
 		.size = 0x76,
 		.y_offset = 0x7,
@@ -4348,12 +4348,12 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x3,
 	},
-	[SPECIES_TITANBHOG_MEGA_X] =
+	[SPECIES_TITANBLOWHOG_MEGA_X] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_TITANBHOG_MEGA_Y] =
+	[SPECIES_TITANBLOWHOG_MEGA_Y] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
@@ -6995,7 +6995,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x3,
 	},
-	[SPECIES_TITANBHOG_GIGA] =
+	[SPECIES_TITANBLOWHOG_GIGA] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
