@@ -472,7 +472,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_JIGGLYPUFF] =
+	[NATIONAL_DEX_GOOLIX] =
 	{
 		.categoryName = {_B, _a, _l, _l, _o, _o, _n, _END, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 5,
@@ -484,7 +484,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_WIGGLYTUFF] =
+	[NATIONAL_DEX_FOOLIX] =
 	{
 		.categoryName = {_B, _a, _l, _l, _o, _o, _n, _END, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 10,
@@ -496,7 +496,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_ZUBAT] =
+	[NATIONAL_DEX_ARCTICCANNONLARVA] =
 	{
 		.categoryName = {_B, _a, _t, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 8,
@@ -508,7 +508,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_GOLBAT] =
+	[NATIONAL_DEX_ARCTICCANNONBEETLE] =
 	{
 		.categoryName = {_B, _a, _t, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 16,
@@ -520,7 +520,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 296,
 		.trainerOffset = 2,
 	},
-	[NATIONAL_DEX_ODDISH] =
+	[NATIONAL_DEX_SKITTERLEAF] =
 	{
 		.categoryName = {_W, _e, _e, _d, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 5,
@@ -532,7 +532,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_GLOOM] =
+	[NATIONAL_DEX_DESICCATEDSKITTERLEAF] =
 	{
 		.categoryName = {_W, _e, _e, _d, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 8,
@@ -544,7 +544,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_VILEPLUME] =
+	[NATIONAL_DEX_ARMOREDCANNONLARVA] =
 	{
 		.categoryName = {_F, _l, _o, _w, _e, _r, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 12,
@@ -556,7 +556,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 272,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_PARAS] =
+	[NATIONAL_DEX_ARMOREDCANNONBEETLE] =
 	{
 		.categoryName = {_M, _u, _s, _h, _r, _o, _o, _m, _END, _SPACE, _SPACE, _SPACE},
 		.height = 3,
@@ -568,7 +568,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_PARASECT] =
+	[NATIONAL_DEX_HORNEDCANNONBEETLE] =
 	{
 		.categoryName = {_M, _u, _s, _h, _r, _o, _o, _m, _END, _SPACE, _SPACE, _SPACE},
 		.height = 10,

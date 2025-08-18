@@ -198,47 +198,47 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x88,
 		.y_offset = 0x3,
 	},
-	[SPECIES_JIGGLYPUFF] =
+	[SPECIES_GOOLIX] =
 	{
 		.size = 0x55,
 		.y_offset = 0xe,
 	},
-	[SPECIES_WIGGLYTUFF] =
+	[SPECIES_FOOLIX] =
 	{
 		.size = 0x67,
 		.y_offset = 0x4,
 	},
-	[SPECIES_ZUBAT] =
+	[SPECIES_ARCTICCANNONLARVA] =
 	{
 		.size = 0x66,
 		.y_offset = 0xa,
 	},
-	[SPECIES_GOLBAT] =
+	[SPECIES_ARCTICCANNONBEETLE] =
 	{
 		.size = 0x88,
 		.y_offset = 0x7,
 	},
-	[SPECIES_ODDISH] =
+	[SPECIES_SKITTERLEAF] =
 	{
 		.size = 0x45,
 		.y_offset = 0xe,
 	},
-	[SPECIES_GLOOM] =
+	[SPECIES_DESICCATEDSKITTERLEAF] =
 	{
 		.size = 0x66,
 		.y_offset = 0xc,
 	},
-	[SPECIES_VILEPLUME] =
+	[SPECIES_ARMOREDCANNONLARVA] =
 	{
 		.size = 0x76,
 		.y_offset = 0x8,
 	},
-	[SPECIES_PARAS] =
+	[SPECIES_ARMOREDCANNONBEETLE] =
 	{
 		.size = 0x64,
 		.y_offset = 0xc,
 	},
-	[SPECIES_PARASECT] =
+	[SPECIES_HORNEDCANNONBEETLE] =
 	{
 		.size = 0x86,
 		.y_offset = 0x7,

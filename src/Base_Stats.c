@@ -1265,7 +1265,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_JIGGLYPUFF] =
+	[SPECIES_GOOLIX] =
 	{
 		.baseHP = 115,
 		.baseAttack = 45,
@@ -1298,7 +1298,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_WIGGLYTUFF] =
+	[SPECIES_FOOLIX] =
 	{
 		.baseHP = 130,
 		.baseAttack = 70,
@@ -1331,7 +1331,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_ZUBAT] =
+	[SPECIES_ARCTICCANNONLARVA] =
 	{
 		.baseHP = 40,
 		.baseAttack = 45,
@@ -1364,7 +1364,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_GOLBAT] =
+	[SPECIES_ARCTICCANNONBEETLE] =
 	{
 		.baseHP = 75,
 		.baseAttack = 80,
@@ -1397,7 +1397,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_ODDISH] =
+	[SPECIES_SKITTERLEAF] =
 	{
 		.baseHP = 45,
 		.baseAttack = 50,
@@ -1430,7 +1430,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_GLOOM] =
+	[SPECIES_DESICCATEDSKITTERLEAF] =
 	{
 		.baseHP = 60,
 		.baseAttack = 65,
@@ -1463,7 +1463,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_VILEPLUME] =
+	[SPECIES_ARMOREDCANNONLARVA] =
 	{
 		.baseHP = 85, //75
 		.baseAttack = 70, //80
@@ -1496,7 +1496,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PARAS] =
+	[SPECIES_ARMOREDCANNONBEETLE] =
 	{
 		.baseHP = 35,
 		.baseAttack = 70,
@@ -1529,7 +1529,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PARASECT] =
+	[SPECIES_HORNEDCANNONBEETLE] =
 	{
 		.baseHP = 60,
 		.baseAttack = 105, //95
