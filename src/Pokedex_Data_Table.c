@@ -580,7 +580,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_VENONAT] =
+	[NATIONAL_DEX_CREEPINGCHRYSANTHEMUM] =
 	{
 		.categoryName = {_I, _n, _s, _e, _c, _t, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 10,
@@ -592,7 +592,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_VENOMOTH] =
+	[NATIONAL_DEX_STARTLESPORE] =
 	{
 		.categoryName = {_P, _o, _i, _s, _o, _n, _SPACE, _M, _o, _t, _h, _END},
 		.height = 15,
@@ -604,7 +604,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 293,
 		.trainerOffset = 1,
 	},
-	[NATIONAL_DEX_DIGLETT] =
+	[NATIONAL_DEX_HERMITCRAWMAD] =
 	{
 		.categoryName = {_M, _o, _l, _e, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 2,
@@ -616,7 +616,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_DUGTRIO] =
+	[NATIONAL_DEX_BUGEYEDCRAWMAD] =
 	{
 		.categoryName = {_M, _o, _l, _e, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 7,
@@ -628,7 +628,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_MEOWTH] =
+	[NATIONAL_DEX_DWARFBULBORB] =
 	{
 		.categoryName = {_S, _c, _r, _a, _t, _c, _h, _SPACE, _C, _a, _t, _END},
 		.height = 4,
@@ -640,7 +640,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_PERSIAN] =
+	[NATIONAL_DEX_DWARFORANGEBULBORB] =
 	{
 		.categoryName = {_C, _l, _a, _s, _s, _y, _SPACE, _C, _a, _t, _END, _SPACE},
 		.height = 10,
@@ -12463,11 +12463,11 @@ const struct AlternateDexEntries gAlternateDexEntries[] =
 	ALTERNATE_DEX_ENTRY(DOWNYSNAGRET_A),
 	ALTERNATE_DEX_ENTRY(ARISTOCRABOFFSPRING_A),
 	ALTERNATE_DEX_ENTRY(ARISTOCRAB_A),
-	ALTERNATE_DEX_ENTRY(DIGLETT_A),
-	ALTERNATE_DEX_ENTRY(DUGTRIO_A),
-	ALTERNATE_DEX_ENTRY(MEOWTH_A),
-	ALTERNATE_DEX_ENTRY(MEOWTH_G),
-	ALTERNATE_DEX_ENTRY(PERSIAN_A),
+	ALTERNATE_DEX_ENTRY(HERMITCRAWMAD_A),
+	ALTERNATE_DEX_ENTRY(BUGEYEDCRAWMAD_A),
+	ALTERNATE_DEX_ENTRY(DWARFBULBORB_A),
+	ALTERNATE_DEX_ENTRY(DWARFBULBORB_G),
+	ALTERNATE_DEX_ENTRY(DWARFORANGEBULBORB_A),
 	ALTERNATE_DEX_ENTRY(GEODUDE_A),
 	ALTERNATE_DEX_ENTRY(GRAVELER_A),
 	ALTERNATE_DEX_ENTRY(GOLEM_A),

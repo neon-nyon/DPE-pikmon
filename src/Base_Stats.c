@@ -1562,7 +1562,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_VENONAT] =
+	[SPECIES_CREEPINGCHRYSANTHEMUM] =
 	{
 		.baseHP = 60,
 		.baseAttack = 55,
@@ -1595,7 +1595,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_VENOMOTH] =
+	[SPECIES_STARTLESPORE] =
 	{
 		.baseHP = 70,
 		.baseAttack = 65,
@@ -1628,7 +1628,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_DIGLETT] =
+	[SPECIES_HERMITCRAWMAD] =
 	{
 		.baseHP = 10,
 		.baseAttack = 55,
@@ -1661,7 +1661,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_DUGTRIO] =
+	[SPECIES_BUGEYEDCRAWMAD] =
 	{
 		.baseHP = 55,
 		.baseAttack = 130,
@@ -1694,7 +1694,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_MEOWTH] =
+	[SPECIES_DWARFBULBORB] =
 	{
 		.baseHP = 40,
 		.baseAttack = 45,
@@ -1727,7 +1727,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PERSIAN] =
+	[SPECIES_DWARFORANGEBULBORB] =
 	{
 		.baseHP = 65,
 		.baseAttack = 70,
@@ -32943,7 +32943,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_DIGLETT_A] =
+	[SPECIES_HERMITCRAWMAD_A] =
 	{
 		.baseHP = 10,
 		.baseAttack = 55,
@@ -32976,7 +32976,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_DUGTRIO_A] =
+	[SPECIES_BUGEYEDCRAWMAD_A] =
 	{
 		.baseHP = 35,
 		.baseAttack = 130,
@@ -33009,7 +33009,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_MEOWTH_A] =
+	[SPECIES_DWARFBULBORB_A] =
 	{
 		.baseHP = 40,
 		.baseAttack = 35,
@@ -33042,7 +33042,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PERSIAN_A] =
+	[SPECIES_DWARFORANGEBULBORB_A] =
 	{
 		.baseHP = 65,
 		.baseAttack = 60,
@@ -39047,7 +39047,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_MEOWTH_G] =
+	[SPECIES_DWARFBULBORB_G] =
 	{
 		.baseHP = 50,
 		.baseAttack = 65,
@@ -39938,7 +39938,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_MEOWTH_GIGA] =
+	[SPECIES_DWARFBULBORB_GIGA] =
 	{
 		.baseHP = 40,
 		.baseAttack = 45,

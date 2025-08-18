@@ -568,7 +568,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_VENONAT] =
+	[SPECIES_CREEPINGCHRYSANTHEMUM] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -580,7 +580,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_VENOMOTH] =
+	[SPECIES_STARTLESPORE] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -592,7 +592,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_DIGLETT] =
+	[SPECIES_HERMITCRAWMAD] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -604,7 +604,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_DUGTRIO] =
+	[SPECIES_BUGEYEDCRAWMAD] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -616,7 +616,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_MEOWTH] =
+	[SPECIES_DWARFBULBORB] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -628,7 +628,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_PERSIAN] =
+	[SPECIES_DWARFORANGEBULBORB] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -12018,7 +12018,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_DIGLETT_A] = 
+	[SPECIES_HERMITCRAWMAD_A] = 
 	{	
 		.type = 0x20,
 		.key = 0x3c,
@@ -12030,7 +12030,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_DUGTRIO_A] = 
+	[SPECIES_BUGEYEDCRAWMAD_A] = 
 	{	
 		.type = 0x20,
 		.key = 0x3c,
@@ -12042,7 +12042,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_MEOWTH_A] = 
+	[SPECIES_DWARFBULBORB_A] = 
 	{	
 		.type = 0x20,
 		.key = 0x3c,
@@ -12054,7 +12054,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_PERSIAN_A] = 
+	[SPECIES_DWARFORANGEBULBORB_A] = 
 	{	
 		.type = 0x20,
 		.key = 0x3c,
@@ -14238,7 +14238,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_MEOWTH_G] =
+	[SPECIES_DWARFBULBORB_G] =
 	{	
 		.type = 0x20,
 		.key = 0x3c,
@@ -14562,7 +14562,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_MEOWTH_GIGA] =
+	[SPECIES_DWARFBULBORB_GIGA] =
 	{	
 		.type = 0x20,
 		.key = 0x3c,

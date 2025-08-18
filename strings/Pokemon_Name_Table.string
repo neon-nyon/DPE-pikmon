@@ -146,23 +146,23 @@ ArmoredCannonBeetle
 #org @NAME_HORNEDCANNONBEETLE
 HornedCannonBeetle
 
-#org @NAME_VENONAT
-Venonat
+#org @NAME_CREEPINGCHRYSANTHEMUM
+CreepingChrysanthemum
 
-#org @NAME_VENOMOTH
-Venomoth
+#org @NAME_STARTLESPORE
+StartleSpore
 
-#org @NAME_DIGLETT
-Diglett
+#org @NAME_HERMITCRAWMAD
+HermitCrawmad
 
-#org @NAME_DUGTRIO
-Dugtrio
+#org @NAME_BUGEYEDCRAWMAD
+BugEyedCrawmad
 
-#org @NAME_MEOWTH
-Meowth
+#org @NAME_DWARFBULBORB
+DwarfBulborb
 
-#org @NAME_PERSIAN
-Persian
+#org @NAME_DWARFORANGEBULBORB
+DwarfOrangeBulborb
 
 #org @NAME_PSYDUCK
 Psyduck
@@ -3083,17 +3083,17 @@ AristocrabOffspring
 #org @NAME_AARISTOCRAB
 Aristocrab
 
-#org @NAME_ADIGLETT
-Diglett
+#org @NAME_AHERMITCRAWMAD
+HermitCrawmad
 
-#org @NAME_ADUGTRIO
-Dugtrio
+#org @NAME_ABUGEYEDCRAWMAD
+BugEyedCrawmad
 
-#org @NAME_AMEOWTH
-Meowth
+#org @NAME_ADWARFBULBORB
+DwarfBulborb
 
-#org @NAME_APERSIAN
-Persian
+#org @NAME_ADWARFORANGEBULBORB
+DwarfOrangeBulborb
 
 #org @NAME_AGEODUDE
 Geodude
@@ -3638,8 +3638,8 @@ Calyrex
 #org @NAME_CALYREX_SHADOW
 Calyrex
 
-#org @NAME_MEOWTH_G
-Meowth
+#org @NAME_DWARFBULBORB_G
+DwarfBulborb
 
 #org @NAME_PONYTA_G
 Ponyta
@@ -3797,8 +3797,8 @@ GlintBeetle
 #org @NAME_SPOTTYBULBEAR_GIGA
 SpottyBulbear
 
-#org @NAME_MEOWTH_GIGA
-Meowth
+#org @NAME_DWARFBULBORB_GIGA
+DwarfBulborb
 
 #org @NAME_MACHAMP_GIGA
 Machamp

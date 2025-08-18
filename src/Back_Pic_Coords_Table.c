@@ -243,32 +243,32 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x87,
 		.y_offset = 0xd,
 	},
-	[SPECIES_VENONAT] =
+	[SPECIES_CREEPINGCHRYSANTHEMUM] =
 	{
 		.size = 0x77,
 		.y_offset = 0x5,
 	},
-	[SPECIES_VENOMOTH] =
+	[SPECIES_STARTLESPORE] =
 	{
 		.size = 0x77,
 		.y_offset = 0x4,
 	},
-	[SPECIES_DIGLETT] =
+	[SPECIES_HERMITCRAWMAD] =
 	{
 		.size = 0x54,
 		.y_offset = 0xe,
 	},
-	[SPECIES_DUGTRIO] =
+	[SPECIES_BUGEYEDCRAWMAD] =
 	{
 		.size = 0x66,
 		.y_offset = 0x11,
 	},
-	[SPECIES_MEOWTH] =
+	[SPECIES_DWARFBULBORB] =
 	{
 		.size = 0x65,
 		.y_offset = 0x6,
 	},
-	[SPECIES_PERSIAN] =
+	[SPECIES_DWARFORANGEBULBORB] =
 	{
 		.size = 0x87,
 		.y_offset = 0x7,
@@ -5133,22 +5133,22 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x5,
 	},
-	[SPECIES_DIGLETT_A] =
+	[SPECIES_HERMITCRAWMAD_A] =
 	{
 		.size = 0x0,
 		.y_offset = 0xe,
 	},
-	[SPECIES_DUGTRIO_A] =
+	[SPECIES_BUGEYEDCRAWMAD_A] =
 	{
 		.size = 0x0,
 		.y_offset = 0x11,
 	},
-	[SPECIES_MEOWTH_A] =
+	[SPECIES_DWARFBULBORB_A] =
 	{
 		.size = 0x0,
 		.y_offset = 0x7,
 	},
-	[SPECIES_PERSIAN_A] =
+	[SPECIES_DWARFORANGEBULBORB_A] =
 	{
 		.size = 0x0,
 		.y_offset = 0xa,
@@ -6048,7 +6048,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x7,
 	},
-	[SPECIES_MEOWTH_G] =
+	[SPECIES_DWARFBULBORB_G] =
 	{
 		.size = 0x0,
 		.y_offset = 0x8,
@@ -7015,7 +7015,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_MEOWTH_GIGA] =
+	[SPECIES_DWARFBULBORB_GIGA] =
 	{
 		.size = 0x0,
 		.y_offset = 0x5,
