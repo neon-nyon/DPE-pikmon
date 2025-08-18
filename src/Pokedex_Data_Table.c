@@ -292,7 +292,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_ARBOK] =
+	[NATIONAL_DEX_DWARFBULBEAR] =
 	{
 		.categoryName = {_C, _o, _b, _r, _a, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 35,
@@ -304,7 +304,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 296,
 		.trainerOffset = 1,
 	},
-	[NATIONAL_DEX_PIKACHU] =
+	[NATIONAL_DEX_SPOTTYBULBEAR] =
 	{
 		.categoryName = {_M, _o, _u, _s, _e, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 4,
@@ -316,7 +316,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_RAICHU] =
+	[NATIONAL_DEX_HONEYWISP] =
 	{
 		.categoryName = {_M, _o, _u, _s, _e, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 8,
@@ -328,7 +328,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_SANDSHREW] =
+	[NATIONAL_DEX_DANDELFLY] =
 	{
 		.categoryName = {_M, _o, _u, _s, _e, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 6,
@@ -340,7 +340,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_SANDSLASH] =
+	[NATIONAL_DEX_DOWNYSNAGRET] =
 	{
 		.categoryName = {_M, _o, _u, _s, _e, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 10,
@@ -352,7 +352,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_NIDORAN_F] =
+	[NATIONAL_DEX_BURROWINGSNAGRET] =
 	{
 		.categoryName = {_P, _o, _i, _s, _o, _n, _SPACE, _P, _i, _n, _END, _SPACE},
 		.height = 4,
@@ -364,7 +364,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_NIDORINA] =
+	[NATIONAL_DEX_PILEATEDSNAGRET] =
 	{
 		.categoryName = {_P, _o, _i, _s, _o, _n, _SPACE, _P, _i, _n, _END, _SPACE},
 		.height = 8,
@@ -376,7 +376,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_NIDOQUEEN] =
+	[NATIONAL_DEX_FEMALESHEARGRUB] =
 	{
 		.categoryName = {_D, _r, _i, _l, _l, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 13,
@@ -388,7 +388,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_NIDORAN_M] =
+	[NATIONAL_DEX_SWARMINGSHEARGRUB] =
 	{
 		.categoryName = {_P, _o, _i, _s, _o, _n, _SPACE, _P, _i, _n, _END, _SPACE},
 		.height = 5,
@@ -400,7 +400,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_NIDORINO] =
+	[NATIONAL_DEX_MAMASHEARGRUB] =
 	{
 		.categoryName = {_P, _o, _i, _s, _o, _n, _SPACE, _P, _i, _n, _END, _SPACE},
 		.height = 9,
@@ -412,7 +412,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_NIDOKING] =
+	[NATIONAL_DEX_MALESHEARGRUB] =
 	{
 		.categoryName = {_D, _r, _i, _l, _l, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 14,
@@ -424,7 +424,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 323,
 		.trainerOffset = 2,
 	},
-	[NATIONAL_DEX_CLEFAIRY] =
+	[NATIONAL_DEX_SHEARWIG] =
 	{
 		.categoryName = {_F, _a, _i, _r, _y, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 6,
@@ -436,7 +436,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_CLEFABLE] =
+	[NATIONAL_DEX_QUEENSHEARWIG] =
 	{
 		.categoryName = {_F, _a, _i, _r, _y, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 13,
@@ -12458,9 +12458,9 @@ const struct AlternateDexEntries gAlternateDexEntries[] =
 {
 	ALTERNATE_DEX_ENTRY(CRUMBUG_A),
 	ALTERNATE_DEX_ENTRY(BREADBUG_A),
-	ALTERNATE_DEX_ENTRY(RAICHU_A),
-	ALTERNATE_DEX_ENTRY(SANDSHREW_A),
-	ALTERNATE_DEX_ENTRY(SANDSLASH_A),
+	ALTERNATE_DEX_ENTRY(HONEYWISP_A),
+	ALTERNATE_DEX_ENTRY(DANDELFLY_A),
+	ALTERNATE_DEX_ENTRY(DOWNYSNAGRET_A),
 	ALTERNATE_DEX_ENTRY(VULPIX_A),
 	ALTERNATE_DEX_ENTRY(NINETALES_A),
 	ALTERNATE_DEX_ENTRY(DIGLETT_A),

@@ -123,67 +123,67 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x65,
 		.y_offset = 0xc,
 	},
-	[SPECIES_ARBOK] =
+	[SPECIES_DWARFBULBEAR] =
 	{
 		.size = 0x78,
 		.y_offset = 0x2,
 	},
-	[SPECIES_PIKACHU] =
+	[SPECIES_SPOTTYBULBEAR] =
 	{
 		.size = 0x67,
 		.y_offset = 0x8,
 	},
-	[SPECIES_RAICHU] =
+	[SPECIES_HONEYWISP] =
 	{
 		.size = 0x88,
 		.y_offset = 0x2,
 	},
-	[SPECIES_SANDSHREW] =
+	[SPECIES_DANDELFLY] =
 	{
 		.size = 0x56,
 		.y_offset = 0xa,
 	},
-	[SPECIES_SANDSLASH] =
+	[SPECIES_DOWNYSNAGRET] =
 	{
 		.size = 0x77,
 		.y_offset = 0x6,
 	},
-	[SPECIES_NIDORAN_F] =
+	[SPECIES_BURROWINGSNAGRET] =
 	{
 		.size = 0x54,
 		.y_offset = 0xd,
 	},
-	[SPECIES_NIDORINA] =
+	[SPECIES_PILEATEDSNAGRET] =
 	{
 		.size = 0x66,
 		.y_offset = 0x8,
 	},
-	[SPECIES_NIDOQUEEN] =
+	[SPECIES_FEMALESHEARGRUB] =
 	{
 		.size = 0x78,
 		.y_offset = 0x2,
 	},
-	[SPECIES_NIDORAN_M] =
+	[SPECIES_SWARMINGSHEARGRUB] =
 	{
 		.size = 0x55,
 		.y_offset = 0xc,
 	},
-	[SPECIES_NIDORINO] =
+	[SPECIES_MAMASHEARGRUB] =
 	{
 		.size = 0x66,
 		.y_offset = 0x8,
 	},
-	[SPECIES_NIDOKING] =
+	[SPECIES_MALESHEARGRUB] =
 	{
 		.size = 0x88,
 		.y_offset = 0x3,
 	},
-	[SPECIES_CLEFAIRY] =
+	[SPECIES_SHEARWIG] =
 	{
 		.size = 0x55,
 		.y_offset = 0xe,
 	},
-	[SPECIES_CLEFABLE] =
+	[SPECIES_QUEENSHEARWIG] =
 	{
 		.size = 0x67,
 		.y_offset = 0x6,
@@ -5108,17 +5108,17 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x8,
 	},
-	[SPECIES_RAICHU_A] =
+	[SPECIES_HONEYWISP_A] =
 	{
 		.size = 0x0,
 		.y_offset = 0x1,
 	},
-	[SPECIES_SANDSHREW_A] =
+	[SPECIES_DANDELFLY_A] =
 	{
 		.size = 0x0,
 		.y_offset = 0xd,
 	},
-	[SPECIES_SANDSLASH_A] =
+	[SPECIES_DOWNYSNAGRET_A] =
 	{
 		.size = 0x0,
 		.y_offset = 0x1,
@@ -5413,77 +5413,77 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x4,
 	},
-	[SPECIES_PIKACHU_SURFING] =
+	[SPECIES_SPOTTYBULBEAR_SURFING] =
 	{
 		.size = 0x0,
 		.y_offset = 0x6,
 	},
-	[SPECIES_PIKACHU_FLYING] =
+	[SPECIES_SPOTTYBULBEAR_FLYING] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_PIKACHU_COSPLAY] =
+	[SPECIES_SPOTTYBULBEAR_COSPLAY] =
 	{
 		.size = 0x0,
 		.y_offset = 0x9,
 	},
-	[SPECIES_PIKACHU_LIBRE] =
+	[SPECIES_SPOTTYBULBEAR_LIBRE] =
 	{
 		.size = 0x0,
 		.y_offset = 0x9,
 	},
-	[SPECIES_PIKACHU_POP_STAR] =
+	[SPECIES_SPOTTYBULBEAR_POP_STAR] =
 	{
 		.size = 0x0,
 		.y_offset = 0x9,
 	},
-	[SPECIES_PIKACHU_ROCK_STAR] =
+	[SPECIES_SPOTTYBULBEAR_ROCK_STAR] =
 	{
 		.size = 0x0,
 		.y_offset = 0x9,
 	},
-	[SPECIES_PIKACHU_BELLE] =
+	[SPECIES_SPOTTYBULBEAR_BELLE] =
 	{
 		.size = 0x0,
 		.y_offset = 0x9,
 	},
-	[SPECIES_PIKACHU_PHD] =
+	[SPECIES_SPOTTYBULBEAR_PHD] =
 	{
 		.size = 0x0,
 		.y_offset = 0x9,
 	},
-	[SPECIES_PIKACHU_CAP_ORIGINAL] =
+	[SPECIES_SPOTTYBULBEAR_CAP_ORIGINAL] =
 	{
 		.size = 0x0,
 		.y_offset = 0x9,
 	},
-	[SPECIES_PIKACHU_CAP_HOENN] =
+	[SPECIES_SPOTTYBULBEAR_CAP_HOENN] =
 	{
 		.size = 0x0,
 		.y_offset = 0x9,
 	},
-	[SPECIES_PIKACHU_CAP_SINNOH] =
+	[SPECIES_SPOTTYBULBEAR_CAP_SINNOH] =
 	{
 		.size = 0x0,
 		.y_offset = 0x9,
 	},
-	[SPECIES_PIKACHU_CAP_UNOVA] =
+	[SPECIES_SPOTTYBULBEAR_CAP_UNOVA] =
 	{
 		.size = 0x0,
 		.y_offset = 0x9,
 	},
-	[SPECIES_PIKACHU_CAP_KALOS] =
+	[SPECIES_SPOTTYBULBEAR_CAP_KALOS] =
 	{
 		.size = 0x0,
 		.y_offset = 0x9,
 	},
-	[SPECIES_PIKACHU_CAP_ALOLA] =
+	[SPECIES_SPOTTYBULBEAR_CAP_ALOLA] =
 	{
 		.size = 0x0,
 		.y_offset = 0x9,
 	},
-	[SPECIES_PIKACHU_CAP_PARTNER] =
+	[SPECIES_SPOTTYBULBEAR_CAP_PARTNER] =
 	{
 		.size = 0x0,
 		.y_offset = 0x9,
@@ -7010,7 +7010,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_PIKACHU_GIGA] =
+	[SPECIES_SPOTTYBULBEAR_GIGA] =
 	{
 		.size = 0x0,
 		.y_offset = 0x2,

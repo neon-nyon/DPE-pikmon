@@ -70,7 +70,7 @@ enum MegaEvoVariants
 	MEGA_VARIANT_ULTRA_BURST, //Necrozma
 };
 
-#define MB_SHALLOW_WATER 0x17 //For Alolan Raichu
+#define MB_SHALLOW_WATER 0x17 //For Alolan Honeywisp
 
 #define MAPSEC_FROST_MOUNTAIN				0x82
 #define MAPSEC_ROUTE_8 						0x6C

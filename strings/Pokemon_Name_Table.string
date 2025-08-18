@@ -74,44 +74,44 @@ Fearow
 #org @NAME_EKANS
 Ekans
 
-#org @NAME_ARBOK
-Arbok
+#org @NAME_DWARFBULBEAR
+DwarfBulbear
 
-#org @NAME_PIKACHU
-Pikachu
+#org @NAME_SPOTTYBULBEAR
+SpottyBulbear
 
-#org @NAME_RAICHU
-Raichu
+#org @NAME_HONEYWISP
+Honeywisp
 
-#org @NAME_SANDSHREW
-Sandshrew
+#org @NAME_DANDELFLY
+Dandelfly
 
-#org @NAME_SANDSLASH
-Sandslash
+#org @NAME_DOWNYSNAGRET
+DownySnagret
 
 #org @NAME_NIDORANF
 Nidoran[B6]
 
-#org @NAME_NIDORINA
-Nidorina
+#org @NAME_PILEATEDSNAGRET
+PileatedSnagret
 
-#org @NAME_NIDOQUEEN
-Nidoqueen
+#org @NAME_FEMALESHEARGRUB
+FemaleSheargrub
 
 #org @NAME_NIDORANM
 Nidoran[B5]
 
-#org @NAME_NIDORINO
-Nidorino
+#org @NAME_MAMASHEARGRUB
+MamaSheargrub
 
-#org @NAME_NIDOKING
-Nidoking
+#org @NAME_MALESHEARGRUB
+Shearwig
 
-#org @NAME_CLEFAIRY
-Clefairy
+#org @NAME_SHEARWIG
+Shearwig
 
-#org @NAME_CLEFABLE
-Clefable
+#org @NAME_QUEENSHEARWIG
+QueenShearwig
 
 #org @NAME_VULPIX
 Vulpix
@@ -3068,14 +3068,14 @@ Crumbug
 #org @NAME_ABREADBUG
 Breadbug
 
-#org @NAME_ARAICHU
-Raichu
+#org @NAME_AHONEYWISP
+Honeywisp
 
-#org @NAME_ASANDSHREW
-Sandshrew
+#org @NAME_ADANDELFLY
+Dandelfly
 
-#org @NAME_ASANDSLASH
-Sandslash
+#org @NAME_ADOWNYSNAGRET
+DownySnagret
 
 #org @NAME_AVULPIX
 Vulpix
@@ -3257,50 +3257,50 @@ Meltan
 #org @NAME_MELMETAL
 Melmetal
 
-#org @NAME_PIKACHU_SURFING
-Pikachu
+#org @NAME_SPOTTYBULBEAR_SURFING
+SpottyBulbear
 
-#org @NAME_PIKACHU_FLYING
-Pikachu
+#org @NAME_SPOTTYBULBEAR_FLYING
+SpottyBulbear
 
-#org @NAME_PIKACHU_COSPLAY
-Pikachu
+#org @NAME_SPOTTYBULBEAR_COSPLAY
+SpottyBulbear
 
-#org @NAME_PIKACHU_LIBRE
-Pikachu
+#org @NAME_SPOTTYBULBEAR_LIBRE
+SpottyBulbear
 
-#org @NAME_PIKACHU_POP_STAR
-Pikachu
+#org @NAME_SPOTTYBULBEAR_POP_STAR
+SpottyBulbear
 
-#org @NAME_PIKACHU_ROCK_STAR
-Pikachu
+#org @NAME_SPOTTYBULBEAR_ROCK_STAR
+SpottyBulbear
 
-#org @NAME_PIKACHU_BELLE
-Pikachu
+#org @NAME_SPOTTYBULBEAR_BELLE
+SpottyBulbear
 
-#org @NAME_PIKACHU_PHD
-Pikachu
+#org @NAME_SPOTTYBULBEAR_PHD
+SpottyBulbear
 
-#org @NAME_PIKACHU_CAP_ORIGINAL
-Pikachu
+#org @NAME_SPOTTYBULBEAR_CAP_ORIGINAL
+SpottyBulbear
 
-#org @NAME_PIKACHU_CAP_HOENN
-Pikachu
+#org @NAME_SPOTTYBULBEAR_CAP_HOENN
+SpottyBulbear
 
-#org @NAME_PIKACHU_CAP_SINNOH
-Pikachu
+#org @NAME_SPOTTYBULBEAR_CAP_SINNOH
+SpottyBulbear
 
-#org @NAME_PIKACHU_CAP_UNOVA
-Pikachu
+#org @NAME_SPOTTYBULBEAR_CAP_UNOVA
+SpottyBulbear
 
-#org @NAME_PIKACHU_CAP_KALOS
-Pikachu
+#org @NAME_SPOTTYBULBEAR_CAP_KALOS
+SpottyBulbear
 
-#org @NAME_PIKACHU_CAP_ALOLA
-Pikachu
+#org @NAME_SPOTTYBULBEAR_CAP_ALOLA
+SpottyBulbear
 
-#org @NAME_PIKACHU_CAP_PARTNER
-Pikachu
+#org @NAME_SPOTTYBULBEAR_CAP_PARTNER
+SpottyBulbear
 
 #org @NAME_PICHU_SPIKY
 Pichu
@@ -3794,8 +3794,8 @@ Masterhop
 #org @NAME_GLINTBEETLE_GIGA
 GlintBeetle
 
-#org @NAME_PIKACHU_GIGA
-Pikachu
+#org @NAME_SPOTTYBULBEAR_GIGA
+SpottyBulbear
 
 #org @NAME_MEOWTH_GIGA
 Meowth

@@ -770,7 +770,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_ARBOK] =
+	[SPECIES_DWARFBULBEAR] =
 	{
 		.baseHP = 70, //60
 		.baseAttack = 95,
@@ -803,7 +803,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIKACHU] =
+	[SPECIES_SPOTTYBULBEAR] =
 	{
 		.baseHP = 35,
 		.baseAttack = 55,
@@ -836,7 +836,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_RAICHU] =
+	[SPECIES_HONEYWISP] =
 	{
 		.baseHP = 60,
 		.baseAttack = 80,
@@ -869,7 +869,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SANDSHREW] =
+	[SPECIES_DANDELFLY] =
 	{
 		.baseHP = 50,
 		.baseAttack = 75,
@@ -902,7 +902,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SANDSLASH] =
+	[SPECIES_DOWNYSNAGRET] =
 	{
 		.baseHP = 75,
 		.baseAttack = 110,
@@ -935,7 +935,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_NIDORAN_F] =
+	[SPECIES_BURROWINGSNAGRET] =
 	{
 		.baseHP = 55,
 		.baseAttack = 47,
@@ -968,7 +968,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_NIDORINA] =
+	[SPECIES_PILEATEDSNAGRET] =
 	{
 		.baseHP = 70,
 		.baseAttack = 62,
@@ -1001,7 +1001,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_NIDOQUEEN] =
+	[SPECIES_FEMALESHEARGRUB] =
 	{
 		.baseHP = 90,
 		.baseAttack = 92,
@@ -1034,7 +1034,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_NIDORAN_M] =
+	[SPECIES_SWARMINGSHEARGRUB] =
 	{
 		.baseHP = 46,
 		.baseAttack = 57,
@@ -1067,7 +1067,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_NIDORINO] =
+	[SPECIES_MAMASHEARGRUB] =
 	{
 		.baseHP = 61,
 		.baseAttack = 72,
@@ -1100,7 +1100,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_NIDOKING] =
+	[SPECIES_MALESHEARGRUB] =
 	{
 		.baseHP = 81,
 		.baseAttack = 102,
@@ -1133,7 +1133,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_CLEFAIRY] =
+	[SPECIES_SHEARWIG] =
 	{
 		.baseHP = 70,
 		.baseAttack = 45,
@@ -1166,7 +1166,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_CLEFABLE] =
+	[SPECIES_QUEENSHEARWIG] =
 	{
 		.baseHP = 95,
 		.baseAttack = 70,
@@ -32778,7 +32778,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_RAICHU_A] =
+	[SPECIES_HONEYWISP_A] =
 	{
 		.baseHP = 60,
 		.baseAttack = 85,
@@ -32811,7 +32811,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SANDSHREW_A] =
+	[SPECIES_DANDELFLY_A] =
 	{
 		.baseHP = 50,
 		.baseAttack = 75,
@@ -32844,7 +32844,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SANDSLASH_A] =
+	[SPECIES_DOWNYSNAGRET_A] =
 	{
 		.baseHP = 75,
 		.baseAttack = 120,
@@ -34857,7 +34857,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIKACHU_SURFING] =
+	[SPECIES_SPOTTYBULBEAR_SURFING] =
 	{
 		.baseHP = 35,
 		.baseAttack = 55,
@@ -34890,7 +34890,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIKACHU_FLYING] =
+	[SPECIES_SPOTTYBULBEAR_FLYING] =
 	{
 		.baseHP = 35,
 		.baseAttack = 55,
@@ -34923,7 +34923,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIKACHU_COSPLAY] =
+	[SPECIES_SPOTTYBULBEAR_COSPLAY] =
 	{
 		.baseHP = 35,
 		.baseAttack = 55,
@@ -34956,7 +34956,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIKACHU_LIBRE] =
+	[SPECIES_SPOTTYBULBEAR_LIBRE] =
 	{
 		.baseHP = 35,
 		.baseAttack = 55,
@@ -34989,7 +34989,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIKACHU_POP_STAR] =
+	[SPECIES_SPOTTYBULBEAR_POP_STAR] =
 	{
 		.baseHP = 35,
 		.baseAttack = 55,
@@ -35022,7 +35022,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIKACHU_ROCK_STAR] =
+	[SPECIES_SPOTTYBULBEAR_ROCK_STAR] =
 	{
 		.baseHP = 35,
 		.baseAttack = 55,
@@ -35055,7 +35055,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIKACHU_BELLE] =
+	[SPECIES_SPOTTYBULBEAR_BELLE] =
 	{
 		.baseHP = 35,
 		.baseAttack = 55,
@@ -35088,7 +35088,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIKACHU_PHD] =
+	[SPECIES_SPOTTYBULBEAR_PHD] =
 	{
 		.baseHP = 35,
 		.baseAttack = 55,
@@ -35121,7 +35121,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIKACHU_CAP_ORIGINAL] =
+	[SPECIES_SPOTTYBULBEAR_CAP_ORIGINAL] =
 	{
 		.baseHP = 35,
 		.baseAttack = 55,
@@ -35154,7 +35154,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIKACHU_CAP_HOENN] =
+	[SPECIES_SPOTTYBULBEAR_CAP_HOENN] =
 	{
 		.baseHP = 35,
 		.baseAttack = 55,
@@ -35187,7 +35187,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIKACHU_CAP_SINNOH] =
+	[SPECIES_SPOTTYBULBEAR_CAP_SINNOH] =
 	{
 		.baseHP = 35,
 		.baseAttack = 55,
@@ -35220,7 +35220,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIKACHU_CAP_UNOVA] =
+	[SPECIES_SPOTTYBULBEAR_CAP_UNOVA] =
 	{
 		.baseHP = 35,
 		.baseAttack = 55,
@@ -35253,7 +35253,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIKACHU_CAP_KALOS] =
+	[SPECIES_SPOTTYBULBEAR_CAP_KALOS] =
 	{
 		.baseHP = 35,
 		.baseAttack = 55,
@@ -35286,7 +35286,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIKACHU_CAP_ALOLA] =
+	[SPECIES_SPOTTYBULBEAR_CAP_ALOLA] =
 	{
 		.baseHP = 35,
 		.baseAttack = 55,
@@ -35319,7 +35319,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIKACHU_CAP_PARTNER] =
+	[SPECIES_SPOTTYBULBEAR_CAP_PARTNER] =
 	{
 		.baseHP = 35,
 		.baseAttack = 55,
@@ -39905,7 +39905,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIKACHU_GIGA] =
+	[SPECIES_SPOTTYBULBEAR_GIGA] =
 	{
 		.baseHP = 35,
 		.baseAttack = 55,
