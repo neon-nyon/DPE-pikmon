@@ -660,7 +660,7 @@ static const struct LevelUpMove sQueenShearwigLevelUpLearnset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sVulpixLevelUpLearnset[] = {
+static const struct LevelUpMove sAristocrabOffspringLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_EMBER),
 	LEVEL_UP_MOVE( 4, MOVE_TAILWHIP),
 	LEVEL_UP_MOVE( 7, MOVE_ROAR),
@@ -684,7 +684,7 @@ static const struct LevelUpMove sVulpixLevelUpLearnset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sNinetalesLevelUpLearnset[] = {
+static const struct LevelUpMove sAristocrabLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_IMPRISON),
 	LEVEL_UP_MOVE( 1, MOVE_NASTYPLOT),
 	LEVEL_UP_MOVE( 1, MOVE_FLAMETHROWER),
@@ -16620,7 +16620,7 @@ static const struct LevelUpMove sDownySnagretALevelUpLearnset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sVulpixALevelUpLearnset[] = {
+static const struct LevelUpMove sAristocrabOffspringALevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_POWDERSNOW),
 	LEVEL_UP_MOVE( 4, MOVE_TAILWHIP),
 	LEVEL_UP_MOVE( 7, MOVE_ROAR),
@@ -16644,7 +16644,7 @@ static const struct LevelUpMove sVulpixALevelUpLearnset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sNinetalesALevelUpLearnset[] = {
+static const struct LevelUpMove sAristocrabALevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 0, MOVE_DAZZLINGGLEAM),
 	LEVEL_UP_MOVE( 1, MOVE_DAZZLINGGLEAM),
 	LEVEL_UP_MOVE( 1, MOVE_IMPRISON),
@@ -22382,8 +22382,8 @@ const struct LevelUpMove* const gLevelUpLearnsets[NUM_SPECIES] =
 	[SPECIES_MALESHEARGRUB] = sShearwigLevelUpLearnset,
 	[SPECIES_SHEARWIG] = sShearwigLevelUpLearnset,
 	[SPECIES_QUEENSHEARWIG] = sQueenShearwigLevelUpLearnset,
-	[SPECIES_VULPIX] = sVulpixLevelUpLearnset,
-	[SPECIES_NINETALES] = sNinetalesLevelUpLearnset,
+	[SPECIES_ARISTOCRABOFFSPRING] = sAristocrabOffspringLevelUpLearnset,
+	[SPECIES_ARISTOCRAB] = sAristocrabLevelUpLearnset,
 	[SPECIES_JIGGLYPUFF] = sJigglypuffLevelUpLearnset,
 	[SPECIES_WIGGLYTUFF] = sWigglytuffLevelUpLearnset,
 	[SPECIES_ZUBAT] = sZubatLevelUpLearnset,
@@ -23370,8 +23370,8 @@ const struct LevelUpMove* const gLevelUpLearnsets[NUM_SPECIES] =
 	[SPECIES_HONEYWISP_A] = sHoneywispALevelUpLearnset,
 	[SPECIES_DANDELFLY_A] = sDandelflyALevelUpLearnset,
 	[SPECIES_DOWNYSNAGRET_A] = sDownySnagretALevelUpLearnset,
-	[SPECIES_VULPIX_A] = sVulpixALevelUpLearnset,
-	[SPECIES_NINETALES_A] = sNinetalesALevelUpLearnset,
+	[SPECIES_ARISTOCRABOFFSPRING_A] = sAristocrabOffspringALevelUpLearnset,
+	[SPECIES_ARISTOCRAB_A] = sAristocrabALevelUpLearnset,
 	[SPECIES_DIGLETT_A] = sDiglettALevelUpLearnset,
 	[SPECIES_DUGTRIO_A] = sDugtrioALevelUpLearnset,
 	[SPECIES_MEOWTH_A] = sMeowthALevelUpLearnset,

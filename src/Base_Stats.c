@@ -1199,7 +1199,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_VULPIX] =
+	[SPECIES_ARISTOCRABOFFSPRING] =
 	{
 		.baseHP = 38,
 		.baseAttack = 41,
@@ -1232,7 +1232,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_NINETALES] =
+	[SPECIES_ARISTOCRAB] =
 	{
 		.baseHP = 73,
 		.baseAttack = 76,
@@ -32877,7 +32877,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_VULPIX_A] =
+	[SPECIES_ARISTOCRABOFFSPRING_A] =
 	{
 		.baseHP = 38,
 		.baseAttack = 41,
@@ -32910,7 +32910,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_NINETALES_A] =
+	[SPECIES_ARISTOCRAB_A] =
 	{
 		.baseHP = 73,
 		.baseAttack = 67,

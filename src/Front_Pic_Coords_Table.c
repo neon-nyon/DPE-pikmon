@@ -188,12 +188,12 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x67,
 		.y_offset = 0x6,
 	},
-	[SPECIES_VULPIX] =
+	[SPECIES_ARISTOCRABOFFSPRING] =
 	{
 		.size = 0x65,
 		.y_offset = 0xb,
 	},
-	[SPECIES_NINETALES] =
+	[SPECIES_ARISTOCRAB] =
 	{
 		.size = 0x88,
 		.y_offset = 0x3,
@@ -5123,12 +5123,12 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x1,
 	},
-	[SPECIES_VULPIX_A] =
+	[SPECIES_ARISTOCRABOFFSPRING_A] =
 	{
 		.size = 0x0,
 		.y_offset = 0xa,
 	},
-	[SPECIES_NINETALES_A] =
+	[SPECIES_ARISTOCRAB_A] =
 	{
 		.size = 0x0,
 		.y_offset = 0x1,

@@ -436,7 +436,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_VULPIX] =
+	[SPECIES_ARISTOCRABOFFSPRING] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -448,7 +448,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_NINETALES] =
+	[SPECIES_ARISTOCRAB] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -11994,7 +11994,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_VULPIX_A] = 
+	[SPECIES_ARISTOCRABOFFSPRING_A] = 
 	{	
 		.type = 0x20,
 		.key = 0x3c,
@@ -12006,7 +12006,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_NINETALES_A] = 
+	[SPECIES_ARISTOCRAB_A] = 
 	{	
 		.type = 0x20,
 		.key = 0x3c,
