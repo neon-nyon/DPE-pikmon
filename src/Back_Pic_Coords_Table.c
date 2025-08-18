@@ -73,7 +73,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x56,
 		.y_offset = 0x7,
 	},
-	[SPECIES_BUMBLEBUG] =
+	[SPECIES_BUMBLINGSNITCHBUG] =
 	{
 		.size = 0x46,
 		.y_offset = 0xc,
@@ -83,32 +83,32 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x86,
 		.y_offset = 0x5,
 	},
-	[SPECIES_PIDGEY] =
+	[SPECIES_SNOWBULBORB] =
 	{
 		.size = 0x66,
 		.y_offset = 0xb,
 	},
-	[SPECIES_PIDGEOTTO] =
+	[SPECIES_DWARFFROSTYBULBORB] =
 	{
 		.size = 0x85,
 		.y_offset = 0x6,
 	},
-	[SPECIES_PIDGEOT] =
+	[SPECIES_FROSTYBULBORB] =
 	{
 		.size = 0x87,
 		.y_offset = 0x7,
 	},
-	[SPECIES_RATTATA] =
+	[SPECIES_CRUMBUG] =
 	{
 		.size = 0x75,
 		.y_offset = 0x7,
 	},
-	[SPECIES_RATICATE] =
+	[SPECIES_BREADBUG] =
 	{
 		.size = 0x75,
 		.y_offset = 0xa,
 	},
-	[SPECIES_SPEAROW] =
+	[SPECIES_GIANTBREADBUG] =
 	{
 		.size = 0x65,
 		.y_offset = 0x6,
@@ -4368,7 +4368,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x5,
 	},
-	[SPECIES_PIDGEOT_MEGA] =
+	[SPECIES_FROSTYBULBORB_MEGA] =
 	{
 		.size = 0x0,
 		.y_offset = 0x3,
@@ -5098,12 +5098,12 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x6,
 	},
-	[SPECIES_RATTATA_A] =
+	[SPECIES_CRUMBUG_A] =
 	{
 		.size = 0x0,
 		.y_offset = 0x7,
 	},
-	[SPECIES_RATICATE_A] =
+	[SPECIES_BREADBUG_A] =
 	{
 		.size = 0x0,
 		.y_offset = 0x8,

@@ -66,7 +66,7 @@ const u16 gEggMoves[] =
 		MOVE_FOLLOWME,
 		MOVE_CELEBRATE),
 
-	egg_moves(PIDGEY,
+	egg_moves(SNOWBULBORB,
 		MOVE_PURSUIT,
 		MOVE_FEINTATTACK,
 		MOVE_FORESIGHT,
@@ -74,7 +74,7 @@ const u16 gEggMoves[] =
 		MOVE_UPROAR,
 		MOVE_DEFOG),
 
-	egg_moves(RATTATA,
+	egg_moves(CRUMBUG,
 		MOVE_SCREECH,
 		MOVE_FLAMEWHEEL,
 		MOVE_FURYSWIPES,
@@ -86,7 +86,7 @@ const u16 gEggMoves[] =
 		MOVE_TAKEDOWN,
 		MOVE_FINALGAMBIT),
 
-	egg_moves(SPEAROW,
+	egg_moves(GIANTBREADBUG,
 		MOVE_FEINTATTACK,
 		MOVE_SCARYFACE,
 		MOVE_QUICKATTACK,
@@ -4239,7 +4239,7 @@ const u16 gEggMoves[] =
 		MOVE_DRAGONBREATH,
 		MOVE_FOCUSPUNCH),
 
-	egg_moves(RATTATA_A,
+	egg_moves(CRUMBUG_A,
 		MOVE_SNATCH,
 		MOVE_STOCKPILE,
 		MOVE_FURYSWIPES,

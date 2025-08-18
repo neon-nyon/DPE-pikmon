@@ -440,7 +440,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_BUMBLEBUG] =
+	[SPECIES_BUMBLINGSNITCHBUG] =
 	{
 		.baseHP = 60,
 		.baseAttack = 40,
@@ -506,7 +506,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIDGEY] =
+	[SPECIES_SNOWBULBORB] =
 	{
 		.baseHP = 40,
 		.baseAttack = 45,
@@ -539,7 +539,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIDGEOTTO] =
+	[SPECIES_DWARFFROSTYBULBORB] =
 	{
 		.baseHP = 63,
 		.baseAttack = 60,
@@ -572,7 +572,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIDGEOT] =
+	[SPECIES_FROSTYBULBORB] =
 	{
 		.baseHP = 83,
 		.baseAttack = 90,
@@ -605,7 +605,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_RATTATA] =
+	[SPECIES_CRUMBUG] =
 	{
 		.baseHP = 30,
 		.baseAttack = 56,
@@ -638,7 +638,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_RATICATE] =
+	[SPECIES_BREADBUG] =
 	{
 		.baseHP = 55,
 		.baseAttack = 100,
@@ -671,7 +671,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPEAROW] =
+	[SPECIES_GIANTBREADBUG] =
 	{
 		.baseHP = 40,
 		.baseAttack = 60,
@@ -27896,7 +27896,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PIDGEOT_MEGA] =
+	[SPECIES_FROSTYBULBORB_MEGA] =
 	{
 		.baseHP = 83,
 		.baseAttack = 80,
@@ -32712,7 +32712,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_RATTATA_A] =
+	[SPECIES_CRUMBUG_A] =
 	{
 		.baseHP = 30,
 		.baseAttack = 56,
@@ -32745,7 +32745,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_RATICATE_A] =
+	[SPECIES_BREADBUG_A] =
 	{
 		.baseHP = 75,
 		.baseAttack = 90,

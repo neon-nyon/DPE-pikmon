@@ -172,7 +172,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_BUMBLEBUG] =
+	[NATIONAL_DEX_BUMBLINGSNITCHBUG] =
 	{
 		.categoryName = {_C, _o, _c, _o, _o, _n, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 6,
@@ -196,7 +196,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_PIDGEY] =
+	[NATIONAL_DEX_SNOWBULBORB] =
 	{
 		.categoryName = {_T, _i, _n, _y, _SPACE, _B, _i, _r, _d, _END, _SPACE, _SPACE},
 		.height = 3,
@@ -208,7 +208,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_PIDGEOTTO] =
+	[NATIONAL_DEX_DWARFFROSTYBULBORB] =
 	{
 		.categoryName = {_B, _i, _r, _d, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 11,
@@ -220,7 +220,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_PIDGEOT] =
+	[NATIONAL_DEX_FROSTYBULBORB] =
 	{
 		.categoryName = {_B, _i, _r, _d, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 15,
@@ -232,7 +232,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_RATTATA] =
+	[NATIONAL_DEX_CRUMBUG] =
 	{
 		.categoryName = {_R, _a, _t, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 3,
@@ -244,7 +244,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_RATICATE] =
+	[NATIONAL_DEX_BREADBUG] =
 	{
 		.categoryName = {_R, _a, _t, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 7,
@@ -256,7 +256,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_SPEAROW] =
+	[NATIONAL_DEX_GIANTBREADBUG] =
 	{
 		.categoryName = {_T, _i, _n, _y, _SPACE, _B, _i, _r, _d, _END, _SPACE, _SPACE},
 		.height = 3,
@@ -12456,8 +12456,8 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 
 const struct AlternateDexEntries gAlternateDexEntries[] =
 {
-	ALTERNATE_DEX_ENTRY(RATTATA_A),
-	ALTERNATE_DEX_ENTRY(RATICATE_A),
+	ALTERNATE_DEX_ENTRY(CRUMBUG_A),
+	ALTERNATE_DEX_ENTRY(BREADBUG_A),
 	ALTERNATE_DEX_ENTRY(RAICHU_A),
 	ALTERNATE_DEX_ENTRY(SANDSHREW_A),
 	ALTERNATE_DEX_ENTRY(SANDSLASH_A),

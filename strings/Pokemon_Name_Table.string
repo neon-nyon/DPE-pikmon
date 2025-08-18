@@ -44,29 +44,29 @@ GlintBeetle
 #org @NAME_SNITCHBUG
 Snitchbug
 
-#org @NAME_BUMBLEBUG
-BumbleBug
+#org @NAME_BUMBLINGSNITCHBUG
+BumblingSnitchbug
 
 #org @NAME_DIRIGIBUG
 Dirigibug
 
-#org @NAME_PIDGEY
-Pidgey
+#org @NAME_SNOWBULBORB
+SnowBulborb
 
-#org @NAME_PIDGEOTTO
-Pidgeotto
+#org @NAME_DWARFFROSTYBULBORB
+DwarfFrostyBulborb
 
-#org @NAME_PIDGEOT
-Pidgeot
+#org @NAME_FROSTYBULBORB
+FrostyBulborb
 
-#org @NAME_RATTATA
-Rattata
+#org @NAME_CRUMBUG
+Crumbug
 
-#org @NAME_RATICATE
-Raticate
+#org @NAME_BREADBUG
+Breadbug
 
-#org @NAME_SPEAROW
-Spearow
+#org @NAME_GIANTBREADBUG
+GiantBreadbug
 
 #org @NAME_FEAROW
 Fearow
@@ -2624,8 +2624,8 @@ Masterhop
 #org @NAME_MDIRIGIBUG
 Dirigibug
 
-#org @NAME_MPIDGEOT
-Pidgeot
+#org @NAME_MFROSTYBULBORB
+FrostyBulborb
 
 #org @NAME_MALAKAZAM
 Alakazam
@@ -3062,11 +3062,11 @@ Magearna
 #org @NAME_MARSHADOW
 Marshadow
 
-#org @NAME_ARATTATA
-Rattata
+#org @NAME_ACRUMBUG
+Crumbug
 
-#org @NAME_ARATICATE
-Raticate
+#org @NAME_ABREADBUG
+Breadbug
 
 #org @NAME_ARAICHU
 Raichu
