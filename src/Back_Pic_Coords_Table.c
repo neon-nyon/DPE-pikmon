@@ -11,107 +11,107 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_BULBORBLARVA] =
 	{
 		.size = 0x64,
-		.y_offset = 0x0,
+		.y_offset = 0,
 	},
 	[SPECIES_BULBORB] =
 	{
 		.size = 0x76,
-		.y_offset = 0x0,
+		.y_offset = 0,
 	},
 	[SPECIES_JUMBOBULBORB] =
 	{
 		.size = 0x86,
-		.y_offset = 0x0,
+		.y_offset = 0,
 	},
 	[SPECIES_FIERYBLOWLET] =
 	{
 		.size = 0x66,
-		.y_offset = 0x0,
+		.y_offset = 0,
 	},
 	[SPECIES_FIERYBLOWHOG] =
 	{
 		.size = 0x77,
-		.y_offset = 0x0,
+		.y_offset = 0,
 	},
 	[SPECIES_TITANBLOWHOG] =
 	{
 		.size = 0x87,
-		.y_offset = 0x0,
+		.y_offset = 0,
 	},
 	[SPECIES_WOLPOLE] =
 	{
 		.size = 0x75,
-		.y_offset = 0x0,
+		.y_offset = 0,
 	},
 	[SPECIES_YELLOWWOLLYHOP] =
 	{
 		.size = 0x86,
-		.y_offset = 0x0,
+		.y_offset = 0,
 	},
 	[SPECIES_MASTERHOP] =
 	{
 		.size = 0x86,
-		.y_offset = 0x0,
+		.y_offset = 0,
 	},
 	[SPECIES_FLINTBEETLE] =
 	{
 		.size = 0x55,
-		.y_offset = 0x13,
+		.y_offset = 0x12,
 	},
 	[SPECIES_DOODLEBUG] =
 	{
 		.size = 0x65,
-		.y_offset = 0x13,
+		.y_offset = 0x12,
 	},
 	[SPECIES_GLINTBEETLE] =
 	{
 		.size = 0x87,
-		.y_offset = 0x13,
+		.y_offset = 0x12,
 	},
 	[SPECIES_SNITCHBUG] =
 	{
 		.size = 0x56,
-		.y_offset = 0x7,
+		.y_offset = 0x0,
 	},
 	[SPECIES_BUMBLINGSNITCHBUG] =
 	{
 		.size = 0x46,
-		.y_offset = 0xc,
+		.y_offset = 0x6,
 	},
 	[SPECIES_DIRIGIBUG] =
 	{
 		.size = 0x86,
-		.y_offset = 0x5,
+		.y_offset = 0x0,
 	},
 	[SPECIES_SNOWBULBORB] =
 	{
 		.size = 0x66,
-		.y_offset = 0xb,
+		.y_offset = 0x11,
 	},
 	[SPECIES_DWARFFROSTYBULBORB] =
 	{
 		.size = 0x85,
-		.y_offset = 0x6,
+		.y_offset = 0x10,
 	},
 	[SPECIES_FROSTYBULBORB] =
 	{
 		.size = 0x87,
-		.y_offset = 0x7,
+		.y_offset = 0x10,
 	},
 	[SPECIES_CRUMBUG] =
 	{
 		.size = 0x75,
-		.y_offset = 0x7,
+		.y_offset = 0x0,
 	},
 	[SPECIES_BREADBUG] =
 	{
 		.size = 0x75,
-		.y_offset = 0xa,
+		.y_offset = 0x0,
 	},
 	[SPECIES_GIANTBREADBUG] =
 	{
 		.size = 0x65,
-		.y_offset = 0x6,
+		.y_offset = 0x0,
 	},
 	[SPECIES_FEAROW] =
 	{
@@ -126,22 +126,22 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_DWARFBULBEAR] =
 	{
 		.size = 0x77,
-		.y_offset = 0x1,
+		.y_offset = 0x0,
 	},
 	[SPECIES_SPOTTYBULBEAR] =
 	{
 		.size = 0x77,
-		.y_offset = 0x4,
+		.y_offset = 0x0,
 	},
 	[SPECIES_HONEYWISP] =
 	{
 		.size = 0x66,
-		.y_offset = 0x6,
+		.y_offset = 0x0,
 	},
 	[SPECIES_DANDELFLY] =
 	{
 		.size = 0x65,
-		.y_offset = 0xd,
+		.y_offset = 0xD,
 	},
 	[SPECIES_DOWNYSNAGRET] =
 	{
@@ -236,7 +236,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_ARMOREDCANNONBEETLE] =
 	{
 		.size = 0x63,
-		.y_offset = 0x12,
+		.y_offset = 0x0,
 	},
 	[SPECIES_HORNEDCANNONBEETLE] =
 	{

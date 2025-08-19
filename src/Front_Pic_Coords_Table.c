@@ -11,47 +11,47 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 	[SPECIES_BULBORBLARVA] =
 	{
 		.size = 0x55,
-		.y_offset = 0xe,
+		.y_offset = 10,
 	},
 	[SPECIES_BULBORB] =
 	{
 		.size = 0x66,
-		.y_offset = 0x8,
+		.y_offset = 8,
 	},
 	[SPECIES_JUMBOBULBORB] =
 	{
 		.size = 0x87,
-		.y_offset = 0x3,
+		.y_offset = 3,
 	},
 	[SPECIES_FIERYBLOWLET] =
 	{
 		.size = 0x55,
-		.y_offset = 0xb,
+		.y_offset = 8,
 	},
 	[SPECIES_FIERYBLOWHOG] =
 	{
 		.size = 0x76,
-		.y_offset = 0x6,
+		.y_offset = 0,
 	},
 	[SPECIES_TITANBLOWHOG] =
 	{
 		.size = 0x88,
-		.y_offset = 0x0,
+		.y_offset = 0,
 	},
 	[SPECIES_WOLPOLE] =
 	{
 		.size = 0x65,
-		.y_offset = 0xc,
+		.y_offset = 11,
 	},
 	[SPECIES_YELLOWWOLLYHOP] =
 	{
 		.size = 0x76,
-		.y_offset = 0x7,
+		.y_offset = 2,
 	},
 	[SPECIES_MASTERHOP] =
 	{
 		.size = 0x87,
-		.y_offset = 0x4,
+		.y_offset = 0,
 	},
 	[SPECIES_FLINTBEETLE] =
 	{
