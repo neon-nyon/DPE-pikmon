@@ -46,7 +46,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.key = 0x3c,
 		.length = 0x0,
 		.pan_sweep = 0x0,
-		.wav = gCryBlowlet,
+		.wav = gCryFieryBlowlet,
 		.attack = 0xff,
 		.decay = 0x0,
 		.sustain = 0xff,
@@ -688,7 +688,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_GROWLITHE] =
+	[SPECIES_BULBMIN] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -700,7 +700,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_ARCANINE] =
+	[SPECIES_ADULTBULBMIN] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -712,7 +712,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_POLIWAG] =
+	[SPECIES_SCORNET] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -736,7 +736,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_POLIWRATH] =
+	[SPECIES_BURROWNIT] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -772,7 +772,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_ALAKAZAM] =
+	[SPECIES_VOLATILEDWEEVIL] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -784,7 +784,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_MACHOP] =
+	[SPECIES_MANATLEGS] =
 	{
 		.type = 0x20,
 		.key = 0x3c,

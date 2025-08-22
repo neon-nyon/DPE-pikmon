@@ -2134,10 +2134,10 @@ It is said that this Pok\emon once\nmoved a large forest to a new\nlocation over
 #org @DEX_ENTRY_CALYREX_SHADOW_RIDER
 It is said that by using its power,\nthis Pok\emon saved the creatures\nof a forest from a meteorite strike.
 
-#org @DEX_ENTRY_GROWLITHE_H
+#org @DEX_ENTRY_BULBMIN_H
 These Pok\emon live in packs in the\nsnowy mountains and defend themselves\nwith icy breath.
 
-#org @DEX_ENTRY_ARCANINE_H
+#org @DEX_ENTRY_ADULTBULBMIN_H
 It is said to guide virtuous people who\nhave lost their way on mountain paths\nback down to the mountain's base.
 
 #org @DEX_ENTRY_VOLTORB_H
@@ -2262,7 +2262,7 @@ Malevolent
 #org @DEX_CATEGORY_DARMANITAN_G
 Zen Charm
 
-#org @DEX_CATEGORY_GROWLITHE_H
+#org @DEX_CATEGORY_BULBMIN_H
 Scout
 
 #org @DEX_CATEGORY_VOLTORB_H

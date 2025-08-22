@@ -1081,7 +1081,7 @@ static const struct LevelUpMove sShaggyLongLegsLevelUpLearnset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sGrowlitheLevelUpLearnset[] = {
+static const struct LevelUpMove sBulbminLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_BITE),
 	LEVEL_UP_MOVE( 1, MOVE_ROAR),
 	LEVEL_UP_MOVE( 6, MOVE_EMBER),
@@ -1103,7 +1103,7 @@ static const struct LevelUpMove sGrowlitheLevelUpLearnset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sArcanineLevelUpLearnset[] = {
+static const struct LevelUpMove sAdultBulbminLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_THUNDERFANG),
 	LEVEL_UP_MOVE( 1, MOVE_BITE),
 	LEVEL_UP_MOVE( 1, MOVE_ROAR),
@@ -1113,7 +1113,7 @@ static const struct LevelUpMove sArcanineLevelUpLearnset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sPoliwagLevelUpLearnset[] = {
+static const struct LevelUpMove sScornetLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_WATERSPORT),
 	LEVEL_UP_MOVE( 5, MOVE_WATERGUN),
 	LEVEL_UP_MOVE( 8, MOVE_HYPNOSIS),
@@ -1149,7 +1149,7 @@ static const struct LevelUpMove sPoliwhirlLevelUpLearnset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sPoliwrathLevelUpLearnset[] = {
+static const struct LevelUpMove sBurrowNitLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 0, MOVE_SUBMISSION),
 	LEVEL_UP_MOVE( 1, MOVE_SUBMISSION),
 	LEVEL_UP_MOVE( 1, MOVE_CIRCLETHROW),
@@ -1187,7 +1187,7 @@ static const struct LevelUpMove sKadabraLevelUpLearnset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sAlakazamLevelUpLearnset[] = {
+static const struct LevelUpMove sVolatileDweevilLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 0, MOVE_KINESIS),
 	LEVEL_UP_MOVE( 1, MOVE_KINESIS),
 	LEVEL_UP_MOVE( 1, MOVE_TELEPORT),
@@ -1207,7 +1207,7 @@ static const struct LevelUpMove sAlakazamLevelUpLearnset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sMachopLevelUpLearnset[] = {
+static const struct LevelUpMove sManAtLegsLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_LOWKICK),
 	LEVEL_UP_MOVE( 1, MOVE_LEER),
 	LEVEL_UP_MOVE( 3, MOVE_FOCUSENERGY),
@@ -19365,7 +19365,7 @@ static const struct LevelUpMove sEnamorusLevelUpLearnset[] = {
 	LEVEL_UP_MOVE(80, MOVE_THRASH),
 	LEVEL_UP_END};		
 
-static const struct LevelUpMove sGrowlitheHLevelUpLearnset[] = {
+static const struct LevelUpMove sBulbminHLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_EMBER),
 	LEVEL_UP_MOVE( 1, MOVE_LEER),
 	LEVEL_UP_MOVE( 4, MOVE_HOWL),
@@ -19388,7 +19388,7 @@ static const struct LevelUpMove sGrowlitheHLevelUpLearnset[] = {
 	LEVEL_UP_END
 };		
 
-static const struct LevelUpMove sArcanineHLevelUpLearnset[] = {
+static const struct LevelUpMove sAdultBulbminHLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 0, MOVE_EXTREMESPEED),
 	LEVEL_UP_MOVE( 1, MOVE_THUNDERFANG),
 	LEVEL_UP_MOVE( 1, MOVE_BURNUP),
@@ -22403,15 +22403,15 @@ const struct LevelUpMove* const gLevelUpLearnsets[NUM_SPECIES] =
 	[SPECIES_RAGINGLONGLEGS] = sRagingLongLegsLevelUpLearnset,
 	[SPECIES_BALDYLONGLEGS] = sBaldyLongLegsLevelUpLearnset,
 	[SPECIES_SHAGGYLONGLEGS] = sShaggyLongLegsLevelUpLearnset,
-	[SPECIES_GROWLITHE] = sGrowlitheLevelUpLearnset,
-	[SPECIES_ARCANINE] = sArcanineLevelUpLearnset,
-	[SPECIES_POLIWAG] = sPoliwagLevelUpLearnset,
+	[SPECIES_BULBMIN] = sBulbminLevelUpLearnset,
+	[SPECIES_ADULTBULBMIN] = sAdultBulbminLevelUpLearnset,
+	[SPECIES_SCORNET] = sScornetLevelUpLearnset,
 	[SPECIES_POLIWHIRL] = sPoliwhirlLevelUpLearnset,
-	[SPECIES_POLIWRATH] = sPoliwrathLevelUpLearnset,
+	[SPECIES_BURROWNIT] = sBurrowNitLevelUpLearnset,
 	[SPECIES_ABRA] = sAbraLevelUpLearnset,
 	[SPECIES_KADABRA] = sKadabraLevelUpLearnset,
-	[SPECIES_ALAKAZAM] = sAlakazamLevelUpLearnset,
-	[SPECIES_MACHOP] = sMachopLevelUpLearnset,
+	[SPECIES_VOLATILEDWEEVIL] = sVolatileDweevilLevelUpLearnset,
+	[SPECIES_MANATLEGS] = sManAtLegsLevelUpLearnset,
 	[SPECIES_MACHOKE] = sMachokeLevelUpLearnset,
 	[SPECIES_MACHAMP] = sMachampLevelUpLearnset,
 	[SPECIES_BELLSPROUT] = sBellsproutLevelUpLearnset,
@@ -23220,7 +23220,7 @@ const struct LevelUpMove* const gLevelUpLearnsets[NUM_SPECIES] =
 	[SPECIES_MASTERHOP_MEGA] = sMasterhopLevelUpLearnset,
 	[SPECIES_DIRIGIBUG_MEGA] = sDirigibugLevelUpLearnset,
 	[SPECIES_FROSTYBULBORB_MEGA] = sFrostyBulborbLevelUpLearnset,
-	[SPECIES_ALAKAZAM_MEGA] = sAlakazamLevelUpLearnset,
+	[SPECIES_VOLATILEDWEEVIL_MEGA] = sVolatileDweevilLevelUpLearnset,
 	[SPECIES_SLOWBRO_MEGA] = sSlowbroLevelUpLearnset,
 	[SPECIES_GENGAR_MEGA] = sGengarLevelUpLearnset,
 	[SPECIES_KANGASKHAN_MEGA] = sKangaskhanLevelUpLearnset,
@@ -23588,8 +23588,8 @@ const struct LevelUpMove* const gLevelUpLearnsets[NUM_SPECIES] =
 	[SPECIES_OVERQWIL] = sOverqwilLevelUpLearnset,
 	[SPECIES_ENAMORUS] = sEnamorusLevelUpLearnset,
 	[SPECIES_ENAMORUS_THERIAN] = sEnamorusLevelUpLearnset,
-	[SPECIES_GROWLITHE_H] = sGrowlitheHLevelUpLearnset,
-	[SPECIES_ARCANINE_H] = sArcanineHLevelUpLearnset,
+	[SPECIES_BULBMIN_H] = sBulbminHLevelUpLearnset,
+	[SPECIES_ADULTBULBMIN_H] = sAdultBulbminHLevelUpLearnset,
 	[SPECIES_VOLTORB_H] = sVoltorbHLevelUpLearnset,
 	[SPECIES_ELECTRODE_H] = sElectrodeHLevelUpLearnset,
 	[SPECIES_TYPHLOSION_H] = sTyphlosionHLevelUpLearnset,

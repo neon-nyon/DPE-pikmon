@@ -1892,7 +1892,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_GROWLITHE] =
+	[SPECIES_BULBMIN] =
 	{
 		.baseHP = 55,
 		.baseAttack = 70,
@@ -1925,7 +1925,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_ARCANINE] =
+	[SPECIES_ADULTBULBMIN] =
 	{
 		.baseHP = 90,
 		.baseAttack = 110,
@@ -1958,7 +1958,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_POLIWAG] =
+	[SPECIES_SCORNET] =
 	{
 		.baseHP = 40,
 		.baseAttack = 50,
@@ -2024,7 +2024,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_POLIWRATH] =
+	[SPECIES_BURROWNIT] =
 	{
 		.baseHP = 90,
 		.baseAttack = 95,
@@ -2123,7 +2123,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_ALAKAZAM] =
+	[SPECIES_VOLATILEDWEEVIL] =
 	{
 		.baseHP = 55,
 		.baseAttack = 50,
@@ -2156,7 +2156,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_MACHOP] =
+	[SPECIES_MANATLEGS] =
 	{
 		.baseHP = 70,
 		.baseAttack = 80,
@@ -27929,7 +27929,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_ALAKAZAM_MEGA] =
+	[SPECIES_VOLATILEDWEEVIL_MEGA] =
 	{
 		.baseHP = 55,
 		.baseAttack = 50,
@@ -41343,7 +41343,7 @@ const struct BaseStats gBaseStats[] =
 		.hiddenAbility = ABILITY_NONE,
 		.noFlip = TRUE,
 	},
-	[SPECIES_GROWLITHE_H] =
+	[SPECIES_BULBMIN_H] =
 	{
 		.baseHP 		= 60,
 		.baseAttack 	= 75,
@@ -41375,7 +41375,7 @@ const struct BaseStats gBaseStats[] =
 		.hiddenAbility = ABILITY_JUSTIFIED,
 		.noFlip = TRUE,
 	},
-	[SPECIES_ARCANINE_H] =
+	[SPECIES_ADULTBULBMIN_H] =
 	{
 		.baseHP 		= 95,
 		.baseAttack 	= 115,

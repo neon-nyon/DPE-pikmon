@@ -293,17 +293,17 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x77,
 		.y_offset = 0xa,
 	},
-	[SPECIES_GROWLITHE] =
+	[SPECIES_BULBMIN] =
 	{
 		.size = 0x66,
 		.y_offset = 0x8,
 	},
-	[SPECIES_ARCANINE] =
+	[SPECIES_ADULTBULBMIN] =
 	{
 		.size = 0x87,
 		.y_offset = 0x4,
 	},
-	[SPECIES_POLIWAG] =
+	[SPECIES_SCORNET] =
 	{
 		.size = 0x74,
 		.y_offset = 0x13,
@@ -313,7 +313,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x65,
 		.y_offset = 0xd,
 	},
-	[SPECIES_POLIWRATH] =
+	[SPECIES_BURROWNIT] =
 	{
 		.size = 0x86,
 		.y_offset = 0x7,
@@ -328,12 +328,12 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x86,
 		.y_offset = 0x8,
 	},
-	[SPECIES_ALAKAZAM] =
+	[SPECIES_VOLATILEDWEEVIL] =
 	{
 		.size = 0x87,
 		.y_offset = 0x6,
 	},
-	[SPECIES_MACHOP] =
+	[SPECIES_MANATLEGS] =
 	{
 		.size = 0x65,
 		.y_offset = 0x6,
@@ -4373,7 +4373,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x3,
 	},
-	[SPECIES_ALAKAZAM_MEGA] =
+	[SPECIES_VOLATILEDWEEVIL_MEGA] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
@@ -6148,12 +6148,12 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x17,
 	},
-	[SPECIES_GROWLITHE_H] =
+	[SPECIES_BULBMIN_H] =
 	{
 		.size = 0x0,
 		.y_offset = 0x8,
 	},
-	[SPECIES_ARCANINE_H] =
+	[SPECIES_ADULTBULBMIN_H] =
 	{
 		.size = 0x0,
 		.y_offset = 0x3,

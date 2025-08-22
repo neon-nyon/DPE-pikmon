@@ -176,20 +176,20 @@ BaldyL.L
 #org @NAME_SHAGGYLONGLEGS
 ShaggyL.L
 
-#org @NAME_GROWLITHE
-Growlithe
+#org @NAME_BULBMIN
+Bulbmin
 
-#org @NAME_ARCANINE
-Arcanine
+#org @NAME_ADULTBULBMIN
+AdultBulbmin
 
-#org @NAME_POLIWAG
-Poliwag
+#org @NAME_SCORNET
+Scornet
 
 #org @NAME_POLIWHIRL
 Poliwhirl
 
-#org @NAME_POLIWRATH
-Poliwrath
+#org @NAME_BURROWNIT
+BurrowNit
 
 #org @NAME_ABRA
 Abra
@@ -197,11 +197,11 @@ Abra
 #org @NAME_KADABRA
 Kadabra
 
-#org @NAME_ALAKAZAM
-Alakazam
+#org @NAME_VOLATILEDWEEVIL
+VolatileDweevil
 
-#org @NAME_MACHOP
-Machop
+#org @NAME_MANATLEGS
+ManAtLegs
 
 #org @NAME_MACHOKE
 Machoke
@@ -2627,8 +2627,8 @@ Dirigibug
 #org @NAME_MFROSTYBULBORB
 FrostyBulborb
 
-#org @NAME_MALAKAZAM
-Alakazam
+#org @NAME_MVOLATILEDWEEVIL
+VolatileDweevil
 
 #org @NAME_MSLOWBRO
 Slowbro
@@ -3704,11 +3704,11 @@ Yamask
 #org @NAME_STUNFISK_G
 Stunfisk
 
-#org @NAME_GROWLITHE_H
-Growlithe
+#org @NAME_BULBMIN_H
+Bulbmin
 
-#org @NAME_ARCANINE_H
-Arcanine
+#org @NAME_ADULTBULBMIN_H
+AdultBulbmin
 
 #org @NAME_VOLTORB_H
 Voltorb

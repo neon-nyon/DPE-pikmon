@@ -302,7 +302,7 @@ const u16 gEggMoves[] =
 		MOVE_RETALIATE,
 		MOVE_THUNDEROUSKICK),
 
-	egg_moves(GROWLITHE,
+	egg_moves(BULBMIN,
 		MOVE_BODYSLAM,
 		MOVE_THRASH,
 		MOVE_FIRESPIN,
@@ -317,7 +317,7 @@ const u16 gEggMoves[] =
 		MOVE_TELEPORT,
 		MOVE_RAGINGFURY),
 
-	egg_moves(POLIWAG,
+	egg_moves(SCORNET,
 		MOVE_MIST,
 		MOVE_SPLASH,
 		MOVE_HAZE,
@@ -345,7 +345,7 @@ const u16 gEggMoves[] =
 		MOVE_MAGICCOAT,
 		MOVE_COUNTER),
 
-	egg_moves(MACHOP,
+	egg_moves(MANATLEGS,
 		MOVE_MEDITATE,
 		MOVE_ROLLINGKICK,
 		MOVE_ENCORE,
@@ -4645,7 +4645,7 @@ const u16 gEggMoves[] =
 		MOVE_PAINSPLIT,
 		MOVE_REFLECTTYPE),
 
-	egg_moves(GROWLITHE_H,
+	egg_moves(BULBMIN_H,
 		MOVE_BODYSLAM,
 		MOVE_THRASH,
 		MOVE_FIRESPIN,

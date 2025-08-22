@@ -700,7 +700,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_GROWLITHE] =
+	[NATIONAL_DEX_BULBMIN] =
 	{
 		.categoryName = {_P, _u, _p, _p, _y, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 7,
@@ -712,7 +712,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_ARCANINE] =
+	[NATIONAL_DEX_ADULTBULBMIN] =
 	{
 		.categoryName = {_L, _e, _g, _e, _n, _d, _a, _r, _y, _END, _SPACE, _SPACE},
 		.height = 19,
@@ -724,7 +724,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 312,
 		.trainerOffset = 2,
 	},
-	[NATIONAL_DEX_POLIWAG] =
+	[NATIONAL_DEX_SCORNET] =
 	{
 		.categoryName = {_T, _a, _d, _p, _o, _l, _e, _END, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 6,
@@ -748,7 +748,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_POLIWRATH] =
+	[NATIONAL_DEX_BURROWNIT] =
 	{
 		.categoryName = {_T, _a, _d, _p, _o, _l, _e, _END, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 13,
@@ -784,7 +784,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_ALAKAZAM] =
+	[NATIONAL_DEX_VOLATILEDWEEVIL] =
 	{
 		.categoryName = {_P, _s, _i, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 15,
@@ -796,7 +796,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 271,
 		.trainerOffset = 65535,
 	},
-	[NATIONAL_DEX_MACHOP] =
+	[NATIONAL_DEX_MANATLEGS] =
 	{
 		.categoryName = {_S, _u, _p, _e, _r, _p, _o, _w, _e, _r, _END, _SPACE},
 		.height = 8,
@@ -12526,8 +12526,8 @@ const struct AlternateDexEntries gAlternateDexEntries[] =
 	ALTERNATE_DEX_ENTRY(ZARUDE_DADA),
 	ALTERNATE_DEX_ENTRY(CALYREX_ICE_RIDER),
 	ALTERNATE_DEX_ENTRY(CALYREX_SHADOW_RIDER),
-	ALTERNATE_DEX_ENTRY(GROWLITHE_H),
-	ALTERNATE_DEX_ENTRY(ARCANINE_H),
+	ALTERNATE_DEX_ENTRY(BULBMIN_H),
+	ALTERNATE_DEX_ENTRY(ADULTBULBMIN_H),
 	ALTERNATE_DEX_ENTRY(VOLTORB_H),
 	ALTERNATE_DEX_ENTRY(ELECTRODE_H),
 	ALTERNATE_DEX_ENTRY(TYPHLOSION_H),
@@ -12573,7 +12573,7 @@ const struct AlternateDexEntries gAlternateDexCategories[] =
 	ALTERNATE_DEX_CATEGORY(ZAPDOS_G),
 	ALTERNATE_DEX_CATEGORY(MOLTRES_G),
 	ALTERNATE_DEX_CATEGORY(DARMANITAN_G),
-	ALTERNATE_DEX_CATEGORY(GROWLITHE_H),
+	ALTERNATE_DEX_CATEGORY(BULBMIN_H),
 	ALTERNATE_DEX_CATEGORY(VOLTORB_H),
 	ALTERNATE_DEX_CATEGORY(ELECTRODE_H),
 	ALTERNATE_DEX_CATEGORY(TYPHLOSION_H),
