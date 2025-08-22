@@ -820,7 +820,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_BELLSPROUT] =
+	[SPECIES_ARACHNODE] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -832,7 +832,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_WEEPINBELL] =
+	[SPECIES_MOLDYDWARFBULBORB] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -844,7 +844,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_VICTREEBEL] =
+	[SPECIES_MOLDYSLOOCH] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -856,7 +856,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_TENTACOOL] =
+	[SPECIES_TOXSTOOL] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -868,7 +868,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_TENTACRUEL] =
+	[SPECIES_PHOSBAT] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -880,7 +880,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_GEODUDE] =
+	[SPECIES_VEHEAMOTHPHOSBAT] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -892,7 +892,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_GRAVELER] =
+	[SPECIES_PUCKERINGBLINNOW] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -904,7 +904,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_GOLEM] =
+	[SPECIES_SPUTTLEFISH] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -916,7 +916,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_PONYTA] =
+	[SPECIES_PRICKLEPUFF] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -964,7 +964,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_MAGNEMITE] =
+	[SPECIES_PUFFYBLOWHOG] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -1000,7 +1000,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_DODUO] =
+	[SPECIES_PYROCLASTICSLOOCH] =
 	{
 		.type = 0x20,
 		.key = 0x3c,

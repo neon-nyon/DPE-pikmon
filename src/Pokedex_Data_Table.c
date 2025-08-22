@@ -832,7 +832,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 283,
 		.trainerOffset = 0,
 	},
-	[NATIONAL_DEX_BELLSPROUT] =
+	[NATIONAL_DEX_ARACHNODE] =
 	{
 		.categoryName = {_F, _l, _o, _w, _e, _r, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 7,
@@ -844,7 +844,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_WEEPINBELL] =
+	[NATIONAL_DEX_MOLDYDWARFBULBORB] =
 	{
 		.categoryName = {_F, _l, _y, _c, _a, _t, _c, _h, _e, _r, _END, _SPACE},
 		.height = 10,
@@ -856,7 +856,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_VICTREEBEL] =
+	[NATIONAL_DEX_MOLDYSLOOCH] =
 	{
 		.categoryName = {_F, _l, _y, _c, _a, _t, _c, _h, _e, _r, _END, _SPACE},
 		.height = 17,
@@ -868,7 +868,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 302,
 		.trainerOffset = 2,
 	},
-	[NATIONAL_DEX_TENTACOOL] =
+	[NATIONAL_DEX_TOXSTOOL] =
 	{
 		.categoryName = {_J, _e, _l, _l, _y, _f, _i, _s, _h, _END, _SPACE, _SPACE},
 		.height = 9,
@@ -880,7 +880,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_TENTACRUEL] =
+	[NATIONAL_DEX_PHOSBAT] =
 	{
 		.categoryName = {_J, _e, _l, _l, _y, _f, _i, _s, _h, _END, _SPACE, _SPACE},
 		.height = 16,
@@ -892,7 +892,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 312,
 		.trainerOffset = 0,
 	},
-	[NATIONAL_DEX_GEODUDE] =
+	[NATIONAL_DEX_VEHEAMOTHPHOSBAT] =
 	{
 		.categoryName = {_R, _o, _c, _k, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 4,
@@ -904,7 +904,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_GRAVELER] =
+	[NATIONAL_DEX_PUCKERINGBLINNOW] =
 	{
 		.categoryName = {_R, _o, _c, _k, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 10,
@@ -916,7 +916,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 305,
 		.trainerOffset = 1,
 	},
-	[NATIONAL_DEX_GOLEM] =
+	[NATIONAL_DEX_SPUTTLEFISH] =
 	{
 		.categoryName = {_M, _e, _g, _a, _t, _o, _n, _END, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 14,
@@ -928,7 +928,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 298,
 		.trainerOffset = 1,
 	},
-	[NATIONAL_DEX_PONYTA] =
+	[NATIONAL_DEX_PRICKLEPUFF] =
 	{
 		.categoryName = {_F, _i, _r, _e, _SPACE, _H, _o, _r, _s, _e, _END, _SPACE},
 		.height = 10,
@@ -976,7 +976,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 312,
 		.trainerOffset = 0,
 	},
-	[NATIONAL_DEX_MAGNEMITE] =
+	[NATIONAL_DEX_PUFFYBLOWHOG] =
 	{
 		.categoryName = {_M, _a, _g, _n, _e, _t, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 3,
@@ -1012,7 +1012,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65533,
 	},
-	[NATIONAL_DEX_DODUO] =
+	[NATIONAL_DEX_PYROCLASTICSLOOCH] =
 	{
 		.categoryName = {_T, _w, _i, _n, _SPACE, _B, _i, _r, _d, _END, _SPACE, _SPACE},
 		.height = 14,
@@ -12468,10 +12468,10 @@ const struct AlternateDexEntries gAlternateDexEntries[] =
 	ALTERNATE_DEX_ENTRY(DWARFBULBORB_A),
 	ALTERNATE_DEX_ENTRY(DWARFBULBORB_G),
 	ALTERNATE_DEX_ENTRY(DWARFORANGEBULBORB_A),
-	ALTERNATE_DEX_ENTRY(GEODUDE_A),
-	ALTERNATE_DEX_ENTRY(GRAVELER_A),
-	ALTERNATE_DEX_ENTRY(GOLEM_A),
-	ALTERNATE_DEX_ENTRY(PONYTA_G),
+	ALTERNATE_DEX_ENTRY(VEHEAMOTHPHOSBAT_A),
+	ALTERNATE_DEX_ENTRY(PUCKERINGBLINNOW_A),
+	ALTERNATE_DEX_ENTRY(SPUTTLEFISH_A),
+	ALTERNATE_DEX_ENTRY(PRICKLEPUFF_G),
 	ALTERNATE_DEX_ENTRY(RAPIDASH_G),
 	ALTERNATE_DEX_ENTRY(SLOWPOKE_G),
 	ALTERNATE_DEX_ENTRY(SLOWBRO_G),
@@ -12565,7 +12565,7 @@ const struct AlternateDexEntries gAlternateDexCategories[] =
 {
 	ALTERNATE_DEX_CATEGORY(CALYREX_ICE_RIDER),
 	ALTERNATE_DEX_CATEGORY(CALYREX_SHADOW_RIDER),
-	ALTERNATE_DEX_CATEGORY(PONYTA_G),
+	ALTERNATE_DEX_CATEGORY(PRICKLEPUFF_G),
 	ALTERNATE_DEX_CATEGORY(RAPIDASH_G),
 	ALTERNATE_DEX_CATEGORY(MR_MIME_G),
 	ALTERNATE_DEX_CATEGORY(SLOWKING_G),

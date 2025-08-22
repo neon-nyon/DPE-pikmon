@@ -233,7 +233,7 @@ It evolved from exposure to a special\nmagnetic field. Three units generate\nmag
 The long tongue is always soggy with\nslobber. The saliva contains a solvent\nthat causes numbness.
 
 #org @DEX_ENTRY_RHYPERIOR
-From holes in its palms, it fires out\nGeodude. Its carapace can withstand\nvolcanic eruptions.
+From holes in its palms, it fires out\nVeheamothPhosbat. Its carapace can withstand\nvolcanic eruptions.
 
 #org @DEX_ENTRY_TANGROWTH
 Its vines grow so profusely that, in\nthe warm season, you can't even see its\neyes.
@@ -1957,16 +1957,16 @@ These daring Pok\emon have coins on\ntheir foreheads. Darker coins are harder,\n
 #org @DEX_ENTRY_DWARFORANGEBULBORB_A
 It has the classiest coat. The rippling\nof its fur in the heat of battle has a\nbeauty all its own.
 
-#org @DEX_ENTRY_GEODUDE_A
+#org @DEX_ENTRY_VEHEAMOTHPHOSBAT_A
 Its body is a magnetic stone. Iron sand\nattaches firmly to the portions of its\nbody that are particularly magnetic.
 
-#org @DEX_ENTRY_GRAVELER_A
-Graveler's entire body is tinged with\nelectricity due to the stones it likes\nto eat. It's very quick-tempered.
+#org @DEX_ENTRY_PUCKERINGBLINNOW_A
+PuckeringBlinnow's entire body is tinged with\nelectricity due to the stones it likes\nto eat. It's very quick-tempered.
 
-#org @DEX_ENTRY_GOLEM_A
-Since it can't fire boulders at a rapid\npace, it's been known to seize nearby\nGeodude and fire them from its back.
+#org @DEX_ENTRY_SPUTTLEFISH_A
+Since it can't fire boulders at a rapid\npace, it's been known to seize nearby\nVeheamothPhosbat and fire them from its back.
 
-#org @DEX_ENTRY_PONYTA_G
+#org @DEX_ENTRY_PRICKLEPUFF_G
 Its small horn hides a healing power.\nWith a few rubs from this its horn, any\nslight wound you have will be healed.
 
 #org @DEX_ENTRY_RAPIDASH_G
@@ -2240,7 +2240,7 @@ In this form, Terapagos resembles\nthe world as the ancients saw it,\nand its en
 #org @DEX_CATEGORY_CALYREX_SHADOW_RIDER
 High King
 
-#org @DEX_CATEGORY_PONYTA_G
+#org @DEX_CATEGORY_PRICKLEPUFF_G
 #org @DEX_CATEGORY_RAPIDASH_G
 Unique Horn
 

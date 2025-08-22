@@ -362,7 +362,7 @@ const u16 gEggMoves[] =
 		MOVE_VITALTHROW,
 		MOVE_MACHPUNCH),
 
-	egg_moves(BELLSPROUT,
+	egg_moves(ARACHNODE,
 		MOVE_ENCORE,
 		MOVE_SYNTHESIS,
 		MOVE_LEECHFANG,
@@ -381,7 +381,7 @@ const u16 gEggMoves[] =
 		MOVE_TEETERDANCE,
 		MOVE_MORNINGSUN),
 
-	egg_moves(TENTACOOL,
+	egg_moves(TOXSTOOL,
 		MOVE_AURORABEAM,
 		MOVE_MIRRORCOAT,
 		MOVE_RAPIDSPIN,
@@ -395,7 +395,7 @@ const u16 gEggMoves[] =
 		MOVE_TICKLE,
 		MOVE_BARRIER),
 
-	egg_moves(GEODUDE,
+	egg_moves(VEHEAMOTHPHOSBAT,
 		MOVE_MEGAPUNCH,
 		MOVE_BLOCK,
 		MOVE_HAMMERARM,
@@ -407,7 +407,7 @@ const u16 gEggMoves[] =
 		MOVE_WIDEGUARD,
 		MOVE_SUCKERPUNCH),
 
-	egg_moves(PONYTA,
+	egg_moves(PRICKLEPUFF,
 		MOVE_THRASH,
 		MOVE_DOUBLEKICK,
 		MOVE_HYPNOSIS,
@@ -454,7 +454,7 @@ const u16 gEggMoves[] =
 		MOVE_YAWN,
 		MOVE_WISH),
 
-	egg_moves(DODUO,
+	egg_moves(PYROCLASTICSLOOCH,
 		MOVE_SUPERSONIC,
 		MOVE_HAZE,
 		MOVE_FEINTATTACK,
@@ -4313,7 +4313,7 @@ const u16 gEggMoves[] =
 		MOVE_CAPTIVATE,
 		MOVE_NIGHTDAZE),
 
-	egg_moves(GEODUDE_A,
+	egg_moves(VEHEAMOTHPHOSBAT_A,
 		MOVE_BLOCK,
 		MOVE_FLAIL,
 		MOVE_MAGNETRISE,
@@ -4565,7 +4565,7 @@ const u16 gEggMoves[] =
 		MOVE_NIGHTSLASH,
 		MOVE_COVET),
 
-	egg_moves(PONYTA_G,
+	egg_moves(PRICKLEPUFF_G,
 		MOVE_THRASH,
 		MOVE_DOUBLEKICK,
 		MOVE_HYPNOSIS,

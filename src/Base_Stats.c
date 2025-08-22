@@ -2255,7 +2255,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_BELLSPROUT] =
+	[SPECIES_ARACHNODE] =
 	{
 		.baseHP = 50,
 		.baseAttack = 75,
@@ -2288,7 +2288,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_WEEPINBELL] =
+	[SPECIES_MOLDYDWARFBULBORB] =
 	{
 		.baseHP = 65,
 		.baseAttack = 90,
@@ -2321,7 +2321,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_VICTREEBEL] =
+	[SPECIES_MOLDYSLOOCH] =
 	{
 		.baseHP = 80,
 		.baseAttack = 105,
@@ -2354,7 +2354,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_TENTACOOL] =
+	[SPECIES_TOXSTOOL] =
 	{
 		.baseHP = 40,
 		.baseAttack = 40,
@@ -2387,7 +2387,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_TENTACRUEL] =
+	[SPECIES_PHOSBAT] =
 	{
 		.baseHP = 80,
 		.baseAttack = 70,
@@ -2420,7 +2420,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_GEODUDE] =
+	[SPECIES_VEHEAMOTHPHOSBAT] =
 	{
 		.baseHP = 40,
 		.baseAttack = 80,
@@ -2453,7 +2453,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_GRAVELER] =
+	[SPECIES_PUCKERINGBLINNOW] =
 	{
 		.baseHP = 55,
 		.baseAttack = 95,
@@ -2486,7 +2486,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_GOLEM] =
+	[SPECIES_SPUTTLEFISH] =
 	{
 		.baseHP = 80,
 		.baseAttack = 120,
@@ -2519,7 +2519,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PONYTA] =
+	[SPECIES_PRICKLEPUFF] =
 	{
 		.baseHP = 50,
 		.baseAttack = 85,
@@ -2651,7 +2651,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_MAGNEMITE] =
+	[SPECIES_PUFFYBLOWHOG] =
 	{
 		.baseHP = 25,
 		.baseAttack = 35,
@@ -2750,7 +2750,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_DODUO] =
+	[SPECIES_PYROCLASTICSLOOCH] =
 	{
 		.baseHP = 35,
 		.baseAttack = 85,
@@ -33075,7 +33075,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_GEODUDE_A] =
+	[SPECIES_VEHEAMOTHPHOSBAT_A] =
 	{
 		.baseHP = 40,
 		.baseAttack = 80,
@@ -33108,7 +33108,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_GRAVELER_A] =
+	[SPECIES_PUCKERINGBLINNOW_A] =
 	{
 		.baseHP = 55,
 		.baseAttack = 95,
@@ -33141,7 +33141,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_GOLEM_A] =
+	[SPECIES_SPUTTLEFISH_A] =
 	{
 		.baseHP = 80,
 		.baseAttack = 120,
@@ -39080,7 +39080,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_PONYTA_G] =
+	[SPECIES_PRICKLEPUFF_G] =
 	{
 		.baseHP = 50,
 		.baseAttack = 85,

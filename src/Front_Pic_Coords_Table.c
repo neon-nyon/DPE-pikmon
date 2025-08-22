@@ -348,47 +348,47 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x88,
 		.y_offset = 0x0,
 	},
-	[SPECIES_BELLSPROUT] =
+	[SPECIES_ARACHNODE] =
 	{
 		.size = 0x66,
 		.y_offset = 0xc,
 	},
-	[SPECIES_WEEPINBELL] =
+	[SPECIES_MOLDYDWARFBULBORB] =
 	{
 		.size = 0x66,
 		.y_offset = 0xb,
 	},
-	[SPECIES_VICTREEBEL] =
+	[SPECIES_MOLDYSLOOCH] =
 	{
 		.size = 0x77,
 		.y_offset = 0x6,
 	},
-	[SPECIES_TENTACOOL] =
+	[SPECIES_TOXSTOOL] =
 	{
 		.size = 0x66,
 		.y_offset = 0x7,
 	},
-	[SPECIES_TENTACRUEL] =
+	[SPECIES_PHOSBAT] =
 	{
 		.size = 0x78,
 		.y_offset = 0x4,
 	},
-	[SPECIES_GEODUDE] =
+	[SPECIES_VEHEAMOTHPHOSBAT] =
 	{
 		.size = 0x74,
 		.y_offset = 0x13,
 	},
-	[SPECIES_GRAVELER] =
+	[SPECIES_PUCKERINGBLINNOW] =
 	{
 		.size = 0x86,
 		.y_offset = 0x8,
 	},
-	[SPECIES_GOLEM] =
+	[SPECIES_SPUTTLEFISH] =
 	{
 		.size = 0x87,
 		.y_offset = 0x6,
 	},
-	[SPECIES_PONYTA] =
+	[SPECIES_PRICKLEPUFF] =
 	{
 		.size = 0x67,
 		.y_offset = 0x6,
@@ -408,7 +408,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x88,
 		.y_offset = 0x0,
 	},
-	[SPECIES_MAGNEMITE] =
+	[SPECIES_PUFFYBLOWHOG] =
 	{
 		.size = 0x53,
 		.y_offset = 0x14,
@@ -423,7 +423,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x76,
 		.y_offset = 0x7,
 	},
-	[SPECIES_DODUO] =
+	[SPECIES_PYROCLASTICSLOOCH] =
 	{
 		.size = 0x67,
 		.y_offset = 0x7,
@@ -5153,17 +5153,17 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_GEODUDE_A] =
+	[SPECIES_VEHEAMOTHPHOSBAT_A] =
 	{
 		.size = 0x0,
 		.y_offset = 0x11,
 	},
-	[SPECIES_GRAVELER_A] =
+	[SPECIES_PUCKERINGBLINNOW_A] =
 	{
 		.size = 0x0,
 		.y_offset = 0x8,
 	},
-	[SPECIES_GOLEM_A] =
+	[SPECIES_SPUTTLEFISH_A] =
 	{
 		.size = 0x0,
 		.y_offset = 0x1,
@@ -6053,7 +6053,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x9,
 	},
-	[SPECIES_PONYTA_G] =
+	[SPECIES_PRICKLEPUFF_G] =
 	{
 		.size = 0x0,
 		.y_offset = 0x8,

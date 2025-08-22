@@ -209,32 +209,32 @@ Machoke
 #org @NAME_MACHAMP
 Machamp
 
-#org @NAME_BELLSPROUT
-Bellsprout
+#org @NAME_ARACHNODE
+Arachnode
 
-#org @NAME_WEEPINBELL
-Weepinbell
+#org @NAME_MOLDYDWARFBULBORB
+MoldyDwarfBulborb
 
-#org @NAME_VICTREEBEL
-Victreebel
+#org @NAME_MOLDYSLOOCH
+MoldySlooch
 
-#org @NAME_TENTACOOL
-Tentacool
+#org @NAME_TOXSTOOL
+Toxstool
 
-#org @NAME_TENTACRUEL
-Tentacruel
+#org @NAME_PHOSBAT
+Phosbat
 
-#org @NAME_GEODUDE
-Geodude
+#org @NAME_VEHEAMOTHPHOSBAT
+VeheamothPhosbat
 
-#org @NAME_GRAVELER
-Graveler
+#org @NAME_PUCKERINGBLINNOW
+PuckeringBlinnow
 
-#org @NAME_GOLEM
-Golem
+#org @NAME_SPUTTLEFISH
+Sputtlefish
 
-#org @NAME_PONYTA
-Ponyta
+#org @NAME_PRICKLEPUFF
+Pricklepuff
 
 #org @NAME_RAPIDASH
 Rapidash
@@ -245,8 +245,8 @@ Slowpoke
 #org @NAME_SLOWBRO
 Slowbro
 
-#org @NAME_MAGNEMITE
-Magnemite
+#org @NAME_PUFFYBLOWHOG
+PuffyBlowhog
 
 #org @NAME_MAGNETON
 Magneton
@@ -254,8 +254,8 @@ Magneton
 #org @NAME_FARFETCHD
 Farfetch'd
 
-#org @NAME_DODUO
-Doduo
+#org @NAME_PYROCLASTICSLOOCH
+PyroclasticSlooch
 
 #org @NAME_DODRIO
 Dodrio
@@ -3095,14 +3095,14 @@ DwarfBulborb
 #org @NAME_ADWARFORANGEBULBORB
 DwarfOrangeBulborb
 
-#org @NAME_AGEODUDE
-Geodude
+#org @NAME_AVEHEAMOTHPHOSBAT
+VeheamothPhosbat
 
-#org @NAME_AGRAVELER
-Graveler
+#org @NAME_APUCKERINGBLINNOW
+PuckeringBlinnow
 
-#org @NAME_AGOLEM
-Golem
+#org @NAME_ASPUTTLEFISH
+Sputtlefish
 
 #org @NAME_AGRIMER
 Grimer
@@ -3641,8 +3641,8 @@ Calyrex
 #org @NAME_DWARFBULBORB_G
 DwarfBulborb
 
-#org @NAME_PONYTA_G
-Ponyta
+#org @NAME_PRICKLEPUFF_G
+Pricklepuff
 
 #org @NAME_RAPIDASH_G
 Rapidash
