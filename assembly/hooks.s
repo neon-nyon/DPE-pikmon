@@ -22,7 +22,6 @@ LoadSpecialPokePicHook:
 BattleLoadPlayerMonSpriteGfxHook:
 	mov r0, r5
 	mov r1, r4
-	bl TryGetFemaleGenderedSpecies
 	mov r5, r0
 @Prep return
 	mov r0, r6
@@ -37,7 +36,6 @@ BattleLoadPlayerMonSpriteGfxHook:
 BattleLoadOpponentMonSpriteGfxHook:
 	mov r0, r5
 	mov r1, r6
-	bl TryGetFemaleGenderedSpecies
 	mov r5, r0
 @Prep return
 	mov r0, r4
@@ -56,7 +54,6 @@ GetBattlerSpriteFinalYHook:
 	lsr r7, r2, #0x18
 	mov r0, r6
 	lsr r1, r1, #0x10
-	bl TryGetFemaleGenderedSpeciesFromBank
 
 	mov r0, r6
 	ldr r1, =0x80747BC | 1
@@ -64,29 +61,11 @@ GetBattlerSpriteFinalYHook:
 */
 
 .pool
-@0x8096E38 with r2
-GenderedMonIconHook:
-	lsr r7, r3, #0x10
-	lsl r0, #0x18
-	lsr r0, #0x18
-	mov r9, r0
-
-	mov r0, r4
-	ldr r1, [sp, #0x50] @Personality
-	bl TryGetFemaleGenderedSpecies
-	mov r4, r0
-
-	ldr r1, [sp, #0x50] @Personality
-	ldr r0, =0x8096E40 | 1
-	bx r0
-
-.pool
 @0x8139DDC with r1
 SummaryScreenIconPalHook:
 	mov r4, r0
 	mov r1, r0
 	mov r0, r5
-	bl TryGetFemaleGenderedSpecies
 	mov r5, r0
 	ldr r1, =SafeLoadMonIconPalette
 	bl bxr1
@@ -117,7 +96,6 @@ EvolutionSceneHook1:
 	mov r9, r0
 	mov r0, r5 @currSpecies
 	mov r1, r9 @personality
-	bl TryGetFemaleGenderedSpecies
 	lsl r0, #0x3
 	ldr r1, =gMonFrontPicTable
 	add r0, r1
@@ -130,7 +108,6 @@ EvolutionSceneHook2:
 	strb r0, [r1]
 	mov r0, r10 @speciesToEvolve
 	mov r1, r9 @personality
-	bl TryGetFemaleGenderedSpecies
 	lsl r0, #0x3
 	ldr r2, =gMonFrontPicTable
 	add r0, r2
@@ -143,7 +120,6 @@ EvolutionSceneHook3:
 	strb r0, [r1]
 	mov r0, r5 @postEvoSpecies
 	mov r1, r6 @personality
-	bl TryGetFemaleGenderedSpecies
 	lsl r0, #0x3
 	ldr r1, =gMonFrontPicTable
 	add r0, r1

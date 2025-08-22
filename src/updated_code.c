@@ -23,8 +23,6 @@ extern const u16 gPokedexOrderHeightCount;
 extern const u16 gPokedexOrder_Type[];
 extern const u16 gPokedexOrderTypeCount;
 
-extern const struct AlternateDexEntries gAlternateDexEntries[];
-extern const struct AlternateDexEntries gAlternateDexCategories[];
 extern const struct CompressedSpriteSheet gMonBackPicTable[];
 extern const struct CompressedSpriteSheet gMonFrontPicTable[];
 extern const struct CompressedSpritePalette gMonPaletteTable[];
@@ -41,7 +39,6 @@ u16 __attribute__((long_call)) SpeciesToNationalPokedexNum(u16 species);
 void __attribute__((long_call)) break_func();
 
 //This file's functions
-u16 TryGetFemaleGenderedSpecies(u16 species, u32 personality);
 static u16 LoadNationalPokedexView(void);
 
 enum TextMode {
@@ -178,43 +175,14 @@ struct PivotalDexSpecies
 	u16 dexNum;
 };
 
-static const struct PivotalDexSpecies sPivotalDexSpecies[] =
-{
-	//These species have Pokemon grouped in order after them
-	{SPECIES_SPRIGATITO, NATIONAL_DEX_SPRIGATITO},
-	{SPECIES_GROOKEY, NATIONAL_DEX_GROOKEY},
-	{SPECIES_ROWLET, NATIONAL_DEX_ROWLET},
-	{SPECIES_CHESPIN, NATIONAL_DEX_CHESPIN},
-	{SPECIES_SNIVY, NATIONAL_DEX_SNIVY},
-	{SPECIES_TURTWIG, NATIONAL_DEX_TURTWIG},
-	{SPECIES_TREECKO, NATIONAL_DEX_TREECKO},
-	{SPECIES_CHIKORITA, NATIONAL_DEX_CHIKORITA},
-	{SPECIES_BULBORBLARVA, NATIONAL_DEX_BULBORBLARVA},
-};
-
 u16 NationalPokedexNumToSpecies(u16 nationalNum)
 {
-	u16 species, i;
+	u16 species;
 
 	if (nationalNum == 0)
 		return 0;
 
 	species = 0;
-	
-	//Optimization
-	if (nationalNum <= SPECIES_SHIFTRY || nationalNum >= SPECIES_TURTWIG) //Hoenn Mons are too out of order for this to work
-	{
-		for (i = 0; i < ARRAY_COUNT(sPivotalDexSpecies); ++i)
-		{
-			if (nationalNum > sPivotalDexSpecies[i].dexNum)
-			{
-				u16 difference = nationalNum - sPivotalDexSpecies[i].dexNum;
-				if (gSpeciesToNationalPokedexNum[sPivotalDexSpecies[i].species + difference - 1] == nationalNum)
-					return sPivotalDexSpecies[i].species + difference;
-				break;
-			}
-		}
-	}
 
 	while (species < (NUM_SPECIES - 1) && gSpeciesToNationalPokedexNum[species] != nationalNum)
 		species++;
@@ -225,41 +193,11 @@ u16 NationalPokedexNumToSpecies(u16 nationalNum)
 	return species + 1;
 }
 
-const u8* TryLoadAlternateDexEntry(u16 species)
-{
-	for (int i = 0; gAlternateDexEntries[i].species != SPECIES_TABLES_TERMIN; ++i)
-	{
-		if (gAlternateDexEntries[i].species == species)
-			return gAlternateDexEntries[i].description;
-	}
-	
-	return 0;
-}
-
-const u8* TryLoadAlternateDexCategory(u16 species)
-{
-	u32 i;
-	u16 dexNum = SpeciesToNationalPokedexNum(species);
-	const u8* category = gPokedexEntries[dexNum].categoryName;
-
-	for (i = 0; gAlternateDexCategories[i].species != SPECIES_TABLES_TERMIN; ++i)
-	{
-		if (gAlternateDexCategories[i].species == species)
-		{
-			category = gAlternateDexCategories[i].description;
-			break;
-		}
-	}
-
-	return category;
-}
-
 void LoadSpecialPokePic(const struct CompressedSpriteSheet* src, void* dest, u16 species, u32 personality, bool8 isFrontPic)
 {
 	u16 oldSpecies = species;
 	const struct CompressedSpriteSheet* table = isFrontPic ? gMonFrontPicTable : gMonBackPicTable;
 
-	species = TryGetFemaleGenderedSpecies(species, personality);
 	if (species != oldSpecies) //Updated sprite
 		src = &table[species];
 	
@@ -290,8 +228,6 @@ const u32* GetFrontSpritePalFromSpeciesAndPersonality(u16 species, u32 otId, u32
 {
 	u32 shinyValue;
 	
-	species = TryGetFemaleGenderedSpecies(species, personality);
-	
 	if (species > NUM_SPECIES)
 		return (u32*) gMonPaletteTable[0].data;
 
@@ -305,53 +241,12 @@ const u32* GetFrontSpritePalFromSpeciesAndPersonality(u16 species, u32 otId, u32
 const struct CompressedSpritePalette* GetMonSpritePalStructFromOtIdPersonality(u16 species, u32 otId , u32 personality)
 {
 	u32 shinyValue;
-	species = TryGetFemaleGenderedSpecies(species, personality);
 
 	shinyValue = HIHALF(otId) ^ LOHALF(otId) ^ HIHALF(personality) ^ LOHALF(personality);
 	if (shinyValue < 8)
 		return &gMonShinyPaletteTable[species];
 	else
 		return &gMonPaletteTable[species];
-}
-
-u16 TryGetFemaleGenderedSpecies(u16 species, u32 personality)
-{
-	if (GetGenderFromSpeciesAndPersonality(species, personality) == MON_FEMALE)
-	{
-		switch (species) {
-			case SPECIES_HIPPOPOTAS:
-				species = SPECIES_HIPPOPOTAS_F;
-				break;
-			case SPECIES_HIPPOWDON:
-				species = SPECIES_HIPPOWDON_F;
-				break;
-			case SPECIES_UNFEZANT:
-				species = SPECIES_UNFEZANT_F;
-				break;
-			case SPECIES_FRILLISH:
-				species = SPECIES_FRILLISH_F;
-				break;
-			case SPECIES_JELLICENT:
-				species = SPECIES_JELLICENT_F;
-				break;
-			case SPECIES_PYROAR:
-				species = SPECIES_PYROAR_FEMALE;
-				break;
-			case SPECIES_BASCULEGION_M:
-				species = SPECIES_BASCULEGION_F;
-				break;
-		}
-	}
-	else if (species == SPECIES_XERNEAS && !gMain.inBattle)
-	{
-		species = SPECIES_XERNEAS_NATURAL;
-	}
-	else if (species == SPECIES_TERAPAGOS_TERASTAL && !gMain.inBattle)
-	{
-		species = SPECIES_TERAPAGOS;
-	}
-
-	return species;
 }
 
 u16 GetIconSpecies(u16 species, u32 personality)
@@ -372,7 +267,7 @@ u16 GetIconSpecies(u16 species, u32 personality)
 		if (species > NUM_SPECIES)
 			result = 0;
 		else
-			result = TryGetFemaleGenderedSpecies(species, personality);
+			result = species;
 	}
 
 	return result;

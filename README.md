@@ -12,7 +12,7 @@ A dynamic data insertion tool for expanding Pokemon data in FireRed.
 * Support for as many different Pokemon (regular Pokemon, forms, etc.) as you'd like.
 * Support for different gendered forms.
 * Support for different form Pokedex entries like in Sun/Moon.
-* Support for up to 1025 different Pokedex entries (not including alternate forms).
+* Support for up to 1025 different Pokedex entries.
 * Support for FRLG habitats.
 * Support for Pokemon sprite and icon insertion.
 * Support for cry insertion.
