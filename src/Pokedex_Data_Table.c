@@ -160,7 +160,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_SNITCHBUG] =
+	[NATIONAL_DEX_SWOOPINGSNITCHBUG] =
 	{
 		.categoryName = {_H, _a, _i, _r, _y, _SPACE, _B, _u, _g, _END, _SPACE, _SPACE},
 		.height = 3,
@@ -1024,7 +1024,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 287,
 		.trainerOffset = 0,
 	},
-	[NATIONAL_DEX_DODRIO] =
+	[NATIONAL_DEX_LESSERSPOTTEDJELLYFLOAT] =
 	{
 		.categoryName = {_T, _r, _i, _p, _l, _e, _SPACE, _B, _i, _r, _d, _END},
 		.height = 18,
@@ -1036,7 +1036,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 296,
 		.trainerOffset = 1,
 	},
-	[NATIONAL_DEX_SEEL] =
+	[NATIONAL_DEX_GREATERSPOTTEDJELLYFLOAT] =
 	{
 		.categoryName = {_S, _e, _a, _SPACE, _L, _i, _o, _n, _END, _SPACE, _SPACE, _SPACE},
 		.height = 11,
@@ -1072,7 +1072,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_MUK] =
+	[NATIONAL_DEX_SNOWYBLOWHOG] =
 	{
 		.categoryName = {_S, _l, _u, _d, _g, _e, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 12,
@@ -1084,7 +1084,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 288,
 		.trainerOffset = 65535,
 	},
-	[NATIONAL_DEX_SHELLDER] =
+	[NATIONAL_DEX_BLIZZARDINGBLOWHOG] =
 	{
 		.categoryName = {_B, _i, _v, _a, _l, _v, _e, _END, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 3,
@@ -1156,7 +1156,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 515,
 		.trainerOffset = 12,
 	},
-	[NATIONAL_DEX_DROWZEE] =
+	[NATIONAL_DEX_SUNQUISH] =
 	{
 		.categoryName = {_H, _y, _p, _n, _o, _s, _i, _s, _END, _SPACE, _SPACE, _SPACE},
 		.height = 10,
@@ -1168,7 +1168,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_HYPNO] =
+	[NATIONAL_DEX_PROQUILLION] =
 	{
 		.categoryName = {_H, _y, _p, _n, _o, _s, _i, _s, _END, _SPACE, _SPACE, _SPACE},
 		.height = 16,
@@ -1192,7 +1192,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_KINGLER] =
+	[NATIONAL_DEX_SNOWFLAKEFLUTTERTAIL] =
 	{
 		.categoryName = {_P, _i, _n, _c, _e, _r, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 13,
@@ -1204,7 +1204,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 308,
 		.trainerOffset = 1,
 	},
-	[NATIONAL_DEX_VOLTORB] =
+	[NATIONAL_DEX_BOGSWALLOW] =
 	{
 		.categoryName = {_B, _a, _l, _l, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 5,
@@ -1216,7 +1216,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_ELECTRODE] =
+	[NATIONAL_DEX_PUFFMIN] =
 	{
 		.categoryName = {_B, _a, _l, _l, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 12,
@@ -1228,7 +1228,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_EXEGGCUTE] =
+	[NATIONAL_DEX_WOLLYHOP] =
 	{
 		.categoryName = {_E, _g, _g, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 4,
@@ -1264,7 +1264,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_MAROWAK] =
+	[NATIONAL_DEX_SCORCHCAKE] =
 	{
 		.categoryName = {_B, _o, _n, _e, _SPACE, _K, _e, _e, _p, _e, _r, _END},
 		.height = 10,
@@ -1276,7 +1276,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_HITMONLEE] =
+	[NATIONAL_DEX_WATERDUMPLE] =
 	{
 		.categoryName = {_K, _i, _c, _k, _i, _n, _g, _END, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 15,
@@ -1288,7 +1288,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 273,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_HITMONCHAN] =
+	[NATIONAL_DEX_LONGWATERDUMPLE] =
 	{
 		.categoryName = {_P, _u, _n, _c, _h, _i, _n, _g, _END, _SPACE, _SPACE, _SPACE},
 		.height = 14,
@@ -1300,7 +1300,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 264,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_LICKITUNG] =
+	[NATIONAL_DEX_MOCKIWI] =
 	{
 		.categoryName = {_L, _i, _c, _k, _i, _n, _g, _END, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 12,
@@ -1432,7 +1432,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_SEAKING] =
+	[NATIONAL_DEX_BEARDEDAMPRAT] =
 	{
 		.categoryName = {_G, _o, _l, _d, _f, _i, _s, _h, _END, _SPACE, _SPACE, _SPACE},
 		.height = 13,
@@ -1456,7 +1456,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_STARMIE] =
+	[NATIONAL_DEX_GATTLINGGROINK] =
 	{
 		.categoryName = {_M, _y, _s, _t, _e, _r, _i, _o, _u, _s, _END, _SPACE},
 		.height = 11,
@@ -1492,7 +1492,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 293,
 		.trainerOffset = 1,
 	},
-	[NATIONAL_DEX_JYNX] =
+	[NATIONAL_DEX_ARMOREDMAWDAD] =
 	{
 		.categoryName = {_H, _u, _m, _a, _n, _SPACE, _S, _h, _a, _p, _e, _END},
 		.height = 14,
@@ -1552,7 +1552,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 312,
 		.trainerOffset = 3,
 	},
-	[NATIONAL_DEX_MAGIKARP] =
+	[NATIONAL_DEX_PELLETPOSY] =
 	{
 		.categoryName = {_F, _i, _s, _h, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 9,
@@ -1564,7 +1564,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_GYARADOS] =
+	[NATIONAL_DEX_MASTERONION] =
 	{
 		.categoryName = {_A, _t, _r, _o, _c, _i, _o, _u, _s, _END, _SPACE, _SPACE},
 		.height = 65,
@@ -1576,7 +1576,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 512,
 		.trainerOffset = 11,
 	},
-	[NATIONAL_DEX_LAPRAS] =
+	[NATIONAL_DEX_OATCHI] =
 	{
 		.categoryName = {_T, _r, _a, _n, _s, _p, _o, _r, _t, _END, _SPACE, _SPACE},
 		.height = 25,
@@ -1588,7 +1588,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 425,
 		.trainerOffset = 8,
 	},
-	[NATIONAL_DEX_DITTO] =
+	[NATIONAL_DEX_QUAGGLEDMIRECLOPS] =
 	{
 		.categoryName = {_T, _r, _a, _n, _s, _f, _o, _r, _m, _END, _SPACE, _SPACE},
 		.height = 3,

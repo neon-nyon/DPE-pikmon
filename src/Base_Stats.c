@@ -407,7 +407,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SNITCHBUG] =
+	[SPECIES_SWOOPINGSNITCHBUG] =
 	{
 		.baseHP = 60,
 		.baseAttack = 30,
@@ -2783,7 +2783,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_DODRIO] =
+	[SPECIES_LESSERSPOTTEDJELLYFLOAT] =
 	{
 		.baseHP = 60,
 		.baseAttack = 110,
@@ -2816,7 +2816,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SEEL] =
+	[SPECIES_GREATERSPOTTEDJELLYFLOAT] =
 	{
 		.baseHP = 65,
 		.baseAttack = 45,
@@ -2915,7 +2915,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_MUK] =
+	[SPECIES_SNOWYBLOWHOG] =
 	{
 		.baseHP = 105,
 		.baseAttack = 105,
@@ -2948,7 +2948,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SHELLDER] =
+	[SPECIES_BLIZZARDINGBLOWHOG] =
 	{
 		.baseHP = 30,
 		.baseAttack = 65,
@@ -3146,7 +3146,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_DROWZEE] =
+	[SPECIES_SUNQUISH] =
 	{
 		.baseHP = 60,
 		.baseAttack = 48,
@@ -3179,7 +3179,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_HYPNO] =
+	[SPECIES_PROQUILLION] =
 	{
 		.baseHP = 85,
 		.baseAttack = 73,
@@ -3245,7 +3245,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_KINGLER] =
+	[SPECIES_SNOWFLAKEFLUTTERTAIL] =
 	{
 		.baseHP = 55,
 		.baseAttack = 130,
@@ -3278,7 +3278,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_VOLTORB] =
+	[SPECIES_BOGSWALLOW] =
 	{
 		.baseHP = 40,
 		.baseAttack = 30,
@@ -3311,7 +3311,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_ELECTRODE] =
+	[SPECIES_PUFFMIN] =
 	{
 		.baseHP = 60,
 		.baseAttack = 50,
@@ -3344,7 +3344,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_EXEGGCUTE] =
+	[SPECIES_WOLLYHOP] =
 	{
 		.baseHP = 60,
 		.baseAttack = 40,
@@ -3443,7 +3443,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_MAROWAK] =
+	[SPECIES_SCORCHCAKE] =
 	{
 		.baseHP = 80,
 		.baseAttack = 90,
@@ -3476,7 +3476,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_HITMONLEE] =
+	[SPECIES_WATERDUMPLE] =
 	{
 		.baseHP = 50,
 		.baseAttack = 120,
@@ -3509,7 +3509,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_HITMONCHAN] =
+	[SPECIES_LONGWATERDUMPLE] =
 	{
 		.baseHP = 50,
 		.baseAttack = 105,
@@ -3542,7 +3542,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_LICKITUNG] =
+	[SPECIES_MOCKIWI] =
 	{
 		.baseHP = 90,
 		.baseAttack = 55,
@@ -3905,7 +3905,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SEAKING] =
+	[SPECIES_BEARDEDAMPRAT] =
 	{
 		.baseHP = 80,
 		.baseAttack = 92,
@@ -3971,7 +3971,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_STARMIE] =
+	[SPECIES_GATTLINGGROINK] =
 	{
 		.baseHP = 60,
 		.baseAttack = 75,
@@ -4070,7 +4070,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_JYNX] =
+	[SPECIES_ARMOREDMAWDAD] =
 	{
 		.baseHP = 65,
 		.baseAttack = 50,
@@ -4235,7 +4235,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_MAGIKARP] =
+	[SPECIES_PELLETPOSY] =
 	{
 		.baseHP = 20,
 		.baseAttack = 10,
@@ -4268,7 +4268,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_GYARADOS] =
+	[SPECIES_MASTERONION] =
 	{
 		.baseHP = 95,
 		.baseAttack = 125,
@@ -4301,7 +4301,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_LAPRAS] =
+	[SPECIES_OATCHI] =
 	{
 		.baseHP = 130,
 		.baseAttack = 85,
@@ -4334,7 +4334,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_DITTO] =
+	[SPECIES_QUAGGLEDMIRECLOPS] =
 	{
 		.baseHP = 48,
 		.baseAttack = 48,
@@ -4358,8 +4358,8 @@ const struct BaseStats gBaseStats[] =
 		.eggCycles = 20,
 		.friendship = 50,
 		.growthRate = GROWTH_MEDIUM_FAST,
-		.eggGroup1 = EGG_GROUP_DITTO,
-		.eggGroup2 = EGG_GROUP_DITTO,
+		.eggGroup1 = EGG_GROUP_QUAGGLEDMIRECLOPS,
+		.eggGroup2 = EGG_GROUP_QUAGGLEDMIRECLOPS,
 		.ability1 = ABILITY_LIMBER,
 		.ability2 = ABILITY_NONE,
 		.safariZoneFleeRate = 0,

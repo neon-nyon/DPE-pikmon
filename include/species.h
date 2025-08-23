@@ -15,7 +15,7 @@
 #define SPECIES_FLINTBEETLE 0xA
 #define SPECIES_DOODLEBUG 0xB
 #define SPECIES_GLINTBEETLE 0xC
-#define SPECIES_SNITCHBUG 0xD
+#define SPECIES_SWOOPINGSNITCHBUG 0xD
 #define SPECIES_BUMBLINGSNITCHBUG 0xE
 #define SPECIES_DIRIGIBUG 0xF
 #define SPECIES_SNOWBULBORB 0x10
@@ -87,54 +87,54 @@
 #define SPECIES_MAGNETON 0x52 // To be replaced (?)
 #define SPECIES_FARFETCHD 0x53 // To be replaced (?)
 #define SPECIES_PYROCLASTICSLOOCH 0x54
-#define SPECIES_DODRIO 0x55
-#define SPECIES_SEEL 0x56
-#define SPECIES_DEWGONG 0x57
-#define SPECIES_GRIMER 0x58
-#define SPECIES_MUK 0x59
-#define SPECIES_SHELLDER 0x5A
-#define SPECIES_CLOYSTER 0x5B
-#define SPECIES_GASTLY 0x5C
-#define SPECIES_HAUNTER 0x5D
-#define SPECIES_GENGAR 0x5E
-#define SPECIES_ONIX 0x5F
-#define SPECIES_DROWZEE 0x60
-#define SPECIES_HYPNO 0x61
-#define SPECIES_KRABBY 0x62
-#define SPECIES_KINGLER 0x63
-#define SPECIES_VOLTORB 0x64
-#define SPECIES_ELECTRODE 0x65
-#define SPECIES_EXEGGCUTE 0x66
-#define SPECIES_EXEGGUTOR 0x67
-#define SPECIES_CUBONE 0x68
-#define SPECIES_MAROWAK 0x69
-#define SPECIES_HITMONLEE 0x6A
-#define SPECIES_HITMONCHAN 0x6B
-#define SPECIES_LICKITUNG 0x6C
-#define SPECIES_KOFFING 0x6D
-#define SPECIES_WEEZING 0x6E
-#define SPECIES_RHYHORN 0x6F
-#define SPECIES_RHYDON 0x70
-#define SPECIES_CHANSEY 0x71
-#define SPECIES_TANGELA 0x72
-#define SPECIES_KANGASKHAN 0x73
-#define SPECIES_HORSEA 0x74
-#define SPECIES_SEADRA 0x75
-#define SPECIES_GOLDEEN 0x76
-#define SPECIES_SEAKING 0x77
-#define SPECIES_STARYU 0x78
-#define SPECIES_STARMIE 0x79
-#define SPECIES_MR_MIME 0x7A
-#define SPECIES_SCYTHER 0x7B
-#define SPECIES_JYNX 0x7C
-#define SPECIES_ELECTABUZZ 0x7D
-#define SPECIES_MAGMAR 0x7E
-#define SPECIES_PINSIR 0x7F
-#define SPECIES_TAUROS 0x80
-#define SPECIES_MAGIKARP 0x81
-#define SPECIES_GYARADOS 0x82
-#define SPECIES_LAPRAS 0x83
-#define SPECIES_DITTO 0x84
+#define SPECIES_LESSERSPOTTEDJELLYFLOAT 0x55
+#define SPECIES_GREATERSPOTTEDJELLYFLOAT 0x56
+#define SPECIES_DEWGONG 0x57 // To be replaced (?)
+#define SPECIES_GRIMER 0x58 // To be replaced (?)
+#define SPECIES_SNOWYBLOWHOG 0x59
+#define SPECIES_BLIZZARDINGBLOWHOG 0x5A
+#define SPECIES_CLOYSTER 0x5B // To be replaced (?)
+#define SPECIES_GASTLY 0x5C // To be replaced (?)
+#define SPECIES_HAUNTER 0x5D // To be replaced (?)
+#define SPECIES_GENGAR 0x5E // To be replaced (?)
+#define SPECIES_ONIX 0x5F // To be replaced (?)
+#define SPECIES_SUNQUISH 0x60
+#define SPECIES_PROQUILLION 0x61
+#define SPECIES_KRABBY 0x62 // To be replaced (?)
+#define SPECIES_SNOWFLAKEFLUTTERTAIL 0x63
+#define SPECIES_BOGSWALLOW 0x64
+#define SPECIES_PUFFMIN 0x65
+#define SPECIES_WOLLYHOP 0x66
+#define SPECIES_EXEGGUTOR 0x67 // To be replaced (?)
+#define SPECIES_CUBONE 0x68 // To be replaced (?)
+#define SPECIES_SCORCHCAKE 0x69
+#define SPECIES_WATERDUMPLE 0x6A
+#define SPECIES_LONGWATERDUMPLE 0x6B
+#define SPECIES_MOCKIWI 0x6C
+#define SPECIES_KOFFING 0x6D // To be replaced (?)
+#define SPECIES_WEEZING 0x6E // To be replaced (?)
+#define SPECIES_RHYHORN 0x6F // To be replaced (?)
+#define SPECIES_RHYDON 0x70 // To be replaced (?)
+#define SPECIES_CHANSEY 0x71 // To be replaced (?)
+#define SPECIES_TANGELA 0x72 // To be replaced (?)
+#define SPECIES_KANGASKHAN 0x73 // To be replaced (?)
+#define SPECIES_HORSEA 0x74 // To be replaced (?)
+#define SPECIES_SEADRA 0x75 // To be replaced (?)
+#define SPECIES_GOLDEEN 0x76 // To be replaced (?)
+#define SPECIES_BEARDEDAMPRAT 0x77
+#define SPECIES_STARYU 0x78 // To be replaced (?)
+#define SPECIES_GATTLINGGROINK 0x79
+#define SPECIES_MR_MIME 0x7A // To be replaced (?)
+#define SPECIES_SCYTHER 0x7B // To be replaced (?)
+#define SPECIES_ARMOREDMAWDAD 0x7C
+#define SPECIES_ELECTABUZZ 0x7D // To be replaced (?)
+#define SPECIES_MAGMAR 0x7E // To be replaced (?)
+#define SPECIES_PINSIR 0x7F // To be replaced (?)
+#define SPECIES_TAUROS 0x80 // To be replaced (?)
+#define SPECIES_PELLETPOSY 0x81
+#define SPECIES_MASTERONION 0x82
+#define SPECIES_OATCHI 0x83
+#define SPECIES_QUAGGLEDMIRECLOPS 0x84
 #define SPECIES_EEVEE 0x85
 #define SPECIES_VAPOREON 0x86
 #define SPECIES_JOLTEON 0x87

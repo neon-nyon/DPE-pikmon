@@ -45,7 +45,7 @@ const u16 gGrasslandPage5[] =
 const u16 gGrasslandPage6[] =
 {
 	SPECIES_PYROCLASTICSLOOCH,
-	SPECIES_DODRIO,
+	SPECIES_LESSERSPOTTEDJELLYFLOAT,
 	SPECIES_TAILLOW,
 	SPECIES_SWELLOW,
 };
@@ -76,7 +76,7 @@ const u16 gGrasslandPage10[] =
 {
 	SPECIES_EKANS,
 	SPECIES_DWARFBULBEAR,
-	SPECIES_LICKITUNG,
+	SPECIES_MOCKIWI,
 };
 
 const u16 gGrasslandPage11[] =
@@ -111,8 +111,8 @@ const u16 gGrasslandPage15[] =
 
 const u16 gGrasslandPage16[] =
 {
-	SPECIES_DROWZEE,
-	SPECIES_HYPNO,
+	SPECIES_SUNQUISH,
+	SPECIES_PROQUILLION,
 	SPECIES_GULPIN,
 	SPECIES_SWALOT,
 };
@@ -213,7 +213,7 @@ const u16 gForestPage1[] =
 
 const u16 gForestPage2[] =
 {
-	SPECIES_SNITCHBUG,
+	SPECIES_SWOOPINGSNITCHBUG,
 	SPECIES_BUMBLINGSNITCHBUG,
 	SPECIES_DIRIGIBUG,
 };
@@ -335,7 +335,7 @@ const u16 gForestPage20[] =
 
 const u16 gForestPage21[] =
 {
-	SPECIES_EXEGGCUTE,
+	SPECIES_WOLLYHOP,
 	SPECIES_EXEGGUTOR,
 };
 
@@ -386,15 +386,15 @@ const u16 gForestPage28[] =
 const u16 gWatersEdgePage1[] =
 {
 	SPECIES_GOLDEEN,
-	SPECIES_SEAKING,
+	SPECIES_BEARDEDAMPRAT,
 };
 
 const u16 gWatersEdgePage2[] =
 {
-	SPECIES_MAGIKARP,
-	SPECIES_GYARADOS,
+	SPECIES_PELLETPOSY,
+	SPECIES_MASTERONION,
 	SPECIES_KRABBY,
-	SPECIES_KINGLER,
+	SPECIES_SNOWFLAKEFLUTTERTAIL,
 };
 
 const u16 gWatersEdgePage3[] =
@@ -509,7 +509,7 @@ const u16 gSeaPage2[] =
 const u16 gSeaPage3[] =
 {
 	SPECIES_STARYU,
-	SPECIES_STARMIE,
+	SPECIES_GATTLINGGROINK,
 };
 
 const u16 gSeaPage4[] =
@@ -522,7 +522,7 @@ const u16 gSeaPage4[] =
 
 const u16 gSeaPage5[] =
 {
-	SPECIES_SHELLDER,
+	SPECIES_BLIZZARDINGBLOWHOG,
 	SPECIES_CLOYSTER,
 };
 
@@ -540,7 +540,7 @@ const u16 gSeaPage7[] =
 
 const u16 gSeaPage8[] =
 {
-	SPECIES_SEEL,
+	SPECIES_GREATERSPOTTEDJELLYFLOAT,
 	SPECIES_DEWGONG,
 	SPECIES_MANTINE,
 };
@@ -575,7 +575,7 @@ const u16 gSeaPage12[] =
 
 const u16 gSeaPage13[] =
 {
-	SPECIES_LAPRAS,
+	SPECIES_OATCHI,
 	SPECIES_CORSOLA,
 };
 
@@ -705,7 +705,7 @@ const u16 gMountainPage5[] =
 const u16 gMountainPage6[] =
 {
 	SPECIES_CUBONE,
-	SPECIES_MAROWAK,
+	SPECIES_SCORCHCAKE,
 };
 
 const u16 gMountainPage7[] =
@@ -873,7 +873,7 @@ const u16 gRoughTerrainPage12[] =
 const u16 gUrbanPage3[] =
 {
 	SPECIES_GRIMER,
-	SPECIES_MUK,
+	SPECIES_SNOWYBLOWHOG,
 	SPECIES_KOFFING,
 	SPECIES_WEEZING,
 };
@@ -901,7 +901,7 @@ const u16 gUrbanPage7[] =
 const u16 gUrbanPage8[] =
 {
 	SPECIES_SMOOCHUM,
-	SPECIES_JYNX,
+	SPECIES_ARMOREDMAWDAD,
 	SPECIES_SMEARGLE,
 };
 
@@ -913,8 +913,8 @@ const u16 gUrbanPage9[] =
 const u16 gUrbanPage11[] =
 {
 	SPECIES_TYROGUE,
-	SPECIES_HITMONLEE,
-	SPECIES_HITMONCHAN,
+	SPECIES_WATERDUMPLE,
+	SPECIES_LONGWATERDUMPLE,
 	SPECIES_HITMONTOP,
 };
 
@@ -926,8 +926,8 @@ const u16 gUrbanPage12[] =
 
 const u16 gUrbanPage13[] =
 {
-	SPECIES_VOLTORB,
-	SPECIES_ELECTRODE,
+	SPECIES_BOGSWALLOW,
+	SPECIES_PUFFMIN,
 };
 
 const u16 gUrbanPage14[] =
@@ -938,7 +938,7 @@ const u16 gUrbanPage14[] =
 
 const u16 gUrbanPage15[] =
 {
-	SPECIES_DITTO,
+	SPECIES_QUAGGLEDMIRECLOPS,
 };
 
 const u16 gUrbanPage16[] =
