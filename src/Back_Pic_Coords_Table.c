@@ -928,7 +928,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x86,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SUDOWOODO] =
+	[SPECIES_SOUL] =
 	{
 		.size = 0x66,
 		.y_offset = 0x0,
@@ -1007,6 +1007,21 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.y_offset = 0x0,
 	},
 	[SPECIES_SPECTRALID_YELLOW] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SPECTRALID_UNMARKED] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SPECTRALID_UNMARKEDRED] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SPECTRALID_UNMARKEDPURPLE] =
 	{
 		.size = 0x88,
 		.y_offset = 0x0,
@@ -1129,6 +1144,46 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_KIRBY_FAIRY] =
 	{
 		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SOUL_RED] =
+	{
+		.size = 0x66,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SOUL_YELLOW] =
+	{
+		.size = 0x66,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SOUL_BLUE] =
+	{
+		.size = 0x66,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SOUL_PURPLE] =
+	{
+		.size = 0x66,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SOUL_WHITE] =
+	{
+		.size = 0x66,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SOUL_ROCK] =
+	{
+		.size = 0x66,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SOUL_WINGED] =
+	{
+		.size = 0x66,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SOUL_ICE] =
+	{
+		.size = 0x66,
 		.y_offset = 0x0,
 	},
 	[SPECIES_JUMBOBULBORB_MEGA] =
