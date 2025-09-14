@@ -6083,7 +6083,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SUDOWOODO] =
+	[SPECIES_SOUL] =
 	{
 		.baseHP = 		55,
 		.baseAttack = 		130,

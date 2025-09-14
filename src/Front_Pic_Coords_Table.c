@@ -928,7 +928,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
                 .size = 0x86,
                 .y_offset = 0x0,
         },
-        [SPECIES_SUDOWOODO] =
+        [SPECIES_SOUL] =
         {
                 .size = 0x66,
                 .y_offset = 0x0,

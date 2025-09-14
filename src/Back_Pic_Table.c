@@ -4,7 +4,7 @@
 
 const struct CompressedSpriteSheet gMonBackPicTable[NUM_SPECIES] =
 {
-	[SPECIES_NONE] =  		   	{gBackShinySprite000PlaceholderLarvaTiles, 	(64 * 64) / 2, SPECIES_NONE},
+	[SPECIES_NONE] =  		   	{gBackShinySprite000NoneTiles,		 	(64 * 64) / 2, SPECIES_NONE},
 	[SPECIES_BULBORBLARVA] =         	{gBackShinySprite001BulborbLarvaTiles, 		(64 * 64) / 2, SPECIES_BULBORBLARVA},
 	[SPECIES_BULBORB] =              	{gBackShinySprite002BulborbTiles, 		(64 * 64) / 2, SPECIES_BULBORB},
 	[SPECIES_JUMBOBULBORB] =         	{gBackShinySprite003JumboBulborbTiles, 		(64 * 64) / 2, SPECIES_JUMBOBULBORB},
@@ -189,7 +189,7 @@ const struct CompressedSpriteSheet gMonBackPicTable[NUM_SPECIES] =
 	[SPECIES_REMEMBEREDOLDBUDDY] =          {gBackShinySprite182RememberedOldBuddyTiles, 	(64 * 64) / 2, SPECIES_REMEMBEREDOLDBUDDY},
 	[SPECIES_BULBORBWITHAGUN] =            	{gBackShinySprite183BulborbWithAGunTiles, 	(64 * 64) / 2, SPECIES_BULBORBWITHAGUN},
 	[SPECIES_KIRBY] =            		{gBackShinySprite184KirbyTiles, 		(64 * 64) / 2, SPECIES_KIRBY},
-	[SPECIES_SUDOWOODO] =            	{gBackShinySprite185SudowoodoTiles, 		(64 * 64) / 2, SPECIES_SUDOWOODO},
+	[SPECIES_SOUL] =            		{gBackShinySprite185SoulTiles, 			(64 * 64) / 2, SPECIES_SOUL},
 	[SPECIES_PLACEHOLDERLARVA] =            {gBackShinySprite000PlaceholderLarvaTiles, 	(64 * 64) / 2, SPECIES_PLACEHOLDERLARVA},
 	[SPECIES_DEMO77] =             		{gBackShinySprite186Demo77Tiles, 		(64 * 64) / 2, SPECIES_DEMO77},
 	[SPECIES_USUBA] =               	{gBackShinySprite187UsubaTiles, 		(64 * 64) / 2, SPECIES_USUBA},

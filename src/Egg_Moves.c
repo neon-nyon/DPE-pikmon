@@ -1693,7 +1693,7 @@ const u16 gEggMoves[] =
 		MOVE_LIQUIDATION,
 		MOVE_MUDSPORT),
 
-	egg_moves(SUDOWOODO,
+	egg_moves(SOUL,
 		MOVE_OCTAZOOKA,
 		MOVE_SUPERSONIC,
 		MOVE_HAZE,

@@ -4,7 +4,7 @@
 
 const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 {
-	[SPECIES_NONE] =  		   	{gFrontSprite000PlaceholderLarvaTiles, 		(64 * 64) / 2, SPECIES_NONE},
+	[SPECIES_NONE] =  		   	{gFrontSprite000NoneTiles,	 		(64 * 64) / 2, SPECIES_NONE},
 	[SPECIES_BULBORBLARVA] =         	{gFrontSprite001BulborbLarvaTiles, 		(64 * 64) / 2, SPECIES_BULBORBLARVA},
 	[SPECIES_BULBORB] =              	{gFrontSprite002BulborbTiles, 			(64 * 64) / 2, SPECIES_BULBORB},
 	[SPECIES_JUMBOBULBORB] =         	{gFrontSprite003JumboBulborbTiles, 		(64 * 64) / 2, SPECIES_JUMBOBULBORB},

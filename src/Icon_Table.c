@@ -3,7 +3,7 @@
 
 const u8* const gMonIconTable[NUM_SPECIES] =
 {
-	[SPECIES_NONE] =  		   	gIconSprite000PlaceholderLarvaTiles,
+	[SPECIES_NONE] =  		   	gIconSprite000NoneTiles,
 	[SPECIES_BULBORBLARVA] =         	gIconSprite001BulborbLarvaTiles,
 	[SPECIES_BULBORB] =              	gIconSprite002BulborbTiles,
 	[SPECIES_JUMBOBULBORB] =         	gIconSprite003JumboBulborbTiles,
@@ -188,7 +188,7 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_REMEMBEREDOLDBUDDY] =          gIconSprite182RememberedOldBuddyTiles,
 	[SPECIES_BULBORBWITHAGUN] =            	gIconSprite183BulborbWithAGunTiles, 
 	[SPECIES_KIRBY] =            		gIconSprite184KirbyTiles, 	
-	[SPECIES_SUDOWOODO] =            	gIconSprite185SudowoodoTiles, 	
+	[SPECIES_SOUL] =            		gIconSprite185SoulTiles, 	
 	[SPECIES_PLACEHOLDERLARVA] =            gIconSprite000PlaceholderLarvaTiles, 
 	[SPECIES_DEMO77] =             		gIconSprite186Demo77Tiles, 	
 	[SPECIES_USUBA] =               	gIconSprite187UsubaTiles, 	
