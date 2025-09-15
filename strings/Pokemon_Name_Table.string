@@ -68,10 +68,10 @@ Breadbug
 #org @NAME_GIANTBREADBUG
 GtBreadbug
 
-#org @NAME_FEAROW
+#org @NAME_EMPERORBULBLAX
 Fearow
 
-#org @NAME_EKANS
+#org @NAME_SOVREIGBULBLAX
 Ekans
 
 #org @NAME_DWARFBULBEAR
@@ -185,16 +185,16 @@ AdtBulbmin
 #org @NAME_SCORNET
 Scornet
 
-#org @NAME_POLIWHIRL
+#org @NAME_SCORNETMAESTRO
 Poliwhirl
 
 #org @NAME_BURROWNIT
 BurrowNit
 
-#org @NAME_ABRA
+#org @NAME_JOUSTMITE
 Abra
 
-#org @NAME_KADABRA
+#org @NAME_FLIGHTYJOUSTMITE
 Kadabra
 
 #org @NAME_VOLATILEDWEEVIL
@@ -203,10 +203,10 @@ V.Dweevil
 #org @NAME_MANATLEGS
 ManAtLegs
 
-#org @NAME_MACHOKE
+#org @NAME_SKUTTERCHUCK
 Machoke
 
-#org @NAME_MACHAMP
+#org @NAME_CALCIFIEDCRUSHBLAT
 Machamp
 
 #org @NAME_ARACHNODE
@@ -236,22 +236,22 @@ Sputtlefsh
 #org @NAME_PRICKLEPUFF
 Prcklepuff
 
-#org @NAME_RAPIDASH
+#org @NAME_UJADANI
 Rapidash
 
-#org @NAME_SLOWPOKE
+#org @NAME_MITITE
 Slowpoke
 
-#org @NAME_SLOWBRO
+#org @NAME_WITHERINGBLOWHOG
 Slowbro
 
 #org @NAME_PUFFYBLOWHOG
 Puffyhog
 
-#org @NAME_MAGNETON
+#org @NAME_MINIATURESNOOTWHACKER
 Magneton
 
-#org @NAME_FARFETCHD
+#org @NAME_MAMMOTHSNOOTWHACKER
 Farfetch'd
 
 #org @NAME_PYROCLASTICSLOOCH
@@ -263,10 +263,10 @@ Jellyfloat
 #org @NAME_GREATERSPOTTEDJELLYFLOAT
 GS. JFloat
 
-#org @NAME_DEWGONG
+#org @NAME_TOADYBLOYSTER
 Dewgong
 
-#org @NAME_GRIMER
+#org @NAME_RANGINGBLOYSTER
 Grimer
 
 #org @NAME_SNOWYBLOWHOG
@@ -275,19 +275,19 @@ Snowhog
 #org @NAME_BLIZZARDINGBLOWHOG
 Blizzrdhog
 
-#org @NAME_CLOYSTER
+#org @NAME_GILDAMANDWEE
 Cloyster
 
-#org @NAME_GASTLY
+#org @NAME_GILDAMANDER
 Gastly
 
-#org @NAME_HAUNTER
+#org @NAME_WADDLEQUAFF
 Haunter
 
-#org @NAME_GENGAR
+#org @NAME_GRUBCHUCKER
 Gengar
 
-#org @NAME_ONIX
+#org @NAME_PEARLYCLAMCLAMP
 Onix
 
 #org @NAME_SUNQUISH
@@ -296,7 +296,7 @@ Sunquish
 #org @NAME_PROQUILLION
 Porqullion
 
-#org @NAME_KRABBY
+#org @NAME_TUSKEDBLOWHOG
 Krabby
 
 #org @NAME_SNOWFLAKEFLUTTERTAIL
@@ -311,10 +311,10 @@ Puffmin
 #org @NAME_WOLLYHOP
 Wollyhop
 
-#org @NAME_EXEGGUTOR
+#org @NAME_CHILLYHOP
 Exeggutor
 
-#org @NAME_CUBONE
+#org @NAME_BLOOMCAPBLOYSTER
 Cubone
 
 #org @NAME_SCORCHCAKE
@@ -329,64 +329,64 @@ LngWDumple
 #org @NAME_MOCKIWI
 Mockiwi
 
-#org @NAME_KOFFING
+#org @NAME_CRESTEDMOCKIWI
 Koffing
 
-#org @NAME_WEEZING
+#org @NAME_ELONGATEDCRUSHBLAT
 Weezing
 
-#org @NAME_RHYHORN
+#org @NAME_PUFFSTALK
 Rhyhorn
 
-#org @NAME_RHYDON
+#org @NAME_PUFFSTOOL
 Rhydon
 
-#org @NAME_CHANSEY
+#org @NAME_ANODEBEETLE
 Chansey
 
-#org @NAME_TANGELA
+#org @NAME_EMPRESSBULBLAX
 Tangela
 
-#org @NAME_KANGASKHAN
+#org @NAME_SKEETERSKATE
 Kangaskhan
 
-#org @NAME_HORSEA
+#org @NAME_MUCKERSKATE
 Horsea
 
-#org @NAME_SEADRA
+#org @NAME_GROOVYLONGLEGS
 Seadra
 
-#org @NAME_GOLDEEN
+#org @NAME_CRUSTEDRUMPUP
 Goldeen
 
 #org @NAME_BEARDEDAMPRAT
 Brd.Amprat
 
-#org @NAME_STARYU
+#org @NAME_FIERYBULBLAX
 Staryu
 
 #org @NAME_GATTLINGGROINK
 GtlgGroink
 
-#org @NAME_MR_MIME
+#org @NAME_ARMURK
 Mr. Mime
 
-#org @NAME_SCYTHER
+#org @NAME_SEGMENTEDCRABSTER
 Scyther
 
 #org @NAME_ARMOREDMAWDAD
 ArmdMawdad
 
-#org @NAME_ELECTABUZZ
+#org @NAME_SANDBELCHINGMEERSLUG
 Electabuzz
 
-#org @NAME_MAGMAR
+#org @NAME_CLICKINGSLURKER
 Magmar
 
-#org @NAME_PINSIR
+#org @NAME_LURINGSLURKER
 Pinsir
 
-#org @NAME_TAUROS
+#org @NAME_MEDUSALSLURKER
 Tauros
 
 #org @NAME_PELLETPOSY
@@ -401,73 +401,73 @@ Oatchi
 #org @NAME_QUAGGLEDMIRECLOPS
 QMireclops
 
-#org @NAME_EEVEE
+#org @NAME_ALBINODWARFBULBORB
 Eevee
 
-#org @NAME_VAPOREON
+#org @NAME_HAIRYBULBORB
 Vaporeon
 
-#org @NAME_JOLTEON
+#org @NAME_WHIPTONGUEBULBORB
 Jolteon
 
-#org @NAME_FLAREON
+#org @NAME_ORANGEBULBORB
 Flareon
 
-#org @NAME_PORYGON
+#org @NAME_WHITEPIKMIN
 Porygon
 
-#org @NAME_OMANYTE
+#org @NAME_BLUEPIKMIN
 Omanyte
 
-#org @NAME_OMASTAR
+#org @NAME_ROCKPIKMIN
 Omastar
 
-#org @NAME_KABUTO
+#org @NAME_YELLOWPIKMIN
 Kabuto
 
-#org @NAME_KABUTOPS
+#org @NAME_WINGEDPIKMIN
 Kabutops
 
-#org @NAME_AERODACTYL
+#org @NAME_REDPIKMIN
 Aerodactyl
 
-#org @NAME_SNORLAX
+#org @NAME_PURPLEPIKMIN
 Snorlax
 
-#org @NAME_ARTICUNO
+#org @NAME_WATERWRAITH
 Articuno
 
-#org @NAME_ZAPDOS
+#org @NAME_TITANDWEEVIL
 Zapdos
 
-#org @NAME_MOLTRES
+#org @NAME_PLASMWRAITH
 Moltres
 
-#org @NAME_DRATINI
+#org @NAME_ICEPIKMIN
 Dratini
 
-#org @NAME_DRAGONAIR
+#org @NAME_GLOWSEED
 Dragonair
 
-#org @NAME_DRAGONITE
+#org @NAME_GLOWPIKMIN
 Dragonite
 
-#org @NAME_MEWTWO
+#org @NAME_SMOKYPROGG
 Mewtwo
 
-#org @NAME_MEW
+#org @NAME_MAMUTA
 Mew
 
-#org @NAME_CHIKORITA
+#org @NAME_MOSS
 Chikorita
 
-#org @NAME_BAYLEEF
+#org @NAME_TOYBORB
 Bayleef
 
-#org @NAME_MEGANIUM
+#org @NAME_BULBLORD
 Meganium
 
-#org @NAME_CYNDAQUIL
+#org @NAME_PINCHEPEDE
 Cyndaquil
 
 #org @NAME_QUILAVA
